@@ -1,0 +1,4001 @@
+customer_id,region,acquisition_channel,signup_date
+C00001,Hauts-de-France,Referral,2025-02-22
+C00002,Auvergne-Rhone-Alpes,Paid Social,2024-08-22
+C00003,Hauts-de-France,Direct,2024-01-17
+C00004,Nouvelle-Aquitaine,Organic Search,2025-01-12
+C00005,Ile-de-France,Paid Social,2025-02-03
+C00006,Grand Est,Organic Search,2024-04-26
+C00007,Hauts-de-France,Paid Social,2024-06-17
+C00008,Hauts-de-France,Organic Search,2024-01-11
+C00009,Ile-de-France,Organic Search,2024-12-02
+C00010,Auvergne-Rhone-Alpes,Email,2024-11-21
+C00011,Auvergne-Rhone-Alpes,Organic Search,2024-01-09
+C00012,Grand Est,Organic Search,2024-10-21
+C00013,Nouvelle-Aquitaine,Direct,2024-06-21
+C00014,Hauts-de-France,Organic Search,2024-08-17
+C00015,Auvergne-Rhone-Alpes,Email,2024-04-01
+C00016,Ile-de-France,Paid Social,2024-12-08
+C00017,Occitanie,Organic Search,2024-06-18
+C00018,Ile-de-France,Paid Social,2024-12-18
+C00019,Hauts-de-France,Organic Search,2024-03-03
+C00020,Nouvelle-Aquitaine,Referral,2024-09-03
+C00021,Nouvelle-Aquitaine,Organic Search,2024-05-10
+C00022,Auvergne-Rhone-Alpes,Organic Search,2025-02-09
+C00023,Grand Est,Paid Social,2024-08-21
+C00024,Grand Est,Direct,2024-10-29
+C00025,Hauts-de-France,Referral,2024-02-06
+C00026,Ile-de-France,Direct,2024-10-11
+C00027,Auvergne-Rhone-Alpes,Email,2024-02-12
+C00028,Ile-de-France,Email,2024-05-31
+C00029,Ile-de-France,Paid Social,2024-04-03
+C00030,Nouvelle-Aquitaine,Direct,2024-01-01
+C00031,Nouvelle-Aquitaine,Paid Social,2024-09-03
+C00032,Grand Est,Paid Social,2024-04-11
+C00033,Auvergne-Rhone-Alpes,Email,2024-08-03
+C00034,Auvergne-Rhone-Alpes,Paid Social,2024-11-16
+C00035,Auvergne-Rhone-Alpes,Organic Search,2024-03-15
+C00036,Ile-de-France,Paid Social,2024-10-25
+C00037,Ile-de-France,Paid Social,2024-05-04
+C00038,Auvergne-Rhone-Alpes,Direct,2024-05-19
+C00039,Ile-de-France,Paid Social,2024-08-30
+C00040,Nouvelle-Aquitaine,Direct,2024-09-19
+C00041,Auvergne-Rhone-Alpes,Paid Social,2024-10-02
+C00042,Hauts-de-France,Referral,2024-03-23
+C00043,Nouvelle-Aquitaine,Organic Search,2024-08-31
+C00044,Ile-de-France,Direct,2024-04-20
+C00045,Hauts-de-France,Paid Social,2024-04-26
+C00046,Hauts-de-France,Organic Search,2025-02-01
+C00047,Auvergne-Rhone-Alpes,Organic Search,2024-02-12
+C00048,Ile-de-France,Organic Search,2024-06-22
+C00049,Nouvelle-Aquitaine,Paid Social,2024-07-03
+C00050,Ile-de-France,Referral,2024-04-12
+C00051,Ile-de-France,Direct,2024-11-25
+C00052,Ile-de-France,Email,2024-07-23
+C00053,Hauts-de-France,Paid Social,2024-10-29
+C00054,Nouvelle-Aquitaine,Paid Social,2024-06-11
+C00055,Nouvelle-Aquitaine,Direct,2025-01-11
+C00056,Hauts-de-France,Direct,2024-11-02
+C00057,Auvergne-Rhone-Alpes,Organic Search,2024-05-19
+C00058,Occitanie,Direct,2025-02-08
+C00059,Ile-de-France,Paid Social,2024-12-29
+C00060,Ile-de-France,Direct,2024-09-05
+C00061,Nouvelle-Aquitaine,Direct,2024-01-07
+C00062,Auvergne-Rhone-Alpes,Referral,2024-09-05
+C00063,Occitanie,Organic Search,2024-10-17
+C00064,Hauts-de-France,Email,2024-06-02
+C00065,Nouvelle-Aquitaine,Organic Search,2024-03-01
+C00066,Occitanie,Referral,2024-08-25
+C00067,Occitanie,Organic Search,2024-12-02
+C00068,Ile-de-France,Email,2024-05-14
+C00069,Ile-de-France,Direct,2024-07-10
+C00070,Auvergne-Rhone-Alpes,Organic Search,2024-01-01
+C00071,Ile-de-France,Paid Social,2024-10-22
+C00072,Auvergne-Rhone-Alpes,Email,2024-12-29
+C00073,Hauts-de-France,Paid Social,2024-11-22
+C00074,Ile-de-France,Organic Search,2024-06-29
+C00075,Ile-de-France,Organic Search,2024-01-19
+C00076,Ile-de-France,Paid Social,2024-07-25
+C00077,Ile-de-France,Email,2025-01-29
+C00078,Nouvelle-Aquitaine,Email,2024-02-05
+C00079,Occitanie,Organic Search,2024-03-30
+C00080,Hauts-de-France,Paid Social,2024-12-17
+C00081,Nouvelle-Aquitaine,Paid Social,2024-08-26
+C00082,Auvergne-Rhone-Alpes,Organic Search,2024-03-12
+C00083,Hauts-de-France,Referral,2024-01-11
+C00084,Ile-de-France,Paid Social,2024-06-21
+C00085,Ile-de-France,Paid Social,2024-09-06
+C00086,Ile-de-France,Direct,2024-12-18
+C00087,Nouvelle-Aquitaine,Paid Social,2025-01-06
+C00088,Auvergne-Rhone-Alpes,Email,2024-07-11
+C00089,Ile-de-France,Organic Search,2024-06-26
+C00090,Occitanie,Organic Search,2025-01-26
+C00091,Ile-de-France,Organic Search,2024-11-22
+C00092,Nouvelle-Aquitaine,Referral,2024-03-28
+C00093,Auvergne-Rhone-Alpes,Direct,2024-10-13
+C00094,Auvergne-Rhone-Alpes,Organic Search,2024-10-27
+C00095,Ile-de-France,Organic Search,2024-04-08
+C00096,Nouvelle-Aquitaine,Paid Social,2025-02-14
+C00097,Auvergne-Rhone-Alpes,Email,2024-05-04
+C00098,Ile-de-France,Email,2024-08-18
+C00099,Ile-de-France,Email,2024-07-26
+C00100,Grand Est,Direct,2024-10-17
+C00101,Grand Est,Organic Search,2025-01-13
+C00102,Nouvelle-Aquitaine,Email,2024-06-14
+C00103,Ile-de-France,Email,2024-06-10
+C00104,Grand Est,Paid Social,2024-11-11
+C00105,Hauts-de-France,Direct,2025-02-03
+C00106,Nouvelle-Aquitaine,Organic Search,2025-01-16
+C00107,Auvergne-Rhone-Alpes,Referral,2024-11-12
+C00108,Ile-de-France,Referral,2024-10-22
+C00109,Ile-de-France,Direct,2024-11-18
+C00110,Grand Est,Paid Social,2025-01-28
+C00111,Auvergne-Rhone-Alpes,Paid Social,2024-01-05
+C00112,Ile-de-France,Direct,2024-09-04
+C00113,Ile-de-France,Referral,2024-01-15
+C00114,Occitanie,Paid Social,2024-08-30
+C00115,Ile-de-France,Referral,2024-06-14
+C00116,Hauts-de-France,Organic Search,2024-05-07
+C00117,Nouvelle-Aquitaine,Email,2025-01-09
+C00118,Nouvelle-Aquitaine,Direct,2024-10-25
+C00119,Auvergne-Rhone-Alpes,Paid Social,2024-08-26
+C00120,Occitanie,Paid Social,2025-01-05
+C00121,Occitanie,Direct,2024-02-11
+C00122,Nouvelle-Aquitaine,Referral,2024-09-28
+C00123,Ile-de-France,Direct,2024-03-06
+C00124,Auvergne-Rhone-Alpes,Paid Social,2024-04-07
+C00125,Ile-de-France,Direct,2024-03-18
+C00126,Occitanie,Organic Search,2024-08-16
+C00127,Auvergne-Rhone-Alpes,Paid Social,2024-09-21
+C00128,Ile-de-France,Paid Social,2024-11-13
+C00129,Ile-de-France,Referral,2024-07-04
+C00130,Occitanie,Direct,2025-01-29
+C00131,Ile-de-France,Referral,2024-06-05
+C00132,Grand Est,Email,2024-03-06
+C00133,Occitanie,Paid Social,2024-01-16
+C00134,Auvergne-Rhone-Alpes,Paid Social,2024-02-23
+C00135,Occitanie,Paid Social,2024-07-05
+C00136,Ile-de-France,Organic Search,2024-06-22
+C00137,Grand Est,Paid Social,2024-12-24
+C00138,Auvergne-Rhone-Alpes,Direct,2024-02-22
+C00139,Hauts-de-France,Referral,2024-04-20
+C00140,Ile-de-France,Referral,2025-02-15
+C00141,Auvergne-Rhone-Alpes,Paid Social,2024-01-12
+C00142,Occitanie,Paid Social,2024-06-27
+C00143,Grand Est,Organic Search,2024-03-24
+C00144,Occitanie,Paid Social,2024-08-12
+C00145,Auvergne-Rhone-Alpes,Paid Social,2025-02-12
+C00146,Ile-de-France,Organic Search,2024-04-05
+C00147,Auvergne-Rhone-Alpes,Organic Search,2024-06-04
+C00148,Occitanie,Email,2024-07-07
+C00149,Auvergne-Rhone-Alpes,Paid Social,2024-12-01
+C00150,Ile-de-France,Paid Social,2025-02-17
+C00151,Hauts-de-France,Organic Search,2024-02-10
+C00152,Grand Est,Paid Social,2024-07-24
+C00153,Ile-de-France,Paid Social,2024-11-12
+C00154,Occitanie,Paid Social,2024-01-04
+C00155,Ile-de-France,Email,2024-12-04
+C00156,Nouvelle-Aquitaine,Organic Search,2024-04-11
+C00157,Ile-de-France,Direct,2024-08-05
+C00158,Nouvelle-Aquitaine,Organic Search,2025-02-14
+C00159,Nouvelle-Aquitaine,Paid Social,2024-09-23
+C00160,Hauts-de-France,Organic Search,2025-02-19
+C00161,Ile-de-France,Paid Social,2024-09-10
+C00162,Grand Est,Organic Search,2024-03-29
+C00163,Ile-de-France,Direct,2024-10-17
+C00164,Ile-de-France,Paid Social,2024-09-15
+C00165,Occitanie,Email,2024-05-10
+C00166,Auvergne-Rhone-Alpes,Organic Search,2024-02-02
+C00167,Hauts-de-France,Organic Search,2024-09-29
+C00168,Hauts-de-France,Paid Social,2024-08-30
+C00169,Ile-de-France,Paid Social,2024-11-20
+C00170,Grand Est,Paid Social,2024-02-22
+C00171,Ile-de-France,Direct,2024-08-14
+C00172,Occitanie,Referral,2024-12-09
+C00173,Ile-de-France,Direct,2025-01-09
+C00174,Grand Est,Organic Search,2025-01-29
+C00175,Ile-de-France,Referral,2024-03-30
+C00176,Ile-de-France,Email,2024-03-13
+C00177,Auvergne-Rhone-Alpes,Email,2024-08-29
+C00178,Grand Est,Direct,2024-07-13
+C00179,Grand Est,Email,2024-04-08
+C00180,Nouvelle-Aquitaine,Direct,2024-02-12
+C00181,Grand Est,Referral,2024-03-01
+C00182,Grand Est,Organic Search,2024-05-22
+C00183,Occitanie,Email,2024-11-06
+C00184,Ile-de-France,Paid Social,2024-01-28
+C00185,Hauts-de-France,Direct,2024-02-14
+C00186,Nouvelle-Aquitaine,Direct,2024-04-21
+C00187,Auvergne-Rhone-Alpes,Organic Search,2025-01-01
+C00188,Ile-de-France,Organic Search,2025-02-19
+C00189,Nouvelle-Aquitaine,Organic Search,2024-07-03
+C00190,Ile-de-France,Paid Social,2024-01-19
+C00191,Grand Est,Organic Search,2024-01-06
+C00192,Ile-de-France,Referral,2024-12-26
+C00193,Ile-de-France,Email,2024-07-05
+C00194,Hauts-de-France,Direct,2024-02-02
+C00195,Ile-de-France,Organic Search,2024-12-16
+C00196,Ile-de-France,Paid Social,2024-08-10
+C00197,Occitanie,Organic Search,2024-05-26
+C00198,Hauts-de-France,Direct,2024-07-08
+C00199,Ile-de-France,Organic Search,2024-04-04
+C00200,Ile-de-France,Organic Search,2025-01-26
+C00201,Hauts-de-France,Organic Search,2024-11-26
+C00202,Grand Est,Direct,2024-03-24
+C00203,Occitanie,Organic Search,2024-11-04
+C00204,Ile-de-France,Email,2024-03-16
+C00205,Ile-de-France,Referral,2024-07-09
+C00206,Ile-de-France,Referral,2024-11-10
+C00207,Ile-de-France,Organic Search,2024-01-16
+C00208,Nouvelle-Aquitaine,Organic Search,2024-10-31
+C00209,Ile-de-France,Paid Social,2024-04-04
+C00210,Occitanie,Organic Search,2024-10-20
+C00211,Nouvelle-Aquitaine,Email,2024-07-28
+C00212,Occitanie,Paid Social,2024-01-11
+C00213,Ile-de-France,Paid Social,2024-11-15
+C00214,Hauts-de-France,Organic Search,2024-04-19
+C00215,Nouvelle-Aquitaine,Email,2025-02-03
+C00216,Nouvelle-Aquitaine,Organic Search,2024-12-18
+C00217,Ile-de-France,Email,2024-03-21
+C00218,Ile-de-France,Organic Search,2024-09-09
+C00219,Grand Est,Direct,2024-06-01
+C00220,Auvergne-Rhone-Alpes,Email,2024-09-09
+C00221,Ile-de-France,Organic Search,2024-08-21
+C00222,Auvergne-Rhone-Alpes,Organic Search,2024-05-04
+C00223,Nouvelle-Aquitaine,Paid Social,2024-09-30
+C00224,Grand Est,Organic Search,2024-04-19
+C00225,Ile-de-France,Organic Search,2025-01-16
+C00226,Grand Est,Direct,2025-02-01
+C00227,Ile-de-France,Email,2024-03-10
+C00228,Occitanie,Organic Search,2024-11-01
+C00229,Nouvelle-Aquitaine,Email,2025-01-25
+C00230,Ile-de-France,Organic Search,2024-02-23
+C00231,Ile-de-France,Direct,2024-11-06
+C00232,Auvergne-Rhone-Alpes,Organic Search,2025-01-28
+C00233,Grand Est,Referral,2024-04-04
+C00234,Occitanie,Referral,2024-09-01
+C00235,Grand Est,Organic Search,2024-12-01
+C00236,Hauts-de-France,Organic Search,2024-05-20
+C00237,Auvergne-Rhone-Alpes,Paid Social,2024-04-09
+C00238,Hauts-de-France,Direct,2024-06-15
+C00239,Ile-de-France,Paid Social,2024-05-20
+C00240,Ile-de-France,Email,2024-10-31
+C00241,Hauts-de-France,Referral,2024-06-04
+C00242,Hauts-de-France,Direct,2024-06-07
+C00243,Ile-de-France,Paid Social,2025-01-31
+C00244,Occitanie,Paid Social,2024-08-31
+C00245,Occitanie,Referral,2025-01-25
+C00246,Hauts-de-France,Organic Search,2024-10-25
+C00247,Occitanie,Direct,2025-01-06
+C00248,Auvergne-Rhone-Alpes,Organic Search,2024-03-23
+C00249,Auvergne-Rhone-Alpes,Organic Search,2025-01-29
+C00250,Auvergne-Rhone-Alpes,Direct,2025-01-31
+C00251,Nouvelle-Aquitaine,Paid Social,2024-01-18
+C00252,Hauts-de-France,Organic Search,2024-05-29
+C00253,Auvergne-Rhone-Alpes,Organic Search,2024-06-22
+C00254,Ile-de-France,Paid Social,2024-06-25
+C00255,Ile-de-France,Direct,2024-11-22
+C00256,Nouvelle-Aquitaine,Organic Search,2024-10-20
+C00257,Hauts-de-France,Organic Search,2024-03-30
+C00258,Ile-de-France,Paid Social,2024-09-12
+C00259,Ile-de-France,Direct,2025-02-13
+C00260,Occitanie,Organic Search,2024-07-03
+C00261,Ile-de-France,Direct,2025-01-24
+C00262,Hauts-de-France,Direct,2024-09-29
+C00263,Ile-de-France,Organic Search,2025-01-23
+C00264,Ile-de-France,Direct,2025-01-14
+C00265,Grand Est,Email,2024-01-08
+C00266,Ile-de-France,Paid Social,2024-12-02
+C00267,Ile-de-France,Paid Social,2024-03-20
+C00268,Ile-de-France,Direct,2024-12-12
+C00269,Ile-de-France,Referral,2024-12-05
+C00270,Ile-de-France,Referral,2024-04-18
+C00271,Ile-de-France,Direct,2024-01-28
+C00272,Ile-de-France,Paid Social,2024-06-25
+C00273,Ile-de-France,Direct,2024-05-07
+C00274,Occitanie,Direct,2024-08-20
+C00275,Nouvelle-Aquitaine,Organic Search,2024-02-04
+C00276,Auvergne-Rhone-Alpes,Organic Search,2024-01-19
+C00277,Ile-de-France,Paid Social,2024-07-02
+C00278,Occitanie,Direct,2024-11-19
+C00279,Hauts-de-France,Organic Search,2024-05-12
+C00280,Hauts-de-France,Referral,2024-05-15
+C00281,Ile-de-France,Organic Search,2024-03-09
+C00282,Ile-de-France,Paid Social,2024-04-28
+C00283,Ile-de-France,Email,2024-05-05
+C00284,Ile-de-France,Organic Search,2024-04-18
+C00285,Occitanie,Direct,2024-05-24
+C00286,Auvergne-Rhone-Alpes,Organic Search,2024-04-29
+C00287,Ile-de-France,Direct,2024-10-12
+C00288,Auvergne-Rhone-Alpes,Organic Search,2024-05-21
+C00289,Occitanie,Direct,2024-11-12
+C00290,Ile-de-France,Email,2024-09-11
+C00291,Hauts-de-France,Organic Search,2024-09-26
+C00292,Ile-de-France,Organic Search,2024-09-02
+C00293,Grand Est,Organic Search,2025-01-22
+C00294,Ile-de-France,Email,2024-04-17
+C00295,Hauts-de-France,Direct,2025-02-16
+C00296,Grand Est,Paid Social,2024-03-27
+C00297,Grand Est,Paid Social,2024-02-28
+C00298,Hauts-de-France,Email,2024-12-13
+C00299,Hauts-de-France,Paid Social,2025-01-11
+C00300,Nouvelle-Aquitaine,Email,2024-02-08
+C00301,Hauts-de-France,Paid Social,2024-09-08
+C00302,Ile-de-France,Referral,2024-08-03
+C00303,Occitanie,Direct,2024-04-02
+C00304,Occitanie,Paid Social,2024-08-06
+C00305,Hauts-de-France,Organic Search,2024-10-15
+C00306,Auvergne-Rhone-Alpes,Organic Search,2024-08-29
+C00307,Auvergne-Rhone-Alpes,Email,2024-08-06
+C00308,Nouvelle-Aquitaine,Paid Social,2025-01-06
+C00309,Ile-de-France,Direct,2024-04-04
+C00310,Ile-de-France,Email,2024-09-19
+C00311,Auvergne-Rhone-Alpes,Paid Social,2024-05-12
+C00312,Auvergne-Rhone-Alpes,Referral,2025-02-12
+C00313,Ile-de-France,Organic Search,2024-04-15
+C00314,Auvergne-Rhone-Alpes,Direct,2024-12-31
+C00315,Auvergne-Rhone-Alpes,Organic Search,2024-09-22
+C00316,Auvergne-Rhone-Alpes,Email,2024-03-31
+C00317,Auvergne-Rhone-Alpes,Direct,2024-11-14
+C00318,Nouvelle-Aquitaine,Referral,2024-04-11
+C00319,Ile-de-France,Direct,2024-04-20
+C00320,Grand Est,Paid Social,2024-05-24
+C00321,Grand Est,Direct,2024-10-13
+C00322,Auvergne-Rhone-Alpes,Email,2024-06-13
+C00323,Auvergne-Rhone-Alpes,Email,2024-08-27
+C00324,Occitanie,Organic Search,2024-08-20
+C00325,Hauts-de-France,Organic Search,2024-03-23
+C00326,Nouvelle-Aquitaine,Email,2024-04-07
+C00327,Hauts-de-France,Organic Search,2024-05-08
+C00328,Occitanie,Referral,2024-04-03
+C00329,Nouvelle-Aquitaine,Direct,2025-01-20
+C00330,Ile-de-France,Direct,2024-06-09
+C00331,Nouvelle-Aquitaine,Organic Search,2024-06-19
+C00332,Ile-de-France,Direct,2024-10-09
+C00333,Nouvelle-Aquitaine,Organic Search,2024-11-26
+C00334,Hauts-de-France,Paid Social,2024-10-16
+C00335,Ile-de-France,Direct,2024-08-19
+C00336,Occitanie,Organic Search,2025-02-13
+C00337,Ile-de-France,Organic Search,2025-01-12
+C00338,Nouvelle-Aquitaine,Organic Search,2024-03-26
+C00339,Ile-de-France,Paid Social,2024-03-08
+C00340,Grand Est,Direct,2024-06-14
+C00341,Ile-de-France,Organic Search,2024-12-16
+C00342,Grand Est,Organic Search,2025-02-09
+C00343,Hauts-de-France,Email,2024-10-22
+C00344,Occitanie,Organic Search,2024-10-16
+C00345,Hauts-de-France,Referral,2024-04-08
+C00346,Hauts-de-France,Direct,2024-09-05
+C00347,Grand Est,Referral,2024-03-18
+C00348,Ile-de-France,Direct,2024-08-14
+C00349,Occitanie,Paid Social,2024-03-22
+C00350,Ile-de-France,Direct,2024-02-01
+C00351,Occitanie,Organic Search,2025-02-10
+C00352,Ile-de-France,Organic Search,2025-01-10
+C00353,Occitanie,Email,2024-10-14
+C00354,Occitanie,Organic Search,2024-09-19
+C00355,Auvergne-Rhone-Alpes,Direct,2024-04-10
+C00356,Occitanie,Email,2024-08-28
+C00357,Hauts-de-France,Direct,2024-11-10
+C00358,Hauts-de-France,Paid Social,2024-08-14
+C00359,Occitanie,Paid Social,2024-04-28
+C00360,Occitanie,Referral,2024-06-13
+C00361,Grand Est,Organic Search,2024-12-19
+C00362,Ile-de-France,Paid Social,2024-04-16
+C00363,Ile-de-France,Email,2025-02-07
+C00364,Ile-de-France,Direct,2024-11-13
+C00365,Nouvelle-Aquitaine,Referral,2025-01-08
+C00366,Auvergne-Rhone-Alpes,Organic Search,2024-08-02
+C00367,Hauts-de-France,Paid Social,2024-04-03
+C00368,Nouvelle-Aquitaine,Email,2024-01-15
+C00369,Auvergne-Rhone-Alpes,Organic Search,2024-08-12
+C00370,Grand Est,Paid Social,2024-06-16
+C00371,Hauts-de-France,Organic Search,2024-02-17
+C00372,Ile-de-France,Organic Search,2025-01-25
+C00373,Auvergne-Rhone-Alpes,Paid Social,2025-02-11
+C00374,Ile-de-France,Organic Search,2024-06-06
+C00375,Ile-de-France,Email,2024-10-07
+C00376,Ile-de-France,Organic Search,2024-06-22
+C00377,Grand Est,Referral,2024-07-27
+C00378,Auvergne-Rhone-Alpes,Organic Search,2024-09-19
+C00379,Auvergne-Rhone-Alpes,Direct,2024-06-23
+C00380,Nouvelle-Aquitaine,Organic Search,2024-12-02
+C00381,Occitanie,Paid Social,2024-03-20
+C00382,Grand Est,Paid Social,2024-10-07
+C00383,Hauts-de-France,Organic Search,2025-02-16
+C00384,Auvergne-Rhone-Alpes,Paid Social,2024-12-23
+C00385,Auvergne-Rhone-Alpes,Direct,2024-01-20
+C00386,Grand Est,Direct,2024-02-17
+C00387,Nouvelle-Aquitaine,Paid Social,2024-09-21
+C00388,Grand Est,Organic Search,2025-01-23
+C00389,Ile-de-France,Referral,2024-12-20
+C00390,Hauts-de-France,Email,2025-01-14
+C00391,Nouvelle-Aquitaine,Organic Search,2024-03-03
+C00392,Ile-de-France,Referral,2024-08-06
+C00393,Occitanie,Paid Social,2024-10-31
+C00394,Nouvelle-Aquitaine,Email,2024-09-19
+C00395,Ile-de-France,Paid Social,2024-11-22
+C00396,Auvergne-Rhone-Alpes,Paid Social,2024-03-30
+C00397,Hauts-de-France,Organic Search,2024-07-10
+C00398,Ile-de-France,Referral,2024-07-07
+C00399,Auvergne-Rhone-Alpes,Organic Search,2025-01-29
+C00400,Auvergne-Rhone-Alpes,Referral,2024-03-26
+C00401,Ile-de-France,Referral,2024-05-17
+C00402,Grand Est,Referral,2024-01-10
+C00403,Hauts-de-France,Organic Search,2024-03-04
+C00404,Ile-de-France,Organic Search,2025-02-15
+C00405,Grand Est,Paid Social,2024-12-22
+C00406,Hauts-de-France,Email,2024-04-18
+C00407,Ile-de-France,Direct,2024-10-21
+C00408,Hauts-de-France,Paid Social,2024-09-06
+C00409,Ile-de-France,Direct,2025-01-15
+C00410,Grand Est,Organic Search,2024-05-06
+C00411,Nouvelle-Aquitaine,Paid Social,2025-02-21
+C00412,Nouvelle-Aquitaine,Organic Search,2024-06-04
+C00413,Ile-de-France,Referral,2024-10-28
+C00414,Grand Est,Organic Search,2024-06-16
+C00415,Ile-de-France,Organic Search,2024-10-09
+C00416,Ile-de-France,Referral,2024-05-20
+C00417,Ile-de-France,Paid Social,2024-12-20
+C00418,Hauts-de-France,Organic Search,2024-09-24
+C00419,Ile-de-France,Organic Search,2024-05-01
+C00420,Grand Est,Paid Social,2025-02-07
+C00421,Nouvelle-Aquitaine,Paid Social,2024-10-24
+C00422,Ile-de-France,Organic Search,2024-06-29
+C00423,Ile-de-France,Email,2024-02-27
+C00424,Ile-de-France,Organic Search,2025-02-12
+C00425,Occitanie,Email,2024-11-13
+C00426,Hauts-de-France,Paid Social,2024-10-07
+C00427,Ile-de-France,Organic Search,2024-12-15
+C00428,Hauts-de-France,Organic Search,2024-09-11
+C00429,Ile-de-France,Organic Search,2024-04-07
+C00430,Hauts-de-France,Organic Search,2024-04-09
+C00431,Grand Est,Paid Social,2024-02-03
+C00432,Hauts-de-France,Direct,2024-01-27
+C00433,Nouvelle-Aquitaine,Direct,2024-11-02
+C00434,Hauts-de-France,Paid Social,2024-12-23
+C00435,Ile-de-France,Email,2024-03-09
+C00436,Ile-de-France,Email,2024-08-29
+C00437,Ile-de-France,Direct,2024-02-22
+C00438,Occitanie,Organic Search,2024-06-23
+C00439,Nouvelle-Aquitaine,Organic Search,2024-11-28
+C00440,Nouvelle-Aquitaine,Paid Social,2024-12-07
+C00441,Hauts-de-France,Organic Search,2025-02-02
+C00442,Ile-de-France,Paid Social,2024-05-10
+C00443,Nouvelle-Aquitaine,Direct,2025-02-02
+C00444,Ile-de-France,Direct,2024-11-25
+C00445,Ile-de-France,Organic Search,2024-05-22
+C00446,Nouvelle-Aquitaine,Paid Social,2024-05-17
+C00447,Grand Est,Paid Social,2024-02-15
+C00448,Occitanie,Paid Social,2025-01-21
+C00449,Ile-de-France,Email,2024-03-26
+C00450,Occitanie,Organic Search,2024-04-22
+C00451,Ile-de-France,Direct,2024-06-22
+C00452,Grand Est,Direct,2024-02-27
+C00453,Nouvelle-Aquitaine,Email,2024-12-04
+C00454,Ile-de-France,Email,2024-10-20
+C00455,Ile-de-France,Paid Social,2024-03-06
+C00456,Ile-de-France,Paid Social,2024-03-09
+C00457,Grand Est,Organic Search,2024-01-10
+C00458,Auvergne-Rhone-Alpes,Email,2025-02-02
+C00459,Hauts-de-France,Organic Search,2024-07-02
+C00460,Nouvelle-Aquitaine,Direct,2024-10-02
+C00461,Occitanie,Paid Social,2024-03-03
+C00462,Ile-de-France,Paid Social,2024-04-06
+C00463,Grand Est,Paid Social,2024-08-15
+C00464,Ile-de-France,Direct,2024-03-28
+C00465,Occitanie,Organic Search,2024-09-14
+C00466,Nouvelle-Aquitaine,Organic Search,2025-01-23
+C00467,Nouvelle-Aquitaine,Organic Search,2024-05-08
+C00468,Grand Est,Email,2024-09-12
+C00469,Ile-de-France,Direct,2025-01-19
+C00470,Occitanie,Organic Search,2025-01-10
+C00471,Auvergne-Rhone-Alpes,Direct,2024-01-04
+C00472,Auvergne-Rhone-Alpes,Organic Search,2024-02-16
+C00473,Ile-de-France,Email,2025-02-18
+C00474,Ile-de-France,Organic Search,2025-01-23
+C00475,Ile-de-France,Paid Social,2024-05-15
+C00476,Ile-de-France,Email,2024-08-06
+C00477,Auvergne-Rhone-Alpes,Paid Social,2024-08-28
+C00478,Occitanie,Organic Search,2024-10-07
+C00479,Nouvelle-Aquitaine,Direct,2024-11-11
+C00480,Auvergne-Rhone-Alpes,Direct,2024-06-05
+C00481,Auvergne-Rhone-Alpes,Paid Social,2025-01-08
+C00482,Ile-de-France,Email,2024-01-25
+C00483,Occitanie,Referral,2024-01-14
+C00484,Ile-de-France,Organic Search,2025-02-06
+C00485,Ile-de-France,Direct,2024-03-15
+C00486,Auvergne-Rhone-Alpes,Organic Search,2025-02-21
+C00487,Auvergne-Rhone-Alpes,Referral,2024-04-30
+C00488,Ile-de-France,Organic Search,2024-06-02
+C00489,Occitanie,Organic Search,2024-01-12
+C00490,Occitanie,Paid Social,2025-01-31
+C00491,Nouvelle-Aquitaine,Paid Social,2024-05-30
+C00492,Nouvelle-Aquitaine,Direct,2024-03-11
+C00493,Nouvelle-Aquitaine,Direct,2024-07-22
+C00494,Ile-de-France,Organic Search,2024-03-05
+C00495,Hauts-de-France,Organic Search,2024-11-27
+C00496,Occitanie,Paid Social,2024-01-31
+C00497,Auvergne-Rhone-Alpes,Paid Social,2024-07-28
+C00498,Occitanie,Paid Social,2024-06-13
+C00499,Auvergne-Rhone-Alpes,Direct,2024-01-16
+C00500,Occitanie,Referral,2024-01-22
+C00501,Nouvelle-Aquitaine,Organic Search,2024-08-05
+C00502,Grand Est,Paid Social,2024-06-14
+C00503,Grand Est,Email,2024-02-24
+C00504,Occitanie,Paid Social,2024-02-28
+C00505,Occitanie,Organic Search,2024-12-04
+C00506,Hauts-de-France,Paid Social,2024-11-02
+C00507,Ile-de-France,Paid Social,2024-09-12
+C00508,Hauts-de-France,Organic Search,2024-12-16
+C00509,Occitanie,Referral,2024-01-30
+C00510,Ile-de-France,Paid Social,2024-10-15
+C00511,Ile-de-France,Email,2024-11-12
+C00512,Hauts-de-France,Paid Social,2024-03-25
+C00513,Ile-de-France,Direct,2024-08-13
+C00514,Ile-de-France,Organic Search,2024-11-18
+C00515,Auvergne-Rhone-Alpes,Organic Search,2024-09-10
+C00516,Ile-de-France,Paid Social,2024-04-14
+C00517,Ile-de-France,Paid Social,2024-10-06
+C00518,Nouvelle-Aquitaine,Organic Search,2024-11-14
+C00519,Ile-de-France,Referral,2024-01-05
+C00520,Hauts-de-France,Organic Search,2024-08-26
+C00521,Hauts-de-France,Organic Search,2024-07-30
+C00522,Auvergne-Rhone-Alpes,Paid Social,2024-06-03
+C00523,Ile-de-France,Referral,2024-01-19
+C00524,Occitanie,Direct,2024-02-05
+C00525,Ile-de-France,Referral,2024-11-11
+C00526,Auvergne-Rhone-Alpes,Email,2024-12-13
+C00527,Grand Est,Referral,2024-06-25
+C00528,Grand Est,Email,2025-01-29
+C00529,Hauts-de-France,Organic Search,2025-01-24
+C00530,Ile-de-France,Email,2024-10-06
+C00531,Nouvelle-Aquitaine,Referral,2024-08-31
+C00532,Nouvelle-Aquitaine,Paid Social,2025-02-09
+C00533,Auvergne-Rhone-Alpes,Email,2024-09-13
+C00534,Nouvelle-Aquitaine,Paid Social,2025-01-27
+C00535,Ile-de-France,Paid Social,2025-02-15
+C00536,Ile-de-France,Organic Search,2024-03-22
+C00537,Occitanie,Email,2024-10-04
+C00538,Ile-de-France,Direct,2024-11-03
+C00539,Ile-de-France,Organic Search,2024-12-10
+C00540,Hauts-de-France,Paid Social,2024-05-26
+C00541,Grand Est,Organic Search,2024-12-27
+C00542,Occitanie,Organic Search,2024-07-23
+C00543,Hauts-de-France,Direct,2024-06-11
+C00544,Grand Est,Paid Social,2024-03-06
+C00545,Ile-de-France,Paid Social,2024-05-14
+C00546,Auvergne-Rhone-Alpes,Organic Search,2025-02-13
+C00547,Auvergne-Rhone-Alpes,Direct,2024-10-27
+C00548,Ile-de-France,Organic Search,2024-10-31
+C00549,Nouvelle-Aquitaine,Referral,2025-01-11
+C00550,Auvergne-Rhone-Alpes,Organic Search,2024-04-22
+C00551,Auvergne-Rhone-Alpes,Organic Search,2024-10-04
+C00552,Ile-de-France,Email,2024-06-05
+C00553,Ile-de-France,Organic Search,2024-12-22
+C00554,Grand Est,Email,2024-06-26
+C00555,Ile-de-France,Organic Search,2024-12-25
+C00556,Ile-de-France,Referral,2024-11-09
+C00557,Ile-de-France,Referral,2024-11-20
+C00558,Occitanie,Referral,2025-01-23
+C00559,Occitanie,Organic Search,2024-11-28
+C00560,Occitanie,Referral,2024-05-15
+C00561,Ile-de-France,Direct,2024-08-07
+C00562,Ile-de-France,Organic Search,2024-07-17
+C00563,Hauts-de-France,Organic Search,2024-01-28
+C00564,Nouvelle-Aquitaine,Direct,2024-09-06
+C00565,Nouvelle-Aquitaine,Organic Search,2024-07-02
+C00566,Nouvelle-Aquitaine,Email,2024-06-14
+C00567,Hauts-de-France,Referral,2024-02-16
+C00568,Ile-de-France,Organic Search,2024-07-30
+C00569,Auvergne-Rhone-Alpes,Email,2024-08-31
+C00570,Occitanie,Email,2024-02-14
+C00571,Auvergne-Rhone-Alpes,Paid Social,2024-09-23
+C00572,Hauts-de-France,Direct,2024-03-11
+C00573,Auvergne-Rhone-Alpes,Organic Search,2024-03-01
+C00574,Hauts-de-France,Paid Social,2024-06-17
+C00575,Hauts-de-France,Direct,2024-06-12
+C00576,Occitanie,Organic Search,2025-01-19
+C00577,Grand Est,Direct,2024-01-29
+C00578,Occitanie,Organic Search,2024-05-26
+C00579,Hauts-de-France,Paid Social,2024-11-04
+C00580,Auvergne-Rhone-Alpes,Organic Search,2024-04-14
+C00581,Occitanie,Email,2025-02-16
+C00582,Occitanie,Referral,2024-11-08
+C00583,Ile-de-France,Direct,2025-02-01
+C00584,Auvergne-Rhone-Alpes,Direct,2025-02-02
+C00585,Grand Est,Email,2024-02-15
+C00586,Nouvelle-Aquitaine,Referral,2024-07-11
+C00587,Ile-de-France,Paid Social,2024-11-08
+C00588,Auvergne-Rhone-Alpes,Direct,2024-01-04
+C00589,Ile-de-France,Email,2024-07-08
+C00590,Ile-de-France,Direct,2024-10-16
+C00591,Grand Est,Organic Search,2024-11-29
+C00592,Auvergne-Rhone-Alpes,Paid Social,2024-06-23
+C00593,Ile-de-France,Referral,2024-12-28
+C00594,Occitanie,Organic Search,2024-10-09
+C00595,Ile-de-France,Organic Search,2024-01-20
+C00596,Ile-de-France,Direct,2024-04-26
+C00597,Nouvelle-Aquitaine,Paid Social,2025-01-28
+C00598,Nouvelle-Aquitaine,Organic Search,2024-01-02
+C00599,Grand Est,Paid Social,2024-02-15
+C00600,Occitanie,Paid Social,2024-05-24
+C00601,Auvergne-Rhone-Alpes,Email,2025-02-21
+C00602,Hauts-de-France,Direct,2024-10-23
+C00603,Grand Est,Direct,2024-03-03
+C00604,Nouvelle-Aquitaine,Email,2024-06-14
+C00605,Grand Est,Email,2025-01-29
+C00606,Hauts-de-France,Paid Social,2024-04-02
+C00607,Hauts-de-France,Direct,2024-08-29
+C00608,Ile-de-France,Organic Search,2024-07-13
+C00609,Nouvelle-Aquitaine,Organic Search,2024-11-15
+C00610,Auvergne-Rhone-Alpes,Direct,2024-11-11
+C00611,Occitanie,Direct,2024-12-15
+C00612,Nouvelle-Aquitaine,Paid Social,2024-02-20
+C00613,Grand Est,Email,2024-07-09
+C00614,Grand Est,Paid Social,2024-10-17
+C00615,Ile-de-France,Paid Social,2024-06-24
+C00616,Nouvelle-Aquitaine,Organic Search,2024-10-07
+C00617,Nouvelle-Aquitaine,Organic Search,2024-09-24
+C00618,Auvergne-Rhone-Alpes,Paid Social,2024-06-04
+C00619,Ile-de-France,Paid Social,2024-02-12
+C00620,Ile-de-France,Paid Social,2025-02-11
+C00621,Hauts-de-France,Organic Search,2024-12-12
+C00622,Auvergne-Rhone-Alpes,Direct,2025-01-10
+C00623,Grand Est,Email,2024-05-05
+C00624,Auvergne-Rhone-Alpes,Direct,2024-05-12
+C00625,Grand Est,Organic Search,2024-05-15
+C00626,Auvergne-Rhone-Alpes,Email,2024-01-14
+C00627,Hauts-de-France,Direct,2024-03-12
+C00628,Ile-de-France,Paid Social,2024-05-09
+C00629,Occitanie,Organic Search,2025-02-18
+C00630,Hauts-de-France,Organic Search,2024-03-26
+C00631,Grand Est,Organic Search,2024-08-01
+C00632,Hauts-de-France,Paid Social,2024-08-17
+C00633,Ile-de-France,Paid Social,2024-05-31
+C00634,Auvergne-Rhone-Alpes,Organic Search,2025-01-20
+C00635,Ile-de-France,Email,2024-02-09
+C00636,Ile-de-France,Organic Search,2024-12-31
+C00637,Nouvelle-Aquitaine,Paid Social,2024-11-08
+C00638,Nouvelle-Aquitaine,Email,2024-05-08
+C00639,Hauts-de-France,Organic Search,2024-11-18
+C00640,Hauts-de-France,Organic Search,2024-06-29
+C00641,Nouvelle-Aquitaine,Organic Search,2025-02-11
+C00642,Hauts-de-France,Organic Search,2024-01-16
+C00643,Ile-de-France,Paid Social,2024-01-13
+C00644,Ile-de-France,Organic Search,2024-08-16
+C00645,Occitanie,Organic Search,2025-01-26
+C00646,Hauts-de-France,Direct,2024-01-27
+C00647,Ile-de-France,Direct,2024-11-22
+C00648,Occitanie,Organic Search,2025-01-29
+C00649,Nouvelle-Aquitaine,Paid Social,2024-07-23
+C00650,Ile-de-France,Paid Social,2024-12-30
+C00651,Auvergne-Rhone-Alpes,Direct,2024-11-13
+C00652,Grand Est,Direct,2024-03-30
+C00653,Nouvelle-Aquitaine,Organic Search,2024-12-24
+C00654,Ile-de-France,Organic Search,2024-10-20
+C00655,Hauts-de-France,Paid Social,2024-01-06
+C00656,Auvergne-Rhone-Alpes,Direct,2024-08-26
+C00657,Hauts-de-France,Direct,2024-10-01
+C00658,Ile-de-France,Organic Search,2024-12-02
+C00659,Occitanie,Email,2024-11-19
+C00660,Auvergne-Rhone-Alpes,Organic Search,2024-07-18
+C00661,Ile-de-France,Email,2024-05-05
+C00662,Grand Est,Direct,2024-03-21
+C00663,Ile-de-France,Paid Social,2024-02-07
+C00664,Ile-de-France,Organic Search,2024-09-25
+C00665,Auvergne-Rhone-Alpes,Email,2025-02-07
+C00666,Nouvelle-Aquitaine,Paid Social,2024-02-03
+C00667,Hauts-de-France,Direct,2024-10-22
+C00668,Grand Est,Paid Social,2024-09-02
+C00669,Ile-de-France,Direct,2024-03-13
+C00670,Auvergne-Rhone-Alpes,Organic Search,2024-03-30
+C00671,Ile-de-France,Organic Search,2024-04-29
+C00672,Occitanie,Paid Social,2024-10-14
+C00673,Grand Est,Organic Search,2024-05-05
+C00674,Nouvelle-Aquitaine,Organic Search,2024-12-13
+C00675,Occitanie,Email,2024-06-04
+C00676,Auvergne-Rhone-Alpes,Organic Search,2024-02-16
+C00677,Grand Est,Organic Search,2024-02-10
+C00678,Occitanie,Organic Search,2024-06-17
+C00679,Ile-de-France,Organic Search,2024-06-20
+C00680,Auvergne-Rhone-Alpes,Direct,2024-11-04
+C00681,Ile-de-France,Direct,2024-07-20
+C00682,Ile-de-France,Organic Search,2024-03-09
+C00683,Ile-de-France,Referral,2024-03-30
+C00684,Auvergne-Rhone-Alpes,Referral,2024-08-25
+C00685,Nouvelle-Aquitaine,Direct,2024-05-20
+C00686,Auvergne-Rhone-Alpes,Paid Social,2024-10-09
+C00687,Auvergne-Rhone-Alpes,Organic Search,2025-01-22
+C00688,Grand Est,Paid Social,2024-05-29
+C00689,Nouvelle-Aquitaine,Direct,2024-08-19
+C00690,Occitanie,Referral,2024-12-15
+C00691,Ile-de-France,Paid Social,2024-03-29
+C00692,Grand Est,Organic Search,2024-08-02
+C00693,Ile-de-France,Referral,2024-05-08
+C00694,Auvergne-Rhone-Alpes,Direct,2024-09-20
+C00695,Grand Est,Paid Social,2024-11-08
+C00696,Occitanie,Email,2024-02-29
+C00697,Nouvelle-Aquitaine,Paid Social,2024-03-19
+C00698,Occitanie,Paid Social,2024-01-10
+C00699,Nouvelle-Aquitaine,Paid Social,2024-01-06
+C00700,Ile-de-France,Referral,2024-01-22
+C00701,Ile-de-France,Direct,2024-10-23
+C00702,Auvergne-Rhone-Alpes,Paid Social,2025-01-14
+C00703,Ile-de-France,Paid Social,2024-06-21
+C00704,Hauts-de-France,Paid Social,2025-01-05
+C00705,Ile-de-France,Organic Search,2024-11-02
+C00706,Occitanie,Organic Search,2024-12-05
+C00707,Hauts-de-France,Organic Search,2024-11-06
+C00708,Hauts-de-France,Paid Social,2024-03-24
+C00709,Auvergne-Rhone-Alpes,Organic Search,2024-08-07
+C00710,Auvergne-Rhone-Alpes,Paid Social,2024-08-08
+C00711,Grand Est,Referral,2024-09-26
+C00712,Nouvelle-Aquitaine,Organic Search,2024-11-30
+C00713,Hauts-de-France,Email,2024-02-17
+C00714,Grand Est,Direct,2024-10-10
+C00715,Hauts-de-France,Email,2024-12-15
+C00716,Ile-de-France,Organic Search,2024-02-18
+C00717,Occitanie,Paid Social,2024-06-23
+C00718,Ile-de-France,Email,2025-01-11
+C00719,Nouvelle-Aquitaine,Paid Social,2024-01-11
+C00720,Grand Est,Organic Search,2024-03-08
+C00721,Occitanie,Paid Social,2024-12-03
+C00722,Auvergne-Rhone-Alpes,Paid Social,2024-03-13
+C00723,Ile-de-France,Organic Search,2024-10-21
+C00724,Grand Est,Email,2025-01-13
+C00725,Ile-de-France,Organic Search,2024-07-28
+C00726,Ile-de-France,Paid Social,2024-07-22
+C00727,Ile-de-France,Direct,2024-06-29
+C00728,Ile-de-France,Organic Search,2024-06-05
+C00729,Auvergne-Rhone-Alpes,Email,2024-06-08
+C00730,Occitanie,Paid Social,2024-08-20
+C00731,Ile-de-France,Paid Social,2025-01-11
+C00732,Ile-de-France,Direct,2025-02-16
+C00733,Ile-de-France,Paid Social,2024-12-29
+C00734,Auvergne-Rhone-Alpes,Organic Search,2024-02-20
+C00735,Ile-de-France,Direct,2024-05-08
+C00736,Nouvelle-Aquitaine,Referral,2024-11-13
+C00737,Ile-de-France,Email,2024-08-17
+C00738,Ile-de-France,Organic Search,2024-05-20
+C00739,Auvergne-Rhone-Alpes,Organic Search,2024-05-10
+C00740,Auvergne-Rhone-Alpes,Email,2024-02-19
+C00741,Ile-de-France,Organic Search,2024-05-19
+C00742,Ile-de-France,Organic Search,2024-06-26
+C00743,Hauts-de-France,Referral,2024-06-23
+C00744,Ile-de-France,Organic Search,2024-08-18
+C00745,Occitanie,Organic Search,2024-04-24
+C00746,Auvergne-Rhone-Alpes,Organic Search,2024-03-27
+C00747,Auvergne-Rhone-Alpes,Paid Social,2025-01-07
+C00748,Auvergne-Rhone-Alpes,Email,2024-06-19
+C00749,Hauts-de-France,Direct,2024-04-16
+C00750,Hauts-de-France,Organic Search,2024-09-23
+C00751,Ile-de-France,Organic Search,2024-08-15
+C00752,Auvergne-Rhone-Alpes,Paid Social,2024-08-30
+C00753,Ile-de-France,Paid Social,2024-04-03
+C00754,Auvergne-Rhone-Alpes,Paid Social,2024-10-30
+C00755,Nouvelle-Aquitaine,Direct,2024-03-21
+C00756,Ile-de-France,Paid Social,2024-12-17
+C00757,Auvergne-Rhone-Alpes,Paid Social,2024-06-27
+C00758,Grand Est,Direct,2024-06-20
+C00759,Ile-de-France,Organic Search,2024-06-12
+C00760,Auvergne-Rhone-Alpes,Direct,2024-06-26
+C00761,Nouvelle-Aquitaine,Paid Social,2024-10-06
+C00762,Ile-de-France,Paid Social,2024-07-27
+C00763,Ile-de-France,Direct,2024-02-23
+C00764,Ile-de-France,Paid Social,2024-08-25
+C00765,Grand Est,Paid Social,2024-04-22
+C00766,Ile-de-France,Organic Search,2024-02-15
+C00767,Ile-de-France,Email,2024-12-18
+C00768,Ile-de-France,Email,2024-05-11
+C00769,Ile-de-France,Organic Search,2024-09-06
+C00770,Occitanie,Referral,2024-03-13
+C00771,Ile-de-France,Email,2024-05-22
+C00772,Occitanie,Paid Social,2024-06-11
+C00773,Occitanie,Organic Search,2024-02-26
+C00774,Hauts-de-France,Paid Social,2025-02-12
+C00775,Ile-de-France,Organic Search,2024-05-10
+C00776,Hauts-de-France,Organic Search,2024-09-01
+C00777,Occitanie,Paid Social,2024-08-25
+C00778,Ile-de-France,Organic Search,2024-06-29
+C00779,Hauts-de-France,Organic Search,2024-09-02
+C00780,Hauts-de-France,Email,2024-08-25
+C00781,Ile-de-France,Paid Social,2024-02-03
+C00782,Grand Est,Direct,2024-10-08
+C00783,Auvergne-Rhone-Alpes,Direct,2024-02-17
+C00784,Occitanie,Email,2024-07-01
+C00785,Grand Est,Direct,2024-06-02
+C00786,Auvergne-Rhone-Alpes,Direct,2024-07-07
+C00787,Hauts-de-France,Paid Social,2024-01-31
+C00788,Ile-de-France,Referral,2024-10-21
+C00789,Hauts-de-France,Organic Search,2024-06-24
+C00790,Occitanie,Email,2024-01-26
+C00791,Ile-de-France,Paid Social,2024-01-02
+C00792,Auvergne-Rhone-Alpes,Organic Search,2024-08-14
+C00793,Ile-de-France,Organic Search,2024-10-06
+C00794,Ile-de-France,Direct,2024-08-17
+C00795,Ile-de-France,Paid Social,2024-10-29
+C00796,Auvergne-Rhone-Alpes,Organic Search,2024-11-13
+C00797,Ile-de-France,Organic Search,2025-01-01
+C00798,Ile-de-France,Paid Social,2025-02-16
+C00799,Nouvelle-Aquitaine,Direct,2025-01-06
+C00800,Nouvelle-Aquitaine,Referral,2024-11-30
+C00801,Nouvelle-Aquitaine,Paid Social,2024-06-30
+C00802,Ile-de-France,Organic Search,2024-07-30
+C00803,Grand Est,Organic Search,2024-09-15
+C00804,Occitanie,Paid Social,2024-03-12
+C00805,Ile-de-France,Direct,2024-10-11
+C00806,Ile-de-France,Referral,2024-09-04
+C00807,Nouvelle-Aquitaine,Paid Social,2024-08-06
+C00808,Ile-de-France,Email,2024-12-16
+C00809,Occitanie,Paid Social,2024-10-15
+C00810,Grand Est,Email,2025-01-26
+C00811,Ile-de-France,Paid Social,2025-02-14
+C00812,Ile-de-France,Email,2024-12-12
+C00813,Grand Est,Paid Social,2024-05-05
+C00814,Occitanie,Direct,2024-03-20
+C00815,Ile-de-France,Paid Social,2024-05-05
+C00816,Grand Est,Organic Search,2024-10-26
+C00817,Grand Est,Organic Search,2024-12-29
+C00818,Occitanie,Paid Social,2025-01-04
+C00819,Occitanie,Paid Social,2024-10-14
+C00820,Ile-de-France,Email,2024-10-13
+C00821,Ile-de-France,Referral,2025-02-03
+C00822,Occitanie,Organic Search,2024-10-15
+C00823,Ile-de-France,Email,2024-02-29
+C00824,Nouvelle-Aquitaine,Referral,2024-07-29
+C00825,Hauts-de-France,Paid Social,2024-05-30
+C00826,Ile-de-France,Paid Social,2024-09-24
+C00827,Occitanie,Organic Search,2024-09-24
+C00828,Ile-de-France,Paid Social,2024-05-03
+C00829,Hauts-de-France,Referral,2024-05-05
+C00830,Ile-de-France,Direct,2024-02-07
+C00831,Occitanie,Email,2024-05-03
+C00832,Occitanie,Organic Search,2024-12-13
+C00833,Auvergne-Rhone-Alpes,Email,2024-10-02
+C00834,Nouvelle-Aquitaine,Referral,2025-01-31
+C00835,Nouvelle-Aquitaine,Paid Social,2025-01-24
+C00836,Occitanie,Direct,2024-12-25
+C00837,Nouvelle-Aquitaine,Organic Search,2024-03-16
+C00838,Grand Est,Organic Search,2024-05-20
+C00839,Auvergne-Rhone-Alpes,Organic Search,2024-01-25
+C00840,Occitanie,Organic Search,2024-02-09
+C00841,Ile-de-France,Direct,2024-04-07
+C00842,Hauts-de-France,Paid Social,2024-04-27
+C00843,Occitanie,Organic Search,2024-01-07
+C00844,Auvergne-Rhone-Alpes,Paid Social,2024-12-19
+C00845,Ile-de-France,Paid Social,2024-08-09
+C00846,Grand Est,Paid Social,2024-10-02
+C00847,Auvergne-Rhone-Alpes,Organic Search,2024-10-01
+C00848,Nouvelle-Aquitaine,Email,2025-02-10
+C00849,Ile-de-France,Organic Search,2024-03-02
+C00850,Grand Est,Referral,2024-05-23
+C00851,Ile-de-France,Organic Search,2024-05-09
+C00852,Ile-de-France,Referral,2024-08-19
+C00853,Hauts-de-France,Direct,2024-08-08
+C00854,Grand Est,Organic Search,2024-11-27
+C00855,Ile-de-France,Organic Search,2024-08-23
+C00856,Auvergne-Rhone-Alpes,Direct,2024-04-08
+C00857,Nouvelle-Aquitaine,Paid Social,2024-08-25
+C00858,Hauts-de-France,Email,2025-02-08
+C00859,Auvergne-Rhone-Alpes,Organic Search,2024-08-31
+C00860,Occitanie,Organic Search,2024-09-05
+C00861,Nouvelle-Aquitaine,Paid Social,2024-03-14
+C00862,Nouvelle-Aquitaine,Direct,2024-01-04
+C00863,Hauts-de-France,Organic Search,2024-03-29
+C00864,Occitanie,Referral,2024-01-11
+C00865,Ile-de-France,Email,2024-07-08
+C00866,Grand Est,Organic Search,2025-01-05
+C00867,Hauts-de-France,Organic Search,2024-07-06
+C00868,Hauts-de-France,Organic Search,2024-09-28
+C00869,Ile-de-France,Paid Social,2024-12-25
+C00870,Ile-de-France,Email,2024-11-16
+C00871,Nouvelle-Aquitaine,Paid Social,2024-09-30
+C00872,Ile-de-France,Organic Search,2024-11-25
+C00873,Grand Est,Email,2024-04-27
+C00874,Auvergne-Rhone-Alpes,Email,2024-06-25
+C00875,Nouvelle-Aquitaine,Paid Social,2024-06-16
+C00876,Grand Est,Email,2024-12-01
+C00877,Auvergne-Rhone-Alpes,Organic Search,2024-06-20
+C00878,Ile-de-France,Email,2025-01-28
+C00879,Occitanie,Paid Social,2024-03-19
+C00880,Occitanie,Paid Social,2024-03-13
+C00881,Auvergne-Rhone-Alpes,Organic Search,2024-10-27
+C00882,Occitanie,Email,2024-11-16
+C00883,Grand Est,Email,2024-10-12
+C00884,Auvergne-Rhone-Alpes,Paid Social,2024-05-09
+C00885,Ile-de-France,Direct,2024-01-04
+C00886,Auvergne-Rhone-Alpes,Direct,2024-05-15
+C00887,Auvergne-Rhone-Alpes,Organic Search,2024-07-14
+C00888,Ile-de-France,Email,2024-06-22
+C00889,Ile-de-France,Paid Social,2025-01-22
+C00890,Nouvelle-Aquitaine,Direct,2024-12-28
+C00891,Auvergne-Rhone-Alpes,Organic Search,2024-11-21
+C00892,Grand Est,Organic Search,2024-01-10
+C00893,Ile-de-France,Paid Social,2024-02-23
+C00894,Ile-de-France,Organic Search,2024-07-01
+C00895,Nouvelle-Aquitaine,Email,2024-09-18
+C00896,Grand Est,Paid Social,2024-10-12
+C00897,Ile-de-France,Organic Search,2024-05-04
+C00898,Ile-de-France,Paid Social,2024-02-16
+C00899,Ile-de-France,Direct,2024-05-17
+C00900,Occitanie,Referral,2024-11-28
+C00901,Auvergne-Rhone-Alpes,Paid Social,2025-02-18
+C00902,Ile-de-France,Organic Search,2025-01-30
+C00903,Ile-de-France,Organic Search,2024-09-06
+C00904,Auvergne-Rhone-Alpes,Direct,2024-02-08
+C00905,Grand Est,Referral,2025-02-10
+C00906,Nouvelle-Aquitaine,Email,2024-03-05
+C00907,Occitanie,Direct,2024-04-22
+C00908,Ile-de-France,Organic Search,2025-02-13
+C00909,Ile-de-France,Email,2024-07-30
+C00910,Ile-de-France,Organic Search,2024-03-24
+C00911,Hauts-de-France,Organic Search,2024-07-29
+C00912,Hauts-de-France,Paid Social,2024-02-03
+C00913,Grand Est,Paid Social,2024-05-12
+C00914,Grand Est,Direct,2025-02-03
+C00915,Grand Est,Paid Social,2024-05-05
+C00916,Grand Est,Direct,2025-01-09
+C00917,Ile-de-France,Referral,2024-08-16
+C00918,Ile-de-France,Email,2024-10-02
+C00919,Ile-de-France,Direct,2024-10-22
+C00920,Occitanie,Paid Social,2024-08-19
+C00921,Ile-de-France,Paid Social,2024-01-15
+C00922,Hauts-de-France,Organic Search,2025-01-21
+C00923,Occitanie,Organic Search,2024-07-18
+C00924,Occitanie,Direct,2024-10-02
+C00925,Ile-de-France,Paid Social,2024-08-20
+C00926,Ile-de-France,Paid Social,2024-10-03
+C00927,Ile-de-France,Organic Search,2024-05-28
+C00928,Hauts-de-France,Paid Social,2024-12-20
+C00929,Occitanie,Referral,2024-04-04
+C00930,Nouvelle-Aquitaine,Organic Search,2024-10-01
+C00931,Ile-de-France,Referral,2024-08-30
+C00932,Auvergne-Rhone-Alpes,Email,2024-07-30
+C00933,Auvergne-Rhone-Alpes,Referral,2024-01-10
+C00934,Hauts-de-France,Organic Search,2024-06-12
+C00935,Hauts-de-France,Email,2024-01-20
+C00936,Ile-de-France,Organic Search,2024-07-30
+C00937,Grand Est,Paid Social,2024-10-15
+C00938,Ile-de-France,Referral,2024-08-07
+C00939,Grand Est,Email,2024-11-13
+C00940,Ile-de-France,Organic Search,2024-05-31
+C00941,Ile-de-France,Direct,2024-05-08
+C00942,Hauts-de-France,Organic Search,2024-07-07
+C00943,Ile-de-France,Email,2024-04-06
+C00944,Auvergne-Rhone-Alpes,Direct,2024-12-02
+C00945,Auvergne-Rhone-Alpes,Paid Social,2024-12-06
+C00946,Ile-de-France,Direct,2024-06-23
+C00947,Nouvelle-Aquitaine,Email,2024-11-28
+C00948,Hauts-de-France,Referral,2024-01-11
+C00949,Hauts-de-France,Email,2024-03-06
+C00950,Auvergne-Rhone-Alpes,Email,2024-04-28
+C00951,Occitanie,Organic Search,2024-06-11
+C00952,Ile-de-France,Referral,2024-04-07
+C00953,Ile-de-France,Organic Search,2024-08-03
+C00954,Ile-de-France,Direct,2024-11-29
+C00955,Grand Est,Organic Search,2024-07-10
+C00956,Grand Est,Organic Search,2024-07-07
+C00957,Hauts-de-France,Direct,2024-01-26
+C00958,Occitanie,Organic Search,2024-04-27
+C00959,Occitanie,Paid Social,2024-12-05
+C00960,Occitanie,Referral,2024-12-06
+C00961,Occitanie,Organic Search,2024-02-13
+C00962,Auvergne-Rhone-Alpes,Organic Search,2024-01-09
+C00963,Ile-de-France,Paid Social,2024-12-15
+C00964,Ile-de-France,Organic Search,2024-03-14
+C00965,Grand Est,Organic Search,2024-08-29
+C00966,Auvergne-Rhone-Alpes,Organic Search,2024-12-13
+C00967,Grand Est,Paid Social,2024-11-26
+C00968,Ile-de-France,Paid Social,2024-08-19
+C00969,Occitanie,Organic Search,2024-06-07
+C00970,Ile-de-France,Email,2024-11-20
+C00971,Ile-de-France,Email,2024-10-18
+C00972,Ile-de-France,Organic Search,2024-12-18
+C00973,Ile-de-France,Paid Social,2024-08-03
+C00974,Grand Est,Direct,2025-01-30
+C00975,Auvergne-Rhone-Alpes,Email,2024-11-19
+C00976,Occitanie,Paid Social,2024-01-27
+C00977,Auvergne-Rhone-Alpes,Paid Social,2024-05-03
+C00978,Auvergne-Rhone-Alpes,Organic Search,2024-12-01
+C00979,Occitanie,Direct,2024-02-18
+C00980,Ile-de-France,Direct,2024-10-24
+C00981,Grand Est,Direct,2024-05-23
+C00982,Hauts-de-France,Organic Search,2024-03-27
+C00983,Nouvelle-Aquitaine,Paid Social,2024-08-14
+C00984,Auvergne-Rhone-Alpes,Organic Search,2025-01-26
+C00985,Ile-de-France,Paid Social,2025-01-12
+C00986,Grand Est,Paid Social,2024-06-18
+C00987,Auvergne-Rhone-Alpes,Email,2024-01-02
+C00988,Ile-de-France,Organic Search,2025-01-07
+C00989,Auvergne-Rhone-Alpes,Direct,2025-01-11
+C00990,Hauts-de-France,Organic Search,2024-09-11
+C00991,Occitanie,Organic Search,2024-09-20
+C00992,Nouvelle-Aquitaine,Direct,2024-08-09
+C00993,Hauts-de-France,Referral,2024-01-06
+C00994,Ile-de-France,Paid Social,2024-03-08
+C00995,Grand Est,Email,2024-03-01
+C00996,Auvergne-Rhone-Alpes,Organic Search,2025-01-19
+C00997,Nouvelle-Aquitaine,Organic Search,2024-01-21
+C00998,Ile-de-France,Paid Social,2024-08-21
+C00999,Grand Est,Paid Social,2024-06-01
+C01000,Ile-de-France,Email,2024-01-03
+C01001,Ile-de-France,Organic Search,2025-01-21
+C01002,Auvergne-Rhone-Alpes,Email,2024-01-08
+C01003,Ile-de-France,Referral,2024-12-25
+C01004,Ile-de-France,Organic Search,2024-11-22
+C01005,Nouvelle-Aquitaine,Organic Search,2024-11-29
+C01006,Auvergne-Rhone-Alpes,Paid Social,2024-03-09
+C01007,Grand Est,Referral,2025-01-05
+C01008,Ile-de-France,Email,2024-09-08
+C01009,Nouvelle-Aquitaine,Referral,2024-06-17
+C01010,Auvergne-Rhone-Alpes,Paid Social,2024-10-13
+C01011,Nouvelle-Aquitaine,Organic Search,2024-05-23
+C01012,Occitanie,Paid Social,2024-04-27
+C01013,Auvergne-Rhone-Alpes,Organic Search,2024-05-01
+C01014,Grand Est,Referral,2024-08-27
+C01015,Auvergne-Rhone-Alpes,Organic Search,2024-09-09
+C01016,Ile-de-France,Organic Search,2024-04-10
+C01017,Nouvelle-Aquitaine,Paid Social,2024-04-13
+C01018,Hauts-de-France,Paid Social,2025-02-01
+C01019,Ile-de-France,Email,2024-08-04
+C01020,Auvergne-Rhone-Alpes,Paid Social,2024-12-27
+C01021,Grand Est,Direct,2024-05-18
+C01022,Nouvelle-Aquitaine,Direct,2024-04-30
+C01023,Grand Est,Direct,2024-04-28
+C01024,Occitanie,Email,2024-08-10
+C01025,Nouvelle-Aquitaine,Email,2024-11-23
+C01026,Ile-de-France,Email,2024-07-29
+C01027,Grand Est,Paid Social,2024-05-03
+C01028,Auvergne-Rhone-Alpes,Paid Social,2025-02-07
+C01029,Nouvelle-Aquitaine,Email,2024-08-28
+C01030,Auvergne-Rhone-Alpes,Organic Search,2024-06-14
+C01031,Occitanie,Organic Search,2024-01-05
+C01032,Nouvelle-Aquitaine,Direct,2024-08-24
+C01033,Occitanie,Organic Search,2024-09-17
+C01034,Grand Est,Paid Social,2025-01-25
+C01035,Auvergne-Rhone-Alpes,Email,2024-04-06
+C01036,Nouvelle-Aquitaine,Organic Search,2024-03-09
+C01037,Auvergne-Rhone-Alpes,Direct,2025-02-23
+C01038,Auvergne-Rhone-Alpes,Organic Search,2024-08-19
+C01039,Auvergne-Rhone-Alpes,Direct,2024-01-12
+C01040,Ile-de-France,Referral,2024-02-14
+C01041,Ile-de-France,Organic Search,2024-07-18
+C01042,Nouvelle-Aquitaine,Organic Search,2024-09-16
+C01043,Nouvelle-Aquitaine,Paid Social,2024-04-12
+C01044,Nouvelle-Aquitaine,Paid Social,2024-06-02
+C01045,Ile-de-France,Organic Search,2024-11-05
+C01046,Auvergne-Rhone-Alpes,Direct,2025-02-10
+C01047,Ile-de-France,Organic Search,2024-07-25
+C01048,Hauts-de-France,Direct,2024-06-23
+C01049,Hauts-de-France,Organic Search,2024-05-31
+C01050,Ile-de-France,Direct,2024-02-27
+C01051,Nouvelle-Aquitaine,Organic Search,2024-01-23
+C01052,Ile-de-France,Paid Social,2024-12-16
+C01053,Ile-de-France,Email,2024-01-16
+C01054,Ile-de-France,Organic Search,2024-12-10
+C01055,Ile-de-France,Direct,2024-04-13
+C01056,Nouvelle-Aquitaine,Organic Search,2024-10-18
+C01057,Grand Est,Paid Social,2025-02-03
+C01058,Ile-de-France,Paid Social,2024-11-10
+C01059,Occitanie,Email,2024-11-02
+C01060,Nouvelle-Aquitaine,Organic Search,2024-04-21
+C01061,Grand Est,Organic Search,2024-09-08
+C01062,Occitanie,Organic Search,2024-09-26
+C01063,Ile-de-France,Paid Social,2024-06-27
+C01064,Occitanie,Organic Search,2024-01-16
+C01065,Auvergne-Rhone-Alpes,Direct,2025-01-18
+C01066,Grand Est,Paid Social,2024-03-23
+C01067,Auvergne-Rhone-Alpes,Email,2025-02-12
+C01068,Nouvelle-Aquitaine,Paid Social,2025-01-26
+C01069,Ile-de-France,Organic Search,2024-01-08
+C01070,Auvergne-Rhone-Alpes,Paid Social,2024-11-06
+C01071,Hauts-de-France,Organic Search,2024-09-23
+C01072,Occitanie,Paid Social,2024-04-06
+C01073,Auvergne-Rhone-Alpes,Paid Social,2024-12-07
+C01074,Grand Est,Paid Social,2024-02-16
+C01075,Hauts-de-France,Direct,2024-04-14
+C01076,Auvergne-Rhone-Alpes,Organic Search,2025-02-02
+C01077,Occitanie,Paid Social,2024-11-07
+C01078,Auvergne-Rhone-Alpes,Organic Search,2024-02-17
+C01079,Nouvelle-Aquitaine,Paid Social,2024-03-01
+C01080,Auvergne-Rhone-Alpes,Referral,2024-04-17
+C01081,Ile-de-France,Organic Search,2024-01-30
+C01082,Grand Est,Email,2024-03-17
+C01083,Grand Est,Paid Social,2024-08-28
+C01084,Hauts-de-France,Organic Search,2024-01-04
+C01085,Grand Est,Direct,2024-04-30
+C01086,Nouvelle-Aquitaine,Paid Social,2024-05-11
+C01087,Hauts-de-France,Referral,2025-02-11
+C01088,Hauts-de-France,Paid Social,2025-02-13
+C01089,Auvergne-Rhone-Alpes,Direct,2024-12-21
+C01090,Auvergne-Rhone-Alpes,Organic Search,2024-05-23
+C01091,Ile-de-France,Paid Social,2024-08-09
+C01092,Nouvelle-Aquitaine,Referral,2024-07-30
+C01093,Ile-de-France,Paid Social,2024-12-27
+C01094,Ile-de-France,Paid Social,2024-11-09
+C01095,Occitanie,Direct,2025-01-15
+C01096,Auvergne-Rhone-Alpes,Email,2024-08-19
+C01097,Ile-de-France,Email,2025-01-21
+C01098,Hauts-de-France,Email,2024-11-08
+C01099,Hauts-de-France,Direct,2024-11-06
+C01100,Ile-de-France,Direct,2024-10-04
+C01101,Ile-de-France,Email,2024-05-20
+C01102,Auvergne-Rhone-Alpes,Organic Search,2024-09-12
+C01103,Hauts-de-France,Organic Search,2024-05-29
+C01104,Hauts-de-France,Email,2024-09-29
+C01105,Ile-de-France,Direct,2024-04-17
+C01106,Hauts-de-France,Paid Social,2024-12-01
+C01107,Ile-de-France,Organic Search,2024-08-27
+C01108,Auvergne-Rhone-Alpes,Organic Search,2024-10-25
+C01109,Grand Est,Paid Social,2024-04-03
+C01110,Ile-de-France,Direct,2024-11-28
+C01111,Ile-de-France,Organic Search,2024-12-03
+C01112,Auvergne-Rhone-Alpes,Email,2024-03-02
+C01113,Occitanie,Referral,2024-05-27
+C01114,Grand Est,Direct,2024-10-11
+C01115,Grand Est,Organic Search,2025-01-01
+C01116,Ile-de-France,Direct,2024-11-05
+C01117,Ile-de-France,Email,2024-07-17
+C01118,Hauts-de-France,Referral,2024-05-05
+C01119,Ile-de-France,Organic Search,2025-01-17
+C01120,Grand Est,Paid Social,2025-01-02
+C01121,Nouvelle-Aquitaine,Email,2025-01-11
+C01122,Ile-de-France,Paid Social,2024-05-07
+C01123,Hauts-de-France,Paid Social,2024-07-02
+C01124,Ile-de-France,Email,2024-04-12
+C01125,Auvergne-Rhone-Alpes,Email,2025-02-04
+C01126,Occitanie,Organic Search,2024-12-30
+C01127,Occitanie,Paid Social,2024-03-13
+C01128,Nouvelle-Aquitaine,Organic Search,2024-04-13
+C01129,Nouvelle-Aquitaine,Direct,2024-08-19
+C01130,Grand Est,Direct,2024-06-23
+C01131,Grand Est,Organic Search,2024-07-12
+C01132,Occitanie,Organic Search,2024-06-03
+C01133,Ile-de-France,Organic Search,2024-10-10
+C01134,Nouvelle-Aquitaine,Paid Social,2025-01-12
+C01135,Grand Est,Direct,2025-01-20
+C01136,Ile-de-France,Paid Social,2024-07-10
+C01137,Auvergne-Rhone-Alpes,Organic Search,2024-12-13
+C01138,Auvergne-Rhone-Alpes,Organic Search,2024-10-18
+C01139,Ile-de-France,Organic Search,2024-03-23
+C01140,Nouvelle-Aquitaine,Direct,2024-11-29
+C01141,Auvergne-Rhone-Alpes,Email,2024-05-27
+C01142,Hauts-de-France,Email,2024-09-20
+C01143,Hauts-de-France,Paid Social,2024-10-29
+C01144,Hauts-de-France,Direct,2025-01-31
+C01145,Auvergne-Rhone-Alpes,Paid Social,2025-02-02
+C01146,Auvergne-Rhone-Alpes,Direct,2024-12-03
+C01147,Nouvelle-Aquitaine,Direct,2024-07-31
+C01148,Hauts-de-France,Paid Social,2024-06-17
+C01149,Occitanie,Direct,2024-07-04
+C01150,Grand Est,Organic Search,2025-02-03
+C01151,Ile-de-France,Email,2024-03-27
+C01152,Hauts-de-France,Organic Search,2024-08-08
+C01153,Ile-de-France,Paid Social,2024-10-12
+C01154,Ile-de-France,Organic Search,2024-01-10
+C01155,Occitanie,Organic Search,2024-09-23
+C01156,Ile-de-France,Organic Search,2024-04-19
+C01157,Ile-de-France,Paid Social,2024-04-27
+C01158,Ile-de-France,Email,2024-09-18
+C01159,Auvergne-Rhone-Alpes,Paid Social,2024-01-04
+C01160,Hauts-de-France,Paid Social,2024-03-06
+C01161,Ile-de-France,Direct,2024-07-10
+C01162,Nouvelle-Aquitaine,Direct,2024-09-02
+C01163,Hauts-de-France,Organic Search,2024-02-15
+C01164,Ile-de-France,Paid Social,2024-05-31
+C01165,Ile-de-France,Email,2024-05-09
+C01166,Hauts-de-France,Referral,2024-08-12
+C01167,Hauts-de-France,Paid Social,2024-05-06
+C01168,Occitanie,Referral,2024-01-01
+C01169,Hauts-de-France,Organic Search,2024-08-10
+C01170,Ile-de-France,Paid Social,2024-12-22
+C01171,Auvergne-Rhone-Alpes,Referral,2024-09-02
+C01172,Nouvelle-Aquitaine,Email,2024-06-01
+C01173,Ile-de-France,Direct,2024-07-21
+C01174,Nouvelle-Aquitaine,Organic Search,2024-02-28
+C01175,Occitanie,Organic Search,2024-04-09
+C01176,Nouvelle-Aquitaine,Organic Search,2024-07-02
+C01177,Auvergne-Rhone-Alpes,Organic Search,2024-09-05
+C01178,Auvergne-Rhone-Alpes,Organic Search,2024-07-23
+C01179,Ile-de-France,Paid Social,2025-02-08
+C01180,Ile-de-France,Paid Social,2024-09-24
+C01181,Nouvelle-Aquitaine,Email,2024-01-10
+C01182,Ile-de-France,Paid Social,2024-08-08
+C01183,Ile-de-France,Organic Search,2024-09-01
+C01184,Ile-de-France,Email,2024-01-19
+C01185,Ile-de-France,Organic Search,2024-06-10
+C01186,Hauts-de-France,Direct,2025-01-01
+C01187,Auvergne-Rhone-Alpes,Organic Search,2024-05-29
+C01188,Grand Est,Paid Social,2024-07-10
+C01189,Ile-de-France,Direct,2024-04-02
+C01190,Nouvelle-Aquitaine,Email,2024-02-02
+C01191,Auvergne-Rhone-Alpes,Email,2024-05-13
+C01192,Auvergne-Rhone-Alpes,Email,2024-11-20
+C01193,Hauts-de-France,Organic Search,2025-02-16
+C01194,Grand Est,Email,2024-10-04
+C01195,Hauts-de-France,Direct,2024-12-14
+C01196,Ile-de-France,Direct,2024-09-29
+C01197,Ile-de-France,Paid Social,2024-10-03
+C01198,Nouvelle-Aquitaine,Paid Social,2024-06-28
+C01199,Ile-de-France,Referral,2024-01-26
+C01200,Nouvelle-Aquitaine,Paid Social,2024-06-21
+C01201,Occitanie,Organic Search,2024-12-29
+C01202,Occitanie,Organic Search,2024-08-13
+C01203,Hauts-de-France,Organic Search,2024-11-16
+C01204,Nouvelle-Aquitaine,Paid Social,2024-01-22
+C01205,Ile-de-France,Organic Search,2024-03-25
+C01206,Ile-de-France,Organic Search,2024-05-05
+C01207,Occitanie,Organic Search,2024-05-30
+C01208,Auvergne-Rhone-Alpes,Direct,2025-02-18
+C01209,Ile-de-France,Organic Search,2024-07-13
+C01210,Auvergne-Rhone-Alpes,Organic Search,2024-10-05
+C01211,Nouvelle-Aquitaine,Paid Social,2024-09-27
+C01212,Hauts-de-France,Organic Search,2024-06-24
+C01213,Occitanie,Direct,2025-02-09
+C01214,Auvergne-Rhone-Alpes,Direct,2024-04-03
+C01215,Ile-de-France,Paid Social,2024-01-15
+C01216,Occitanie,Paid Social,2024-11-08
+C01217,Ile-de-France,Paid Social,2024-10-01
+C01218,Occitanie,Organic Search,2024-04-19
+C01219,Nouvelle-Aquitaine,Organic Search,2024-12-30
+C01220,Ile-de-France,Organic Search,2024-03-09
+C01221,Ile-de-France,Organic Search,2024-04-15
+C01222,Ile-de-France,Email,2024-03-05
+C01223,Grand Est,Organic Search,2024-03-19
+C01224,Nouvelle-Aquitaine,Organic Search,2024-11-02
+C01225,Ile-de-France,Paid Social,2024-10-22
+C01226,Grand Est,Paid Social,2024-09-26
+C01227,Auvergne-Rhone-Alpes,Organic Search,2024-12-27
+C01228,Auvergne-Rhone-Alpes,Organic Search,2024-01-30
+C01229,Grand Est,Organic Search,2024-09-17
+C01230,Ile-de-France,Organic Search,2024-02-18
+C01231,Ile-de-France,Direct,2025-02-05
+C01232,Occitanie,Direct,2024-09-23
+C01233,Ile-de-France,Paid Social,2024-11-15
+C01234,Nouvelle-Aquitaine,Paid Social,2024-08-27
+C01235,Ile-de-France,Referral,2024-06-10
+C01236,Ile-de-France,Email,2024-10-15
+C01237,Ile-de-France,Organic Search,2024-12-17
+C01238,Auvergne-Rhone-Alpes,Organic Search,2024-03-15
+C01239,Ile-de-France,Paid Social,2025-01-01
+C01240,Ile-de-France,Email,2024-11-01
+C01241,Hauts-de-France,Organic Search,2024-02-06
+C01242,Auvergne-Rhone-Alpes,Organic Search,2025-01-28
+C01243,Auvergne-Rhone-Alpes,Paid Social,2024-03-16
+C01244,Ile-de-France,Organic Search,2024-09-09
+C01245,Auvergne-Rhone-Alpes,Paid Social,2024-02-24
+C01246,Ile-de-France,Email,2024-03-23
+C01247,Occitanie,Paid Social,2024-09-27
+C01248,Ile-de-France,Organic Search,2024-10-12
+C01249,Grand Est,Organic Search,2024-10-15
+C01250,Grand Est,Direct,2024-05-24
+C01251,Ile-de-France,Paid Social,2024-12-10
+C01252,Ile-de-France,Organic Search,2024-01-21
+C01253,Ile-de-France,Organic Search,2024-12-24
+C01254,Occitanie,Direct,2024-05-06
+C01255,Ile-de-France,Referral,2024-09-17
+C01256,Hauts-de-France,Direct,2025-01-15
+C01257,Nouvelle-Aquitaine,Email,2024-04-17
+C01258,Hauts-de-France,Paid Social,2024-06-21
+C01259,Occitanie,Paid Social,2024-12-13
+C01260,Grand Est,Organic Search,2024-12-29
+C01261,Ile-de-France,Email,2024-04-08
+C01262,Auvergne-Rhone-Alpes,Email,2024-08-01
+C01263,Auvergne-Rhone-Alpes,Organic Search,2024-05-19
+C01264,Grand Est,Direct,2024-08-05
+C01265,Occitanie,Paid Social,2024-06-08
+C01266,Hauts-de-France,Organic Search,2024-01-03
+C01267,Ile-de-France,Paid Social,2025-01-23
+C01268,Grand Est,Direct,2024-09-24
+C01269,Occitanie,Direct,2024-07-12
+C01270,Occitanie,Paid Social,2024-02-15
+C01271,Grand Est,Direct,2024-01-30
+C01272,Auvergne-Rhone-Alpes,Direct,2024-07-20
+C01273,Auvergne-Rhone-Alpes,Direct,2024-09-29
+C01274,Occitanie,Direct,2024-04-19
+C01275,Ile-de-France,Paid Social,2024-11-08
+C01276,Auvergne-Rhone-Alpes,Referral,2024-06-13
+C01277,Ile-de-France,Email,2024-01-05
+C01278,Ile-de-France,Referral,2024-08-13
+C01279,Hauts-de-France,Organic Search,2024-03-17
+C01280,Occitanie,Referral,2024-01-07
+C01281,Auvergne-Rhone-Alpes,Direct,2024-02-24
+C01282,Auvergne-Rhone-Alpes,Paid Social,2024-04-29
+C01283,Auvergne-Rhone-Alpes,Direct,2024-08-04
+C01284,Nouvelle-Aquitaine,Paid Social,2025-02-19
+C01285,Grand Est,Organic Search,2024-04-01
+C01286,Grand Est,Organic Search,2024-01-25
+C01287,Auvergne-Rhone-Alpes,Referral,2024-03-21
+C01288,Auvergne-Rhone-Alpes,Email,2024-05-14
+C01289,Auvergne-Rhone-Alpes,Paid Social,2024-03-27
+C01290,Occitanie,Email,2024-05-14
+C01291,Auvergne-Rhone-Alpes,Paid Social,2025-02-11
+C01292,Nouvelle-Aquitaine,Paid Social,2024-06-08
+C01293,Occitanie,Direct,2024-09-23
+C01294,Auvergne-Rhone-Alpes,Email,2024-10-14
+C01295,Auvergne-Rhone-Alpes,Referral,2024-02-24
+C01296,Auvergne-Rhone-Alpes,Email,2024-04-14
+C01297,Ile-de-France,Direct,2024-06-23
+C01298,Ile-de-France,Organic Search,2024-07-12
+C01299,Nouvelle-Aquitaine,Organic Search,2024-01-06
+C01300,Auvergne-Rhone-Alpes,Organic Search,2024-09-27
+C01301,Ile-de-France,Email,2024-05-06
+C01302,Occitanie,Email,2024-05-15
+C01303,Nouvelle-Aquitaine,Referral,2024-09-10
+C01304,Ile-de-France,Paid Social,2025-02-02
+C01305,Hauts-de-France,Organic Search,2024-12-29
+C01306,Grand Est,Email,2025-02-15
+C01307,Occitanie,Direct,2024-06-22
+C01308,Nouvelle-Aquitaine,Organic Search,2024-02-20
+C01309,Ile-de-France,Organic Search,2024-03-31
+C01310,Grand Est,Organic Search,2024-05-24
+C01311,Auvergne-Rhone-Alpes,Paid Social,2024-05-06
+C01312,Grand Est,Organic Search,2024-03-28
+C01313,Occitanie,Paid Social,2024-03-04
+C01314,Ile-de-France,Email,2024-03-19
+C01315,Ile-de-France,Paid Social,2024-10-03
+C01316,Nouvelle-Aquitaine,Paid Social,2024-07-25
+C01317,Occitanie,Organic Search,2024-01-16
+C01318,Ile-de-France,Direct,2024-08-24
+C01319,Nouvelle-Aquitaine,Paid Social,2024-12-19
+C01320,Hauts-de-France,Paid Social,2024-06-27
+C01321,Occitanie,Organic Search,2024-05-13
+C01322,Auvergne-Rhone-Alpes,Email,2024-04-24
+C01323,Ile-de-France,Direct,2024-06-08
+C01324,Hauts-de-France,Organic Search,2024-04-27
+C01325,Auvergne-Rhone-Alpes,Organic Search,2025-01-23
+C01326,Hauts-de-France,Organic Search,2025-02-20
+C01327,Auvergne-Rhone-Alpes,Email,2024-05-24
+C01328,Occitanie,Direct,2025-01-22
+C01329,Ile-de-France,Paid Social,2024-12-24
+C01330,Ile-de-France,Paid Social,2024-02-01
+C01331,Hauts-de-France,Referral,2024-07-25
+C01332,Occitanie,Referral,2024-10-02
+C01333,Occitanie,Organic Search,2024-06-26
+C01334,Grand Est,Organic Search,2024-07-10
+C01335,Grand Est,Paid Social,2024-07-26
+C01336,Hauts-de-France,Referral,2024-10-16
+C01337,Ile-de-France,Email,2024-05-03
+C01338,Occitanie,Email,2024-09-07
+C01339,Hauts-de-France,Direct,2024-04-12
+C01340,Auvergne-Rhone-Alpes,Organic Search,2025-01-08
+C01341,Ile-de-France,Paid Social,2024-02-05
+C01342,Hauts-de-France,Organic Search,2024-01-29
+C01343,Auvergne-Rhone-Alpes,Direct,2024-01-16
+C01344,Occitanie,Email,2024-05-26
+C01345,Grand Est,Organic Search,2024-09-11
+C01346,Occitanie,Organic Search,2025-02-17
+C01347,Auvergne-Rhone-Alpes,Referral,2024-07-09
+C01348,Auvergne-Rhone-Alpes,Referral,2024-03-17
+C01349,Auvergne-Rhone-Alpes,Email,2024-06-03
+C01350,Ile-de-France,Organic Search,2024-02-23
+C01351,Hauts-de-France,Direct,2024-07-17
+C01352,Hauts-de-France,Referral,2024-11-02
+C01353,Ile-de-France,Email,2024-01-15
+C01354,Ile-de-France,Email,2024-11-22
+C01355,Hauts-de-France,Direct,2024-04-05
+C01356,Ile-de-France,Direct,2024-10-09
+C01357,Occitanie,Email,2024-12-08
+C01358,Auvergne-Rhone-Alpes,Paid Social,2024-11-22
+C01359,Nouvelle-Aquitaine,Paid Social,2024-10-08
+C01360,Ile-de-France,Direct,2024-10-18
+C01361,Nouvelle-Aquitaine,Email,2024-03-19
+C01362,Auvergne-Rhone-Alpes,Organic Search,2024-02-27
+C01363,Occitanie,Organic Search,2024-06-09
+C01364,Ile-de-France,Direct,2024-09-12
+C01365,Auvergne-Rhone-Alpes,Direct,2024-09-16
+C01366,Occitanie,Direct,2024-11-22
+C01367,Ile-de-France,Paid Social,2024-05-09
+C01368,Ile-de-France,Referral,2024-12-29
+C01369,Ile-de-France,Direct,2024-07-07
+C01370,Auvergne-Rhone-Alpes,Paid Social,2024-04-13
+C01371,Ile-de-France,Organic Search,2024-11-04
+C01372,Grand Est,Direct,2024-02-23
+C01373,Auvergne-Rhone-Alpes,Organic Search,2024-06-19
+C01374,Hauts-de-France,Email,2024-11-24
+C01375,Grand Est,Email,2024-11-19
+C01376,Ile-de-France,Email,2024-04-17
+C01377,Nouvelle-Aquitaine,Organic Search,2024-03-10
+C01378,Hauts-de-France,Referral,2024-01-14
+C01379,Nouvelle-Aquitaine,Organic Search,2024-02-07
+C01380,Auvergne-Rhone-Alpes,Direct,2024-12-12
+C01381,Auvergne-Rhone-Alpes,Organic Search,2024-11-25
+C01382,Ile-de-France,Email,2024-07-31
+C01383,Occitanie,Referral,2024-08-27
+C01384,Grand Est,Organic Search,2024-05-17
+C01385,Grand Est,Organic Search,2024-03-21
+C01386,Ile-de-France,Referral,2024-01-05
+C01387,Nouvelle-Aquitaine,Organic Search,2024-10-09
+C01388,Ile-de-France,Organic Search,2024-01-15
+C01389,Grand Est,Paid Social,2024-02-14
+C01390,Ile-de-France,Direct,2024-11-28
+C01391,Grand Est,Email,2024-09-01
+C01392,Hauts-de-France,Paid Social,2024-07-24
+C01393,Ile-de-France,Direct,2024-04-01
+C01394,Ile-de-France,Paid Social,2024-03-03
+C01395,Hauts-de-France,Paid Social,2024-07-14
+C01396,Ile-de-France,Paid Social,2024-05-30
+C01397,Occitanie,Paid Social,2024-08-12
+C01398,Grand Est,Paid Social,2024-03-10
+C01399,Occitanie,Email,2024-04-07
+C01400,Auvergne-Rhone-Alpes,Organic Search,2024-02-17
+C01401,Auvergne-Rhone-Alpes,Email,2024-06-27
+C01402,Ile-de-France,Organic Search,2024-04-26
+C01403,Grand Est,Paid Social,2024-04-03
+C01404,Ile-de-France,Organic Search,2024-08-18
+C01405,Ile-de-France,Email,2024-07-27
+C01406,Ile-de-France,Referral,2024-03-29
+C01407,Grand Est,Paid Social,2024-10-20
+C01408,Ile-de-France,Organic Search,2024-05-24
+C01409,Hauts-de-France,Organic Search,2024-05-23
+C01410,Nouvelle-Aquitaine,Direct,2024-07-19
+C01411,Hauts-de-France,Organic Search,2024-02-28
+C01412,Grand Est,Referral,2024-06-25
+C01413,Hauts-de-France,Paid Social,2024-09-01
+C01414,Grand Est,Organic Search,2024-02-24
+C01415,Ile-de-France,Referral,2024-08-25
+C01416,Hauts-de-France,Paid Social,2024-01-17
+C01417,Occitanie,Organic Search,2024-09-10
+C01418,Occitanie,Direct,2024-01-15
+C01419,Grand Est,Organic Search,2024-03-14
+C01420,Grand Est,Paid Social,2024-05-27
+C01421,Nouvelle-Aquitaine,Paid Social,2024-09-15
+C01422,Auvergne-Rhone-Alpes,Paid Social,2024-10-28
+C01423,Auvergne-Rhone-Alpes,Referral,2024-07-15
+C01424,Auvergne-Rhone-Alpes,Organic Search,2024-02-25
+C01425,Auvergne-Rhone-Alpes,Direct,2024-06-11
+C01426,Auvergne-Rhone-Alpes,Email,2024-11-26
+C01427,Ile-de-France,Direct,2024-02-07
+C01428,Ile-de-France,Direct,2024-10-27
+C01429,Hauts-de-France,Direct,2024-06-11
+C01430,Auvergne-Rhone-Alpes,Email,2024-01-02
+C01431,Grand Est,Paid Social,2024-10-18
+C01432,Occitanie,Paid Social,2024-01-12
+C01433,Ile-de-France,Email,2024-06-04
+C01434,Ile-de-France,Paid Social,2024-03-22
+C01435,Ile-de-France,Referral,2024-09-02
+C01436,Grand Est,Organic Search,2024-01-24
+C01437,Ile-de-France,Direct,2024-02-08
+C01438,Occitanie,Organic Search,2024-08-11
+C01439,Grand Est,Direct,2025-02-21
+C01440,Grand Est,Organic Search,2024-01-17
+C01441,Ile-de-France,Organic Search,2024-07-12
+C01442,Ile-de-France,Direct,2024-12-03
+C01443,Ile-de-France,Direct,2024-05-02
+C01444,Ile-de-France,Referral,2024-07-26
+C01445,Ile-de-France,Direct,2024-12-18
+C01446,Occitanie,Organic Search,2024-11-01
+C01447,Grand Est,Direct,2024-05-03
+C01448,Occitanie,Paid Social,2024-11-11
+C01449,Occitanie,Paid Social,2024-10-10
+C01450,Ile-de-France,Paid Social,2024-07-31
+C01451,Hauts-de-France,Organic Search,2024-07-04
+C01452,Occitanie,Email,2025-01-23
+C01453,Hauts-de-France,Referral,2025-01-02
+C01454,Grand Est,Organic Search,2025-02-19
+C01455,Auvergne-Rhone-Alpes,Direct,2024-10-10
+C01456,Ile-de-France,Paid Social,2024-05-30
+C01457,Ile-de-France,Organic Search,2024-02-16
+C01458,Auvergne-Rhone-Alpes,Email,2024-02-22
+C01459,Grand Est,Organic Search,2025-02-03
+C01460,Auvergne-Rhone-Alpes,Organic Search,2024-06-01
+C01461,Hauts-de-France,Email,2024-02-16
+C01462,Occitanie,Organic Search,2024-04-03
+C01463,Ile-de-France,Organic Search,2024-01-09
+C01464,Auvergne-Rhone-Alpes,Referral,2024-08-11
+C01465,Nouvelle-Aquitaine,Organic Search,2024-09-05
+C01466,Nouvelle-Aquitaine,Direct,2024-06-07
+C01467,Auvergne-Rhone-Alpes,Referral,2024-11-08
+C01468,Ile-de-France,Organic Search,2024-07-20
+C01469,Nouvelle-Aquitaine,Paid Social,2025-02-07
+C01470,Ile-de-France,Organic Search,2024-11-16
+C01471,Grand Est,Email,2024-02-01
+C01472,Ile-de-France,Organic Search,2024-04-25
+C01473,Ile-de-France,Direct,2024-11-12
+C01474,Occitanie,Organic Search,2024-08-13
+C01475,Occitanie,Email,2024-11-12
+C01476,Occitanie,Organic Search,2024-05-20
+C01477,Auvergne-Rhone-Alpes,Organic Search,2024-01-17
+C01478,Grand Est,Paid Social,2024-11-25
+C01479,Auvergne-Rhone-Alpes,Email,2024-11-25
+C01480,Auvergne-Rhone-Alpes,Direct,2024-09-25
+C01481,Auvergne-Rhone-Alpes,Organic Search,2024-06-18
+C01482,Ile-de-France,Organic Search,2024-01-04
+C01483,Occitanie,Paid Social,2024-11-01
+C01484,Ile-de-France,Paid Social,2024-10-04
+C01485,Nouvelle-Aquitaine,Direct,2024-10-07
+C01486,Ile-de-France,Direct,2024-03-12
+C01487,Grand Est,Direct,2024-11-03
+C01488,Auvergne-Rhone-Alpes,Organic Search,2024-10-31
+C01489,Grand Est,Paid Social,2024-12-26
+C01490,Auvergne-Rhone-Alpes,Referral,2024-08-26
+C01491,Ile-de-France,Paid Social,2024-11-03
+C01492,Hauts-de-France,Email,2024-06-17
+C01493,Nouvelle-Aquitaine,Organic Search,2024-10-19
+C01494,Hauts-de-France,Paid Social,2024-10-18
+C01495,Auvergne-Rhone-Alpes,Direct,2024-11-23
+C01496,Nouvelle-Aquitaine,Organic Search,2024-12-25
+C01497,Hauts-de-France,Direct,2024-01-02
+C01498,Nouvelle-Aquitaine,Paid Social,2024-11-23
+C01499,Auvergne-Rhone-Alpes,Organic Search,2024-11-28
+C01500,Nouvelle-Aquitaine,Organic Search,2024-08-17
+C01501,Nouvelle-Aquitaine,Organic Search,2024-08-06
+C01502,Grand Est,Paid Social,2024-10-30
+C01503,Auvergne-Rhone-Alpes,Organic Search,2024-07-10
+C01504,Auvergne-Rhone-Alpes,Email,2024-06-22
+C01505,Hauts-de-France,Direct,2024-12-03
+C01506,Occitanie,Paid Social,2024-11-27
+C01507,Nouvelle-Aquitaine,Organic Search,2024-03-27
+C01508,Auvergne-Rhone-Alpes,Paid Social,2024-12-14
+C01509,Ile-de-France,Referral,2024-05-17
+C01510,Nouvelle-Aquitaine,Email,2024-02-27
+C01511,Ile-de-France,Organic Search,2025-01-03
+C01512,Ile-de-France,Paid Social,2024-04-09
+C01513,Occitanie,Paid Social,2024-03-26
+C01514,Nouvelle-Aquitaine,Paid Social,2024-04-23
+C01515,Grand Est,Organic Search,2024-07-25
+C01516,Ile-de-France,Direct,2024-03-10
+C01517,Ile-de-France,Organic Search,2024-03-08
+C01518,Grand Est,Organic Search,2024-06-13
+C01519,Ile-de-France,Organic Search,2024-04-01
+C01520,Ile-de-France,Email,2024-03-22
+C01521,Ile-de-France,Paid Social,2025-01-18
+C01522,Occitanie,Organic Search,2024-09-07
+C01523,Grand Est,Paid Social,2024-01-06
+C01524,Hauts-de-France,Email,2024-02-12
+C01525,Nouvelle-Aquitaine,Organic Search,2024-12-07
+C01526,Ile-de-France,Direct,2024-04-23
+C01527,Auvergne-Rhone-Alpes,Paid Social,2024-03-05
+C01528,Auvergne-Rhone-Alpes,Organic Search,2024-10-06
+C01529,Ile-de-France,Direct,2024-12-17
+C01530,Ile-de-France,Direct,2024-06-16
+C01531,Ile-de-France,Paid Social,2024-11-08
+C01532,Ile-de-France,Direct,2024-06-26
+C01533,Occitanie,Paid Social,2024-02-15
+C01534,Nouvelle-Aquitaine,Paid Social,2024-12-01
+C01535,Ile-de-France,Direct,2025-01-20
+C01536,Auvergne-Rhone-Alpes,Referral,2025-02-17
+C01537,Hauts-de-France,Organic Search,2024-02-12
+C01538,Nouvelle-Aquitaine,Email,2024-08-25
+C01539,Hauts-de-France,Paid Social,2024-09-18
+C01540,Auvergne-Rhone-Alpes,Organic Search,2024-02-03
+C01541,Hauts-de-France,Direct,2025-02-03
+C01542,Ile-de-France,Paid Social,2024-02-13
+C01543,Auvergne-Rhone-Alpes,Email,2024-04-22
+C01544,Ile-de-France,Email,2025-02-10
+C01545,Auvergne-Rhone-Alpes,Email,2024-08-21
+C01546,Auvergne-Rhone-Alpes,Organic Search,2024-10-12
+C01547,Ile-de-France,Direct,2024-07-26
+C01548,Nouvelle-Aquitaine,Email,2024-11-12
+C01549,Ile-de-France,Email,2024-02-04
+C01550,Ile-de-France,Paid Social,2024-10-10
+C01551,Ile-de-France,Organic Search,2024-01-28
+C01552,Auvergne-Rhone-Alpes,Organic Search,2024-03-16
+C01553,Ile-de-France,Paid Social,2024-07-31
+C01554,Auvergne-Rhone-Alpes,Organic Search,2024-07-07
+C01555,Ile-de-France,Email,2024-03-05
+C01556,Hauts-de-France,Direct,2024-12-01
+C01557,Grand Est,Paid Social,2024-05-06
+C01558,Occitanie,Paid Social,2024-12-29
+C01559,Nouvelle-Aquitaine,Email,2024-01-07
+C01560,Hauts-de-France,Organic Search,2024-04-09
+C01561,Grand Est,Direct,2024-05-04
+C01562,Occitanie,Paid Social,2024-09-07
+C01563,Grand Est,Organic Search,2024-06-17
+C01564,Grand Est,Organic Search,2024-03-06
+C01565,Hauts-de-France,Direct,2024-08-27
+C01566,Auvergne-Rhone-Alpes,Organic Search,2025-02-06
+C01567,Ile-de-France,Email,2024-02-26
+C01568,Ile-de-France,Organic Search,2024-04-15
+C01569,Auvergne-Rhone-Alpes,Organic Search,2024-07-19
+C01570,Occitanie,Direct,2024-11-01
+C01571,Auvergne-Rhone-Alpes,Organic Search,2024-02-27
+C01572,Occitanie,Organic Search,2024-04-07
+C01573,Occitanie,Paid Social,2024-04-08
+C01574,Hauts-de-France,Direct,2024-09-15
+C01575,Ile-de-France,Paid Social,2024-02-04
+C01576,Ile-de-France,Organic Search,2024-10-03
+C01577,Hauts-de-France,Direct,2024-06-27
+C01578,Hauts-de-France,Email,2024-05-17
+C01579,Grand Est,Direct,2024-12-28
+C01580,Hauts-de-France,Referral,2024-12-09
+C01581,Grand Est,Email,2024-12-03
+C01582,Ile-de-France,Paid Social,2025-01-06
+C01583,Auvergne-Rhone-Alpes,Paid Social,2024-04-08
+C01584,Ile-de-France,Referral,2024-12-25
+C01585,Occitanie,Referral,2024-03-14
+C01586,Grand Est,Direct,2024-05-18
+C01587,Auvergne-Rhone-Alpes,Email,2024-08-21
+C01588,Occitanie,Organic Search,2024-11-08
+C01589,Ile-de-France,Paid Social,2024-08-30
+C01590,Ile-de-France,Email,2024-08-22
+C01591,Ile-de-France,Paid Social,2024-06-07
+C01592,Ile-de-France,Referral,2024-09-05
+C01593,Grand Est,Email,2024-07-18
+C01594,Auvergne-Rhone-Alpes,Organic Search,2024-07-19
+C01595,Hauts-de-France,Email,2024-09-03
+C01596,Nouvelle-Aquitaine,Email,2024-09-09
+C01597,Ile-de-France,Direct,2024-05-18
+C01598,Ile-de-France,Paid Social,2024-02-26
+C01599,Hauts-de-France,Email,2024-05-05
+C01600,Ile-de-France,Paid Social,2024-06-20
+C01601,Grand Est,Paid Social,2024-03-08
+C01602,Ile-de-France,Organic Search,2024-03-15
+C01603,Nouvelle-Aquitaine,Direct,2025-02-03
+C01604,Hauts-de-France,Direct,2024-04-27
+C01605,Ile-de-France,Paid Social,2024-11-06
+C01606,Ile-de-France,Email,2024-02-23
+C01607,Grand Est,Organic Search,2025-02-12
+C01608,Ile-de-France,Email,2024-03-30
+C01609,Auvergne-Rhone-Alpes,Paid Social,2024-06-14
+C01610,Auvergne-Rhone-Alpes,Referral,2024-11-24
+C01611,Ile-de-France,Organic Search,2024-03-25
+C01612,Hauts-de-France,Referral,2024-08-18
+C01613,Hauts-de-France,Organic Search,2024-11-25
+C01614,Auvergne-Rhone-Alpes,Email,2024-01-10
+C01615,Hauts-de-France,Email,2024-01-11
+C01616,Ile-de-France,Organic Search,2024-11-27
+C01617,Ile-de-France,Paid Social,2024-04-20
+C01618,Occitanie,Direct,2025-01-16
+C01619,Grand Est,Email,2025-01-24
+C01620,Ile-de-France,Organic Search,2025-01-04
+C01621,Ile-de-France,Paid Social,2025-02-22
+C01622,Occitanie,Paid Social,2024-12-11
+C01623,Hauts-de-France,Email,2024-06-10
+C01624,Ile-de-France,Email,2025-02-20
+C01625,Auvergne-Rhone-Alpes,Organic Search,2024-05-25
+C01626,Nouvelle-Aquitaine,Email,2024-09-03
+C01627,Auvergne-Rhone-Alpes,Referral,2024-01-03
+C01628,Ile-de-France,Referral,2025-02-08
+C01629,Ile-de-France,Organic Search,2024-09-05
+C01630,Auvergne-Rhone-Alpes,Paid Social,2025-02-02
+C01631,Auvergne-Rhone-Alpes,Paid Social,2024-05-28
+C01632,Hauts-de-France,Organic Search,2024-05-11
+C01633,Nouvelle-Aquitaine,Paid Social,2024-08-07
+C01634,Nouvelle-Aquitaine,Organic Search,2024-12-28
+C01635,Grand Est,Organic Search,2024-08-18
+C01636,Auvergne-Rhone-Alpes,Email,2024-11-28
+C01637,Auvergne-Rhone-Alpes,Organic Search,2024-03-31
+C01638,Grand Est,Referral,2024-11-21
+C01639,Ile-de-France,Organic Search,2024-11-03
+C01640,Nouvelle-Aquitaine,Email,2025-01-11
+C01641,Nouvelle-Aquitaine,Paid Social,2024-01-25
+C01642,Ile-de-France,Referral,2024-06-10
+C01643,Auvergne-Rhone-Alpes,Referral,2024-02-07
+C01644,Ile-de-France,Paid Social,2024-06-17
+C01645,Ile-de-France,Email,2024-11-14
+C01646,Auvergne-Rhone-Alpes,Organic Search,2024-09-25
+C01647,Ile-de-France,Email,2024-11-12
+C01648,Hauts-de-France,Organic Search,2024-11-05
+C01649,Grand Est,Paid Social,2025-02-20
+C01650,Hauts-de-France,Organic Search,2025-01-04
+C01651,Ile-de-France,Direct,2024-09-03
+C01652,Ile-de-France,Paid Social,2025-01-02
+C01653,Ile-de-France,Email,2024-01-21
+C01654,Ile-de-France,Paid Social,2024-10-29
+C01655,Grand Est,Organic Search,2024-08-07
+C01656,Auvergne-Rhone-Alpes,Organic Search,2025-02-05
+C01657,Ile-de-France,Direct,2024-07-30
+C01658,Hauts-de-France,Referral,2024-03-16
+C01659,Auvergne-Rhone-Alpes,Organic Search,2024-10-31
+C01660,Ile-de-France,Referral,2025-02-03
+C01661,Ile-de-France,Paid Social,2024-01-07
+C01662,Nouvelle-Aquitaine,Organic Search,2024-01-27
+C01663,Hauts-de-France,Paid Social,2024-10-04
+C01664,Ile-de-France,Organic Search,2024-08-21
+C01665,Grand Est,Organic Search,2024-08-18
+C01666,Hauts-de-France,Email,2024-02-07
+C01667,Hauts-de-France,Organic Search,2024-08-28
+C01668,Ile-de-France,Direct,2024-08-26
+C01669,Ile-de-France,Email,2024-12-22
+C01670,Hauts-de-France,Direct,2024-06-12
+C01671,Ile-de-France,Email,2024-05-26
+C01672,Occitanie,Direct,2024-02-04
+C01673,Nouvelle-Aquitaine,Paid Social,2024-08-26
+C01674,Ile-de-France,Paid Social,2024-09-29
+C01675,Hauts-de-France,Paid Social,2024-04-27
+C01676,Grand Est,Direct,2024-11-03
+C01677,Nouvelle-Aquitaine,Organic Search,2025-01-28
+C01678,Auvergne-Rhone-Alpes,Email,2024-03-14
+C01679,Hauts-de-France,Referral,2024-08-28
+C01680,Occitanie,Paid Social,2024-10-18
+C01681,Nouvelle-Aquitaine,Direct,2024-01-08
+C01682,Hauts-de-France,Paid Social,2024-03-16
+C01683,Nouvelle-Aquitaine,Organic Search,2024-06-15
+C01684,Ile-de-France,Email,2024-02-27
+C01685,Ile-de-France,Paid Social,2024-05-29
+C01686,Ile-de-France,Organic Search,2024-03-02
+C01687,Occitanie,Organic Search,2025-01-11
+C01688,Occitanie,Organic Search,2024-09-08
+C01689,Occitanie,Referral,2024-05-18
+C01690,Auvergne-Rhone-Alpes,Direct,2024-11-23
+C01691,Hauts-de-France,Paid Social,2024-01-08
+C01692,Grand Est,Organic Search,2024-09-07
+C01693,Ile-de-France,Paid Social,2024-10-14
+C01694,Nouvelle-Aquitaine,Direct,2024-12-05
+C01695,Nouvelle-Aquitaine,Referral,2024-04-03
+C01696,Occitanie,Organic Search,2024-09-05
+C01697,Ile-de-France,Organic Search,2024-11-18
+C01698,Hauts-de-France,Direct,2024-11-30
+C01699,Grand Est,Direct,2024-03-14
+C01700,Nouvelle-Aquitaine,Organic Search,2025-02-14
+C01701,Grand Est,Direct,2024-04-25
+C01702,Grand Est,Organic Search,2024-06-13
+C01703,Auvergne-Rhone-Alpes,Organic Search,2024-03-21
+C01704,Nouvelle-Aquitaine,Referral,2024-03-03
+C01705,Auvergne-Rhone-Alpes,Paid Social,2024-04-17
+C01706,Grand Est,Paid Social,2024-02-26
+C01707,Ile-de-France,Direct,2024-11-03
+C01708,Auvergne-Rhone-Alpes,Direct,2024-09-07
+C01709,Hauts-de-France,Organic Search,2024-06-12
+C01710,Ile-de-France,Email,2024-08-17
+C01711,Hauts-de-France,Referral,2024-09-10
+C01712,Auvergne-Rhone-Alpes,Email,2024-03-18
+C01713,Grand Est,Direct,2024-05-04
+C01714,Grand Est,Email,2025-01-05
+C01715,Ile-de-France,Organic Search,2024-01-06
+C01716,Hauts-de-France,Organic Search,2025-02-05
+C01717,Auvergne-Rhone-Alpes,Direct,2025-02-09
+C01718,Occitanie,Direct,2024-04-16
+C01719,Nouvelle-Aquitaine,Organic Search,2024-05-14
+C01720,Hauts-de-France,Organic Search,2024-03-27
+C01721,Ile-de-France,Referral,2024-08-23
+C01722,Ile-de-France,Organic Search,2024-03-30
+C01723,Nouvelle-Aquitaine,Organic Search,2024-11-28
+C01724,Occitanie,Direct,2024-06-11
+C01725,Occitanie,Direct,2025-02-10
+C01726,Ile-de-France,Direct,2024-12-24
+C01727,Auvergne-Rhone-Alpes,Email,2024-06-17
+C01728,Hauts-de-France,Paid Social,2024-09-07
+C01729,Ile-de-France,Direct,2024-01-11
+C01730,Auvergne-Rhone-Alpes,Organic Search,2024-01-29
+C01731,Grand Est,Organic Search,2024-07-31
+C01732,Ile-de-France,Direct,2024-07-17
+C01733,Nouvelle-Aquitaine,Email,2024-06-16
+C01734,Ile-de-France,Direct,2024-02-07
+C01735,Hauts-de-France,Organic Search,2024-12-18
+C01736,Nouvelle-Aquitaine,Direct,2024-06-19
+C01737,Grand Est,Email,2024-07-16
+C01738,Ile-de-France,Email,2024-06-18
+C01739,Occitanie,Direct,2024-07-27
+C01740,Hauts-de-France,Paid Social,2024-09-29
+C01741,Ile-de-France,Referral,2024-11-16
+C01742,Ile-de-France,Email,2024-08-18
+C01743,Ile-de-France,Referral,2024-03-10
+C01744,Grand Est,Direct,2025-01-02
+C01745,Nouvelle-Aquitaine,Email,2024-04-29
+C01746,Nouvelle-Aquitaine,Organic Search,2024-01-07
+C01747,Nouvelle-Aquitaine,Organic Search,2024-01-17
+C01748,Occitanie,Direct,2024-11-21
+C01749,Auvergne-Rhone-Alpes,Direct,2024-06-11
+C01750,Auvergne-Rhone-Alpes,Direct,2024-01-10
+C01751,Nouvelle-Aquitaine,Organic Search,2024-12-06
+C01752,Ile-de-France,Paid Social,2024-05-07
+C01753,Grand Est,Referral,2025-02-14
+C01754,Hauts-de-France,Referral,2025-01-04
+C01755,Auvergne-Rhone-Alpes,Organic Search,2024-01-21
+C01756,Occitanie,Email,2024-10-16
+C01757,Ile-de-France,Organic Search,2024-09-10
+C01758,Grand Est,Paid Social,2024-03-13
+C01759,Grand Est,Organic Search,2024-05-24
+C01760,Grand Est,Organic Search,2024-07-25
+C01761,Auvergne-Rhone-Alpes,Organic Search,2024-03-02
+C01762,Ile-de-France,Direct,2024-10-30
+C01763,Ile-de-France,Referral,2024-04-26
+C01764,Ile-de-France,Direct,2025-01-28
+C01765,Ile-de-France,Paid Social,2024-12-02
+C01766,Ile-de-France,Paid Social,2024-09-23
+C01767,Grand Est,Paid Social,2024-02-20
+C01768,Ile-de-France,Email,2024-01-11
+C01769,Ile-de-France,Paid Social,2024-03-02
+C01770,Hauts-de-France,Referral,2024-07-28
+C01771,Occitanie,Direct,2024-11-24
+C01772,Hauts-de-France,Direct,2024-03-05
+C01773,Nouvelle-Aquitaine,Organic Search,2024-10-24
+C01774,Grand Est,Paid Social,2024-01-21
+C01775,Nouvelle-Aquitaine,Organic Search,2024-04-21
+C01776,Occitanie,Organic Search,2024-09-08
+C01777,Nouvelle-Aquitaine,Referral,2024-12-13
+C01778,Auvergne-Rhone-Alpes,Paid Social,2024-11-22
+C01779,Auvergne-Rhone-Alpes,Referral,2024-08-11
+C01780,Auvergne-Rhone-Alpes,Organic Search,2024-01-16
+C01781,Ile-de-France,Direct,2024-05-03
+C01782,Hauts-de-France,Direct,2024-11-25
+C01783,Ile-de-France,Paid Social,2024-02-04
+C01784,Ile-de-France,Direct,2024-10-23
+C01785,Ile-de-France,Organic Search,2024-10-22
+C01786,Hauts-de-France,Referral,2024-11-11
+C01787,Auvergne-Rhone-Alpes,Direct,2024-04-01
+C01788,Nouvelle-Aquitaine,Direct,2024-04-12
+C01789,Hauts-de-France,Direct,2024-03-24
+C01790,Ile-de-France,Paid Social,2024-06-14
+C01791,Hauts-de-France,Direct,2024-08-08
+C01792,Ile-de-France,Email,2024-02-20
+C01793,Ile-de-France,Organic Search,2024-08-26
+C01794,Nouvelle-Aquitaine,Organic Search,2024-04-10
+C01795,Grand Est,Referral,2024-08-24
+C01796,Ile-de-France,Email,2024-05-07
+C01797,Occitanie,Paid Social,2025-02-04
+C01798,Ile-de-France,Direct,2024-05-14
+C01799,Occitanie,Email,2024-12-31
+C01800,Occitanie,Paid Social,2024-03-14
+C01801,Occitanie,Paid Social,2024-02-05
+C01802,Occitanie,Email,2024-03-20
+C01803,Ile-de-France,Referral,2024-06-25
+C01804,Nouvelle-Aquitaine,Email,2025-01-13
+C01805,Nouvelle-Aquitaine,Paid Social,2024-03-15
+C01806,Nouvelle-Aquitaine,Referral,2024-11-25
+C01807,Ile-de-France,Referral,2024-10-19
+C01808,Auvergne-Rhone-Alpes,Direct,2024-05-24
+C01809,Auvergne-Rhone-Alpes,Organic Search,2024-05-21
+C01810,Ile-de-France,Referral,2025-02-02
+C01811,Ile-de-France,Paid Social,2024-10-27
+C01812,Auvergne-Rhone-Alpes,Organic Search,2024-04-10
+C01813,Nouvelle-Aquitaine,Email,2025-01-17
+C01814,Ile-de-France,Referral,2024-06-19
+C01815,Hauts-de-France,Paid Social,2024-02-03
+C01816,Occitanie,Referral,2024-12-07
+C01817,Hauts-de-France,Paid Social,2024-12-30
+C01818,Auvergne-Rhone-Alpes,Organic Search,2024-07-05
+C01819,Occitanie,Paid Social,2024-10-22
+C01820,Occitanie,Paid Social,2024-04-08
+C01821,Grand Est,Email,2024-12-23
+C01822,Occitanie,Direct,2024-06-03
+C01823,Occitanie,Referral,2024-04-22
+C01824,Occitanie,Organic Search,2024-07-29
+C01825,Nouvelle-Aquitaine,Paid Social,2024-04-22
+C01826,Ile-de-France,Organic Search,2024-09-17
+C01827,Occitanie,Email,2024-11-10
+C01828,Auvergne-Rhone-Alpes,Organic Search,2024-06-19
+C01829,Grand Est,Paid Social,2024-11-25
+C01830,Occitanie,Referral,2024-06-30
+C01831,Auvergne-Rhone-Alpes,Email,2025-02-11
+C01832,Grand Est,Organic Search,2024-04-20
+C01833,Auvergne-Rhone-Alpes,Paid Social,2024-10-22
+C01834,Ile-de-France,Email,2024-08-12
+C01835,Ile-de-France,Paid Social,2025-01-31
+C01836,Ile-de-France,Organic Search,2024-04-02
+C01837,Ile-de-France,Direct,2024-03-23
+C01838,Auvergne-Rhone-Alpes,Paid Social,2024-12-30
+C01839,Hauts-de-France,Paid Social,2025-01-13
+C01840,Nouvelle-Aquitaine,Organic Search,2024-11-09
+C01841,Ile-de-France,Paid Social,2024-07-18
+C01842,Occitanie,Paid Social,2024-06-21
+C01843,Ile-de-France,Organic Search,2024-10-06
+C01844,Grand Est,Email,2024-11-09
+C01845,Ile-de-France,Paid Social,2024-04-25
+C01846,Occitanie,Direct,2024-01-03
+C01847,Auvergne-Rhone-Alpes,Direct,2024-01-31
+C01848,Nouvelle-Aquitaine,Organic Search,2024-05-24
+C01849,Auvergne-Rhone-Alpes,Organic Search,2024-10-13
+C01850,Nouvelle-Aquitaine,Referral,2024-07-03
+C01851,Ile-de-France,Direct,2024-09-16
+C01852,Grand Est,Direct,2024-07-16
+C01853,Occitanie,Organic Search,2024-04-15
+C01854,Nouvelle-Aquitaine,Organic Search,2024-11-10
+C01855,Hauts-de-France,Organic Search,2024-10-30
+C01856,Grand Est,Direct,2025-02-08
+C01857,Ile-de-France,Email,2024-12-12
+C01858,Ile-de-France,Paid Social,2024-06-08
+C01859,Ile-de-France,Email,2024-10-22
+C01860,Ile-de-France,Organic Search,2024-05-27
+C01861,Occitanie,Email,2025-01-01
+C01862,Grand Est,Organic Search,2024-09-13
+C01863,Grand Est,Email,2024-12-16
+C01864,Occitanie,Referral,2024-04-28
+C01865,Nouvelle-Aquitaine,Email,2024-01-07
+C01866,Hauts-de-France,Paid Social,2024-02-29
+C01867,Grand Est,Direct,2024-08-11
+C01868,Ile-de-France,Referral,2025-02-07
+C01869,Occitanie,Organic Search,2024-09-20
+C01870,Hauts-de-France,Organic Search,2024-12-06
+C01871,Ile-de-France,Email,2024-07-16
+C01872,Auvergne-Rhone-Alpes,Organic Search,2025-02-06
+C01873,Grand Est,Organic Search,2025-01-30
+C01874,Grand Est,Organic Search,2024-04-01
+C01875,Grand Est,Organic Search,2024-12-28
+C01876,Hauts-de-France,Paid Social,2024-01-08
+C01877,Ile-de-France,Email,2024-09-05
+C01878,Auvergne-Rhone-Alpes,Organic Search,2024-07-02
+C01879,Occitanie,Referral,2024-05-06
+C01880,Occitanie,Organic Search,2025-01-27
+C01881,Occitanie,Paid Social,2024-10-05
+C01882,Nouvelle-Aquitaine,Organic Search,2024-02-28
+C01883,Auvergne-Rhone-Alpes,Referral,2024-02-28
+C01884,Nouvelle-Aquitaine,Direct,2024-02-19
+C01885,Auvergne-Rhone-Alpes,Paid Social,2024-05-07
+C01886,Auvergne-Rhone-Alpes,Organic Search,2024-01-29
+C01887,Ile-de-France,Organic Search,2024-04-20
+C01888,Ile-de-France,Organic Search,2024-11-17
+C01889,Hauts-de-France,Direct,2025-01-01
+C01890,Auvergne-Rhone-Alpes,Organic Search,2024-11-26
+C01891,Ile-de-France,Direct,2024-07-27
+C01892,Nouvelle-Aquitaine,Email,2024-10-19
+C01893,Occitanie,Paid Social,2025-01-31
+C01894,Ile-de-France,Direct,2024-01-23
+C01895,Ile-de-France,Organic Search,2025-01-14
+C01896,Ile-de-France,Referral,2024-10-30
+C01897,Nouvelle-Aquitaine,Organic Search,2024-06-11
+C01898,Ile-de-France,Direct,2024-07-07
+C01899,Ile-de-France,Paid Social,2024-07-03
+C01900,Ile-de-France,Organic Search,2024-03-07
+C01901,Occitanie,Direct,2024-04-06
+C01902,Ile-de-France,Organic Search,2024-05-03
+C01903,Hauts-de-France,Organic Search,2024-01-03
+C01904,Ile-de-France,Referral,2024-07-29
+C01905,Occitanie,Paid Social,2024-07-19
+C01906,Auvergne-Rhone-Alpes,Direct,2024-05-18
+C01907,Auvergne-Rhone-Alpes,Email,2024-03-15
+C01908,Ile-de-France,Email,2025-02-11
+C01909,Hauts-de-France,Organic Search,2024-10-11
+C01910,Grand Est,Organic Search,2024-07-18
+C01911,Ile-de-France,Direct,2024-10-30
+C01912,Ile-de-France,Organic Search,2024-06-05
+C01913,Grand Est,Paid Social,2024-03-31
+C01914,Occitanie,Organic Search,2024-10-09
+C01915,Ile-de-France,Organic Search,2024-11-19
+C01916,Ile-de-France,Email,2024-09-30
+C01917,Nouvelle-Aquitaine,Referral,2024-08-25
+C01918,Nouvelle-Aquitaine,Referral,2024-01-02
+C01919,Occitanie,Direct,2024-09-24
+C01920,Grand Est,Organic Search,2024-09-16
+C01921,Occitanie,Paid Social,2024-06-22
+C01922,Ile-de-France,Organic Search,2024-04-12
+C01923,Auvergne-Rhone-Alpes,Referral,2025-02-15
+C01924,Auvergne-Rhone-Alpes,Paid Social,2024-06-06
+C01925,Ile-de-France,Email,2024-04-24
+C01926,Ile-de-France,Organic Search,2024-10-23
+C01927,Auvergne-Rhone-Alpes,Direct,2024-07-21
+C01928,Nouvelle-Aquitaine,Direct,2024-08-22
+C01929,Ile-de-France,Direct,2024-09-29
+C01930,Auvergne-Rhone-Alpes,Organic Search,2024-06-03
+C01931,Nouvelle-Aquitaine,Direct,2024-03-04
+C01932,Occitanie,Organic Search,2024-03-11
+C01933,Hauts-de-France,Paid Social,2025-01-29
+C01934,Hauts-de-France,Organic Search,2024-07-31
+C01935,Nouvelle-Aquitaine,Organic Search,2024-06-24
+C01936,Ile-de-France,Email,2024-05-14
+C01937,Auvergne-Rhone-Alpes,Organic Search,2024-10-30
+C01938,Occitanie,Paid Social,2025-01-18
+C01939,Ile-de-France,Email,2024-11-18
+C01940,Ile-de-France,Direct,2024-08-12
+C01941,Ile-de-France,Email,2024-07-18
+C01942,Auvergne-Rhone-Alpes,Email,2024-12-29
+C01943,Auvergne-Rhone-Alpes,Organic Search,2024-12-25
+C01944,Ile-de-France,Direct,2024-06-12
+C01945,Hauts-de-France,Organic Search,2025-02-09
+C01946,Grand Est,Organic Search,2024-12-13
+C01947,Ile-de-France,Organic Search,2024-12-21
+C01948,Grand Est,Email,2024-01-24
+C01949,Ile-de-France,Paid Social,2024-02-24
+C01950,Grand Est,Email,2024-05-05
+C01951,Grand Est,Paid Social,2024-11-15
+C01952,Ile-de-France,Paid Social,2024-02-02
+C01953,Hauts-de-France,Paid Social,2024-02-04
+C01954,Grand Est,Organic Search,2024-01-14
+C01955,Grand Est,Paid Social,2024-03-21
+C01956,Grand Est,Email,2025-01-20
+C01957,Occitanie,Paid Social,2024-10-29
+C01958,Ile-de-France,Organic Search,2024-10-28
+C01959,Hauts-de-France,Email,2024-05-02
+C01960,Occitanie,Paid Social,2024-09-19
+C01961,Occitanie,Organic Search,2024-11-23
+C01962,Auvergne-Rhone-Alpes,Organic Search,2024-08-11
+C01963,Occitanie,Paid Social,2024-12-25
+C01964,Ile-de-France,Paid Social,2024-08-27
+C01965,Nouvelle-Aquitaine,Email,2024-05-16
+C01966,Ile-de-France,Organic Search,2024-09-25
+C01967,Nouvelle-Aquitaine,Referral,2025-01-31
+C01968,Hauts-de-France,Organic Search,2024-12-13
+C01969,Auvergne-Rhone-Alpes,Email,2024-07-28
+C01970,Occitanie,Referral,2024-09-07
+C01971,Ile-de-France,Paid Social,2025-02-13
+C01972,Grand Est,Organic Search,2024-11-10
+C01973,Nouvelle-Aquitaine,Paid Social,2024-07-30
+C01974,Auvergne-Rhone-Alpes,Direct,2024-04-28
+C01975,Ile-de-France,Direct,2025-01-15
+C01976,Ile-de-France,Organic Search,2025-02-14
+C01977,Auvergne-Rhone-Alpes,Referral,2024-01-30
+C01978,Grand Est,Paid Social,2024-01-14
+C01979,Nouvelle-Aquitaine,Organic Search,2024-02-18
+C01980,Ile-de-France,Email,2024-06-11
+C01981,Hauts-de-France,Paid Social,2024-03-08
+C01982,Auvergne-Rhone-Alpes,Paid Social,2025-01-05
+C01983,Hauts-de-France,Direct,2025-01-18
+C01984,Ile-de-France,Paid Social,2024-03-16
+C01985,Occitanie,Email,2024-12-14
+C01986,Grand Est,Paid Social,2024-02-29
+C01987,Ile-de-France,Organic Search,2024-11-26
+C01988,Nouvelle-Aquitaine,Paid Social,2024-06-02
+C01989,Grand Est,Direct,2024-01-17
+C01990,Ile-de-France,Paid Social,2024-06-28
+C01991,Ile-de-France,Organic Search,2024-12-11
+C01992,Nouvelle-Aquitaine,Email,2025-01-27
+C01993,Auvergne-Rhone-Alpes,Direct,2024-02-20
+C01994,Ile-de-France,Direct,2024-12-17
+C01995,Auvergne-Rhone-Alpes,Email,2024-05-03
+C01996,Nouvelle-Aquitaine,Paid Social,2024-07-13
+C01997,Ile-de-France,Email,2024-02-15
+C01998,Auvergne-Rhone-Alpes,Direct,2025-02-12
+C01999,Hauts-de-France,Direct,2024-11-27
+C02000,Occitanie,Direct,2024-09-26
+C02001,Hauts-de-France,Paid Social,2024-11-01
+C02002,Auvergne-Rhone-Alpes,Organic Search,2025-01-01
+C02003,Grand Est,Email,2024-03-01
+C02004,Nouvelle-Aquitaine,Organic Search,2024-04-13
+C02005,Ile-de-France,Organic Search,2024-01-16
+C02006,Grand Est,Paid Social,2024-07-24
+C02007,Auvergne-Rhone-Alpes,Email,2024-07-26
+C02008,Ile-de-France,Direct,2024-01-13
+C02009,Ile-de-France,Referral,2024-10-04
+C02010,Nouvelle-Aquitaine,Direct,2024-01-04
+C02011,Ile-de-France,Referral,2024-11-29
+C02012,Ile-de-France,Referral,2024-10-23
+C02013,Ile-de-France,Organic Search,2024-12-08
+C02014,Auvergne-Rhone-Alpes,Email,2024-02-19
+C02015,Auvergne-Rhone-Alpes,Organic Search,2024-12-31
+C02016,Occitanie,Organic Search,2024-08-18
+C02017,Ile-de-France,Organic Search,2024-12-28
+C02018,Ile-de-France,Direct,2024-10-19
+C02019,Occitanie,Referral,2024-10-02
+C02020,Auvergne-Rhone-Alpes,Direct,2024-01-14
+C02021,Nouvelle-Aquitaine,Direct,2024-10-17
+C02022,Ile-de-France,Direct,2024-07-07
+C02023,Ile-de-France,Organic Search,2024-12-22
+C02024,Ile-de-France,Direct,2024-10-14
+C02025,Auvergne-Rhone-Alpes,Direct,2024-02-01
+C02026,Auvergne-Rhone-Alpes,Direct,2025-01-08
+C02027,Hauts-de-France,Organic Search,2024-01-27
+C02028,Auvergne-Rhone-Alpes,Organic Search,2024-05-05
+C02029,Occitanie,Direct,2024-04-01
+C02030,Occitanie,Organic Search,2025-02-13
+C02031,Ile-de-France,Paid Social,2024-03-05
+C02032,Occitanie,Paid Social,2024-12-20
+C02033,Auvergne-Rhone-Alpes,Organic Search,2024-04-03
+C02034,Auvergne-Rhone-Alpes,Organic Search,2024-09-30
+C02035,Ile-de-France,Direct,2024-02-07
+C02036,Hauts-de-France,Direct,2024-06-13
+C02037,Grand Est,Direct,2024-09-18
+C02038,Ile-de-France,Organic Search,2024-10-25
+C02039,Occitanie,Organic Search,2025-01-01
+C02040,Hauts-de-France,Paid Social,2024-12-08
+C02041,Ile-de-France,Paid Social,2024-08-05
+C02042,Hauts-de-France,Organic Search,2024-05-07
+C02043,Nouvelle-Aquitaine,Referral,2024-04-19
+C02044,Grand Est,Direct,2025-02-20
+C02045,Grand Est,Paid Social,2024-09-12
+C02046,Ile-de-France,Paid Social,2025-01-16
+C02047,Auvergne-Rhone-Alpes,Paid Social,2024-07-01
+C02048,Occitanie,Organic Search,2024-07-22
+C02049,Ile-de-France,Organic Search,2024-12-12
+C02050,Auvergne-Rhone-Alpes,Paid Social,2024-10-30
+C02051,Grand Est,Paid Social,2024-03-25
+C02052,Ile-de-France,Paid Social,2024-08-08
+C02053,Auvergne-Rhone-Alpes,Direct,2024-03-30
+C02054,Hauts-de-France,Organic Search,2024-11-15
+C02055,Auvergne-Rhone-Alpes,Organic Search,2024-01-13
+C02056,Auvergne-Rhone-Alpes,Organic Search,2024-12-13
+C02057,Grand Est,Organic Search,2025-01-25
+C02058,Auvergne-Rhone-Alpes,Email,2024-01-10
+C02059,Ile-de-France,Direct,2024-09-21
+C02060,Ile-de-France,Direct,2024-02-03
+C02061,Grand Est,Email,2024-05-31
+C02062,Ile-de-France,Paid Social,2024-05-21
+C02063,Occitanie,Organic Search,2024-08-06
+C02064,Ile-de-France,Paid Social,2025-01-20
+C02065,Auvergne-Rhone-Alpes,Paid Social,2024-07-12
+C02066,Grand Est,Direct,2024-06-16
+C02067,Occitanie,Paid Social,2024-02-08
+C02068,Grand Est,Organic Search,2025-01-07
+C02069,Ile-de-France,Organic Search,2024-05-12
+C02070,Occitanie,Organic Search,2024-07-13
+C02071,Hauts-de-France,Direct,2024-02-08
+C02072,Auvergne-Rhone-Alpes,Organic Search,2024-05-01
+C02073,Ile-de-France,Organic Search,2024-08-20
+C02074,Hauts-de-France,Organic Search,2025-01-13
+C02075,Auvergne-Rhone-Alpes,Direct,2024-05-18
+C02076,Occitanie,Paid Social,2024-08-23
+C02077,Grand Est,Email,2025-01-02
+C02078,Ile-de-France,Paid Social,2024-05-31
+C02079,Ile-de-France,Organic Search,2024-05-03
+C02080,Ile-de-France,Direct,2024-01-19
+C02081,Auvergne-Rhone-Alpes,Organic Search,2025-01-16
+C02082,Ile-de-France,Organic Search,2024-02-16
+C02083,Nouvelle-Aquitaine,Email,2024-03-31
+C02084,Ile-de-France,Organic Search,2024-02-28
+C02085,Nouvelle-Aquitaine,Organic Search,2024-10-24
+C02086,Ile-de-France,Direct,2024-06-02
+C02087,Auvergne-Rhone-Alpes,Paid Social,2024-10-23
+C02088,Auvergne-Rhone-Alpes,Organic Search,2024-09-12
+C02089,Nouvelle-Aquitaine,Paid Social,2024-01-07
+C02090,Auvergne-Rhone-Alpes,Referral,2024-05-09
+C02091,Auvergne-Rhone-Alpes,Organic Search,2024-01-02
+C02092,Hauts-de-France,Organic Search,2024-01-28
+C02093,Occitanie,Email,2024-07-17
+C02094,Ile-de-France,Email,2024-04-21
+C02095,Grand Est,Direct,2024-02-07
+C02096,Auvergne-Rhone-Alpes,Paid Social,2024-06-20
+C02097,Ile-de-France,Organic Search,2024-07-08
+C02098,Occitanie,Paid Social,2025-02-20
+C02099,Ile-de-France,Email,2024-10-04
+C02100,Ile-de-France,Organic Search,2024-06-14
+C02101,Nouvelle-Aquitaine,Email,2024-07-17
+C02102,Ile-de-France,Organic Search,2024-02-07
+C02103,Hauts-de-France,Direct,2024-06-11
+C02104,Grand Est,Direct,2024-09-01
+C02105,Occitanie,Paid Social,2024-01-09
+C02106,Nouvelle-Aquitaine,Direct,2025-01-21
+C02107,Nouvelle-Aquitaine,Direct,2024-08-04
+C02108,Grand Est,Organic Search,2024-11-26
+C02109,Auvergne-Rhone-Alpes,Paid Social,2024-04-25
+C02110,Ile-de-France,Email,2024-12-17
+C02111,Occitanie,Organic Search,2024-06-03
+C02112,Occitanie,Paid Social,2025-01-24
+C02113,Ile-de-France,Organic Search,2024-08-07
+C02114,Occitanie,Direct,2024-09-24
+C02115,Ile-de-France,Paid Social,2024-03-26
+C02116,Grand Est,Referral,2025-02-21
+C02117,Ile-de-France,Paid Social,2024-03-21
+C02118,Ile-de-France,Organic Search,2024-01-14
+C02119,Ile-de-France,Direct,2024-07-03
+C02120,Ile-de-France,Organic Search,2024-12-16
+C02121,Ile-de-France,Organic Search,2025-01-21
+C02122,Ile-de-France,Paid Social,2024-12-25
+C02123,Ile-de-France,Email,2024-08-20
+C02124,Ile-de-France,Paid Social,2025-01-20
+C02125,Auvergne-Rhone-Alpes,Organic Search,2024-07-25
+C02126,Auvergne-Rhone-Alpes,Paid Social,2024-07-19
+C02127,Auvergne-Rhone-Alpes,Organic Search,2024-03-16
+C02128,Auvergne-Rhone-Alpes,Organic Search,2024-11-26
+C02129,Ile-de-France,Paid Social,2024-05-12
+C02130,Ile-de-France,Organic Search,2024-03-22
+C02131,Ile-de-France,Organic Search,2024-06-04
+C02132,Nouvelle-Aquitaine,Email,2024-09-10
+C02133,Grand Est,Referral,2024-04-23
+C02134,Grand Est,Organic Search,2024-05-30
+C02135,Occitanie,Paid Social,2024-05-18
+C02136,Occitanie,Organic Search,2024-09-07
+C02137,Ile-de-France,Direct,2024-10-26
+C02138,Hauts-de-France,Organic Search,2024-10-10
+C02139,Hauts-de-France,Organic Search,2024-02-29
+C02140,Hauts-de-France,Paid Social,2024-05-25
+C02141,Grand Est,Organic Search,2024-09-29
+C02142,Auvergne-Rhone-Alpes,Organic Search,2024-03-31
+C02143,Hauts-de-France,Organic Search,2024-01-30
+C02144,Hauts-de-France,Email,2024-05-15
+C02145,Ile-de-France,Email,2024-10-12
+C02146,Grand Est,Email,2024-10-05
+C02147,Ile-de-France,Referral,2024-02-24
+C02148,Grand Est,Paid Social,2024-10-11
+C02149,Hauts-de-France,Direct,2024-03-22
+C02150,Ile-de-France,Referral,2024-11-07
+C02151,Nouvelle-Aquitaine,Direct,2024-08-25
+C02152,Ile-de-France,Referral,2024-02-23
+C02153,Hauts-de-France,Paid Social,2024-05-27
+C02154,Hauts-de-France,Organic Search,2024-12-09
+C02155,Occitanie,Paid Social,2024-06-30
+C02156,Hauts-de-France,Organic Search,2024-10-16
+C02157,Ile-de-France,Paid Social,2024-11-10
+C02158,Ile-de-France,Organic Search,2024-01-13
+C02159,Auvergne-Rhone-Alpes,Organic Search,2025-01-26
+C02160,Ile-de-France,Direct,2024-05-20
+C02161,Auvergne-Rhone-Alpes,Email,2024-11-29
+C02162,Ile-de-France,Email,2024-07-15
+C02163,Auvergne-Rhone-Alpes,Paid Social,2024-08-30
+C02164,Auvergne-Rhone-Alpes,Email,2024-05-31
+C02165,Hauts-de-France,Direct,2024-12-24
+C02166,Ile-de-France,Email,2024-02-19
+C02167,Grand Est,Email,2025-01-11
+C02168,Auvergne-Rhone-Alpes,Paid Social,2024-03-28
+C02169,Auvergne-Rhone-Alpes,Paid Social,2025-01-05
+C02170,Occitanie,Email,2024-01-11
+C02171,Auvergne-Rhone-Alpes,Direct,2024-01-06
+C02172,Ile-de-France,Paid Social,2024-02-09
+C02173,Occitanie,Paid Social,2024-08-18
+C02174,Ile-de-France,Paid Social,2024-04-21
+C02175,Auvergne-Rhone-Alpes,Paid Social,2024-09-08
+C02176,Occitanie,Direct,2024-12-10
+C02177,Auvergne-Rhone-Alpes,Referral,2024-01-12
+C02178,Hauts-de-France,Paid Social,2024-08-09
+C02179,Ile-de-France,Paid Social,2024-11-06
+C02180,Grand Est,Paid Social,2024-06-27
+C02181,Hauts-de-France,Organic Search,2025-01-23
+C02182,Grand Est,Paid Social,2024-10-05
+C02183,Hauts-de-France,Direct,2024-01-15
+C02184,Ile-de-France,Email,2024-08-15
+C02185,Occitanie,Organic Search,2024-06-10
+C02186,Ile-de-France,Referral,2024-02-25
+C02187,Hauts-de-France,Referral,2025-02-03
+C02188,Occitanie,Organic Search,2024-04-03
+C02189,Ile-de-France,Email,2024-02-05
+C02190,Grand Est,Email,2024-04-03
+C02191,Ile-de-France,Direct,2024-12-11
+C02192,Occitanie,Organic Search,2024-09-08
+C02193,Nouvelle-Aquitaine,Organic Search,2024-12-10
+C02194,Ile-de-France,Paid Social,2024-07-12
+C02195,Occitanie,Organic Search,2024-02-19
+C02196,Hauts-de-France,Paid Social,2024-06-11
+C02197,Ile-de-France,Referral,2024-03-24
+C02198,Occitanie,Organic Search,2024-08-21
+C02199,Ile-de-France,Paid Social,2024-04-23
+C02200,Nouvelle-Aquitaine,Direct,2025-02-11
+C02201,Ile-de-France,Paid Social,2024-06-07
+C02202,Grand Est,Paid Social,2024-05-11
+C02203,Grand Est,Email,2025-02-17
+C02204,Ile-de-France,Organic Search,2024-08-06
+C02205,Auvergne-Rhone-Alpes,Organic Search,2024-03-12
+C02206,Occitanie,Email,2024-07-20
+C02207,Nouvelle-Aquitaine,Paid Social,2024-04-16
+C02208,Auvergne-Rhone-Alpes,Organic Search,2024-10-27
+C02209,Ile-de-France,Organic Search,2024-08-28
+C02210,Ile-de-France,Direct,2024-11-02
+C02211,Grand Est,Organic Search,2025-01-29
+C02212,Auvergne-Rhone-Alpes,Referral,2024-11-02
+C02213,Hauts-de-France,Paid Social,2024-05-23
+C02214,Auvergne-Rhone-Alpes,Email,2024-03-25
+C02215,Grand Est,Organic Search,2024-08-10
+C02216,Ile-de-France,Organic Search,2024-07-07
+C02217,Ile-de-France,Paid Social,2024-05-11
+C02218,Grand Est,Email,2024-12-06
+C02219,Grand Est,Organic Search,2025-01-16
+C02220,Ile-de-France,Paid Social,2024-06-09
+C02221,Auvergne-Rhone-Alpes,Paid Social,2024-10-12
+C02222,Auvergne-Rhone-Alpes,Organic Search,2025-02-17
+C02223,Auvergne-Rhone-Alpes,Email,2024-01-05
+C02224,Ile-de-France,Organic Search,2024-06-02
+C02225,Grand Est,Paid Social,2024-11-05
+C02226,Ile-de-France,Organic Search,2024-07-28
+C02227,Nouvelle-Aquitaine,Paid Social,2024-11-28
+C02228,Ile-de-France,Paid Social,2024-07-18
+C02229,Ile-de-France,Paid Social,2024-01-28
+C02230,Nouvelle-Aquitaine,Paid Social,2024-07-01
+C02231,Auvergne-Rhone-Alpes,Direct,2024-06-18
+C02232,Nouvelle-Aquitaine,Paid Social,2024-12-21
+C02233,Ile-de-France,Direct,2024-03-02
+C02234,Grand Est,Organic Search,2024-03-06
+C02235,Nouvelle-Aquitaine,Paid Social,2024-02-29
+C02236,Hauts-de-France,Organic Search,2024-08-26
+C02237,Ile-de-France,Paid Social,2025-02-22
+C02238,Auvergne-Rhone-Alpes,Email,2024-09-16
+C02239,Auvergne-Rhone-Alpes,Direct,2024-12-08
+C02240,Occitanie,Email,2024-12-23
+C02241,Ile-de-France,Email,2024-09-09
+C02242,Ile-de-France,Organic Search,2024-09-12
+C02243,Auvergne-Rhone-Alpes,Organic Search,2024-04-12
+C02244,Ile-de-France,Referral,2025-02-07
+C02245,Auvergne-Rhone-Alpes,Organic Search,2024-11-26
+C02246,Ile-de-France,Organic Search,2025-01-01
+C02247,Ile-de-France,Direct,2025-02-17
+C02248,Occitanie,Direct,2024-05-26
+C02249,Auvergne-Rhone-Alpes,Email,2024-03-01
+C02250,Auvergne-Rhone-Alpes,Paid Social,2024-12-27
+C02251,Occitanie,Direct,2024-07-17
+C02252,Hauts-de-France,Organic Search,2025-02-06
+C02253,Auvergne-Rhone-Alpes,Paid Social,2024-10-18
+C02254,Occitanie,Paid Social,2024-04-18
+C02255,Grand Est,Direct,2024-05-29
+C02256,Occitanie,Direct,2024-09-13
+C02257,Grand Est,Email,2024-06-14
+C02258,Hauts-de-France,Organic Search,2024-04-28
+C02259,Ile-de-France,Paid Social,2024-03-29
+C02260,Auvergne-Rhone-Alpes,Organic Search,2024-09-29
+C02261,Nouvelle-Aquitaine,Direct,2024-01-15
+C02262,Grand Est,Organic Search,2024-02-09
+C02263,Auvergne-Rhone-Alpes,Organic Search,2024-01-18
+C02264,Ile-de-France,Referral,2024-11-04
+C02265,Occitanie,Paid Social,2024-01-13
+C02266,Ile-de-France,Direct,2024-06-25
+C02267,Nouvelle-Aquitaine,Organic Search,2024-02-20
+C02268,Occitanie,Direct,2024-09-03
+C02269,Nouvelle-Aquitaine,Organic Search,2024-01-15
+C02270,Hauts-de-France,Organic Search,2024-01-11
+C02271,Occitanie,Paid Social,2024-06-21
+C02272,Occitanie,Organic Search,2024-10-19
+C02273,Nouvelle-Aquitaine,Email,2024-02-16
+C02274,Hauts-de-France,Organic Search,2024-07-27
+C02275,Hauts-de-France,Organic Search,2024-12-06
+C02276,Ile-de-France,Referral,2024-09-19
+C02277,Occitanie,Organic Search,2024-11-11
+C02278,Ile-de-France,Email,2024-05-12
+C02279,Hauts-de-France,Referral,2025-01-30
+C02280,Nouvelle-Aquitaine,Organic Search,2024-03-02
+C02281,Auvergne-Rhone-Alpes,Referral,2024-09-11
+C02282,Ile-de-France,Organic Search,2024-07-01
+C02283,Auvergne-Rhone-Alpes,Paid Social,2024-01-14
+C02284,Nouvelle-Aquitaine,Organic Search,2025-01-31
+C02285,Ile-de-France,Direct,2024-10-21
+C02286,Ile-de-France,Email,2024-04-05
+C02287,Grand Est,Paid Social,2024-01-22
+C02288,Hauts-de-France,Direct,2024-10-10
+C02289,Ile-de-France,Paid Social,2024-08-16
+C02290,Ile-de-France,Direct,2024-01-21
+C02291,Grand Est,Referral,2025-02-18
+C02292,Nouvelle-Aquitaine,Direct,2024-10-28
+C02293,Occitanie,Direct,2024-07-13
+C02294,Ile-de-France,Direct,2024-04-10
+C02295,Ile-de-France,Organic Search,2024-04-23
+C02296,Ile-de-France,Referral,2024-07-08
+C02297,Nouvelle-Aquitaine,Direct,2024-01-25
+C02298,Ile-de-France,Email,2024-06-03
+C02299,Ile-de-France,Organic Search,2024-04-01
+C02300,Nouvelle-Aquitaine,Direct,2024-02-17
+C02301,Grand Est,Organic Search,2024-02-22
+C02302,Nouvelle-Aquitaine,Paid Social,2024-05-25
+C02303,Auvergne-Rhone-Alpes,Paid Social,2024-06-09
+C02304,Auvergne-Rhone-Alpes,Organic Search,2024-05-27
+C02305,Auvergne-Rhone-Alpes,Referral,2024-10-16
+C02306,Auvergne-Rhone-Alpes,Organic Search,2024-08-07
+C02307,Occitanie,Email,2024-03-21
+C02308,Auvergne-Rhone-Alpes,Direct,2025-02-12
+C02309,Occitanie,Paid Social,2024-11-02
+C02310,Grand Est,Referral,2024-07-16
+C02311,Grand Est,Organic Search,2024-01-21
+C02312,Ile-de-France,Direct,2025-01-19
+C02313,Auvergne-Rhone-Alpes,Direct,2024-11-08
+C02314,Ile-de-France,Organic Search,2024-07-12
+C02315,Auvergne-Rhone-Alpes,Email,2024-03-08
+C02316,Ile-de-France,Paid Social,2024-02-15
+C02317,Ile-de-France,Paid Social,2024-05-01
+C02318,Hauts-de-France,Referral,2024-04-06
+C02319,Occitanie,Paid Social,2024-03-28
+C02320,Grand Est,Email,2024-06-20
+C02321,Ile-de-France,Organic Search,2024-01-20
+C02322,Ile-de-France,Paid Social,2024-05-16
+C02323,Auvergne-Rhone-Alpes,Direct,2024-12-31
+C02324,Ile-de-France,Organic Search,2024-12-29
+C02325,Ile-de-France,Email,2024-01-04
+C02326,Grand Est,Organic Search,2024-10-12
+C02327,Ile-de-France,Direct,2025-02-20
+C02328,Ile-de-France,Email,2024-08-30
+C02329,Occitanie,Paid Social,2024-06-12
+C02330,Occitanie,Organic Search,2024-07-25
+C02331,Occitanie,Paid Social,2024-03-30
+C02332,Auvergne-Rhone-Alpes,Direct,2024-06-15
+C02333,Hauts-de-France,Paid Social,2025-01-28
+C02334,Ile-de-France,Paid Social,2024-09-14
+C02335,Auvergne-Rhone-Alpes,Referral,2024-06-29
+C02336,Nouvelle-Aquitaine,Paid Social,2024-02-22
+C02337,Hauts-de-France,Paid Social,2025-01-15
+C02338,Auvergne-Rhone-Alpes,Paid Social,2024-03-09
+C02339,Occitanie,Organic Search,2024-10-30
+C02340,Ile-de-France,Referral,2024-05-07
+C02341,Ile-de-France,Direct,2024-04-27
+C02342,Ile-de-France,Direct,2024-03-12
+C02343,Nouvelle-Aquitaine,Direct,2024-06-06
+C02344,Ile-de-France,Paid Social,2024-10-11
+C02345,Nouvelle-Aquitaine,Organic Search,2024-06-23
+C02346,Ile-de-France,Email,2024-01-11
+C02347,Hauts-de-France,Direct,2024-04-20
+C02348,Hauts-de-France,Referral,2024-03-08
+C02349,Ile-de-France,Paid Social,2024-06-17
+C02350,Ile-de-France,Email,2025-01-14
+C02351,Ile-de-France,Referral,2025-02-08
+C02352,Hauts-de-France,Direct,2025-02-22
+C02353,Ile-de-France,Referral,2024-02-17
+C02354,Occitanie,Paid Social,2024-07-23
+C02355,Auvergne-Rhone-Alpes,Organic Search,2024-01-20
+C02356,Hauts-de-France,Paid Social,2024-07-27
+C02357,Auvergne-Rhone-Alpes,Paid Social,2024-08-30
+C02358,Occitanie,Direct,2024-11-20
+C02359,Grand Est,Paid Social,2024-05-21
+C02360,Ile-de-France,Paid Social,2024-01-16
+C02361,Hauts-de-France,Paid Social,2024-07-09
+C02362,Ile-de-France,Email,2024-06-28
+C02363,Auvergne-Rhone-Alpes,Paid Social,2024-09-19
+C02364,Grand Est,Organic Search,2024-02-11
+C02365,Nouvelle-Aquitaine,Direct,2024-09-14
+C02366,Nouvelle-Aquitaine,Paid Social,2024-06-17
+C02367,Ile-de-France,Paid Social,2024-11-06
+C02368,Auvergne-Rhone-Alpes,Organic Search,2025-02-17
+C02369,Auvergne-Rhone-Alpes,Email,2024-04-05
+C02370,Occitanie,Referral,2024-11-12
+C02371,Auvergne-Rhone-Alpes,Direct,2024-02-23
+C02372,Auvergne-Rhone-Alpes,Organic Search,2025-02-17
+C02373,Ile-de-France,Direct,2024-07-21
+C02374,Ile-de-France,Referral,2024-11-09
+C02375,Auvergne-Rhone-Alpes,Organic Search,2024-11-22
+C02376,Ile-de-France,Organic Search,2024-09-12
+C02377,Hauts-de-France,Organic Search,2024-06-10
+C02378,Occitanie,Direct,2024-11-12
+C02379,Ile-de-France,Organic Search,2024-07-19
+C02380,Nouvelle-Aquitaine,Paid Social,2024-10-03
+C02381,Hauts-de-France,Referral,2024-09-14
+C02382,Ile-de-France,Direct,2024-07-13
+C02383,Ile-de-France,Email,2024-02-19
+C02384,Ile-de-France,Referral,2024-05-02
+C02385,Ile-de-France,Organic Search,2025-01-28
+C02386,Hauts-de-France,Direct,2024-08-06
+C02387,Grand Est,Organic Search,2024-09-24
+C02388,Ile-de-France,Organic Search,2024-04-18
+C02389,Nouvelle-Aquitaine,Direct,2024-10-23
+C02390,Ile-de-France,Organic Search,2024-07-23
+C02391,Occitanie,Organic Search,2024-04-01
+C02392,Nouvelle-Aquitaine,Email,2024-03-02
+C02393,Auvergne-Rhone-Alpes,Paid Social,2024-06-14
+C02394,Ile-de-France,Organic Search,2024-08-25
+C02395,Occitanie,Email,2024-04-27
+C02396,Grand Est,Referral,2024-04-13
+C02397,Ile-de-France,Referral,2024-04-23
+C02398,Ile-de-France,Organic Search,2024-05-03
+C02399,Ile-de-France,Email,2024-11-06
+C02400,Occitanie,Direct,2024-07-28
+C02401,Occitanie,Organic Search,2024-07-16
+C02402,Hauts-de-France,Organic Search,2024-03-09
+C02403,Nouvelle-Aquitaine,Organic Search,2024-08-16
+C02404,Grand Est,Paid Social,2025-02-08
+C02405,Hauts-de-France,Organic Search,2024-11-09
+C02406,Ile-de-France,Referral,2024-07-06
+C02407,Occitanie,Direct,2024-05-08
+C02408,Ile-de-France,Organic Search,2024-05-27
+C02409,Auvergne-Rhone-Alpes,Email,2024-01-12
+C02410,Grand Est,Organic Search,2024-01-13
+C02411,Nouvelle-Aquitaine,Organic Search,2024-11-22
+C02412,Grand Est,Referral,2024-12-20
+C02413,Auvergne-Rhone-Alpes,Paid Social,2025-02-10
+C02414,Occitanie,Direct,2024-09-19
+C02415,Auvergne-Rhone-Alpes,Paid Social,2025-01-25
+C02416,Ile-de-France,Organic Search,2024-06-23
+C02417,Ile-de-France,Paid Social,2024-04-16
+C02418,Occitanie,Organic Search,2024-04-13
+C02419,Ile-de-France,Direct,2024-04-09
+C02420,Grand Est,Email,2024-11-08
+C02421,Ile-de-France,Paid Social,2024-01-05
+C02422,Ile-de-France,Paid Social,2025-02-01
+C02423,Hauts-de-France,Email,2024-11-21
+C02424,Ile-de-France,Referral,2024-06-08
+C02425,Grand Est,Organic Search,2024-10-21
+C02426,Nouvelle-Aquitaine,Organic Search,2024-02-26
+C02427,Ile-de-France,Organic Search,2024-06-30
+C02428,Nouvelle-Aquitaine,Paid Social,2024-02-15
+C02429,Nouvelle-Aquitaine,Paid Social,2024-02-17
+C02430,Nouvelle-Aquitaine,Organic Search,2024-01-03
+C02431,Hauts-de-France,Paid Social,2024-11-30
+C02432,Nouvelle-Aquitaine,Paid Social,2024-11-08
+C02433,Occitanie,Organic Search,2025-01-10
+C02434,Auvergne-Rhone-Alpes,Direct,2025-02-16
+C02435,Nouvelle-Aquitaine,Email,2025-02-09
+C02436,Grand Est,Paid Social,2025-02-20
+C02437,Occitanie,Paid Social,2024-01-07
+C02438,Nouvelle-Aquitaine,Paid Social,2024-11-25
+C02439,Auvergne-Rhone-Alpes,Direct,2024-10-30
+C02440,Nouvelle-Aquitaine,Email,2024-03-09
+C02441,Grand Est,Paid Social,2024-02-27
+C02442,Ile-de-France,Direct,2025-02-14
+C02443,Ile-de-France,Direct,2025-01-05
+C02444,Occitanie,Direct,2024-05-17
+C02445,Auvergne-Rhone-Alpes,Organic Search,2024-02-01
+C02446,Occitanie,Organic Search,2024-05-20
+C02447,Ile-de-France,Email,2024-01-03
+C02448,Auvergne-Rhone-Alpes,Paid Social,2024-10-15
+C02449,Occitanie,Email,2024-06-08
+C02450,Occitanie,Referral,2024-01-21
+C02451,Nouvelle-Aquitaine,Organic Search,2025-02-15
+C02452,Nouvelle-Aquitaine,Organic Search,2024-12-12
+C02453,Nouvelle-Aquitaine,Paid Social,2025-01-14
+C02454,Hauts-de-France,Organic Search,2025-02-22
+C02455,Occitanie,Email,2024-01-06
+C02456,Occitanie,Referral,2024-11-21
+C02457,Occitanie,Paid Social,2024-11-26
+C02458,Ile-de-France,Referral,2024-11-24
+C02459,Ile-de-France,Paid Social,2024-04-21
+C02460,Occitanie,Referral,2024-06-12
+C02461,Hauts-de-France,Organic Search,2025-01-25
+C02462,Nouvelle-Aquitaine,Referral,2024-01-28
+C02463,Ile-de-France,Referral,2024-09-26
+C02464,Occitanie,Organic Search,2024-11-28
+C02465,Ile-de-France,Email,2024-12-01
+C02466,Nouvelle-Aquitaine,Direct,2024-09-07
+C02467,Hauts-de-France,Organic Search,2024-11-18
+C02468,Occitanie,Referral,2025-01-16
+C02469,Occitanie,Direct,2024-11-17
+C02470,Auvergne-Rhone-Alpes,Direct,2024-02-18
+C02471,Auvergne-Rhone-Alpes,Paid Social,2024-04-12
+C02472,Hauts-de-France,Email,2024-05-08
+C02473,Nouvelle-Aquitaine,Direct,2024-05-24
+C02474,Occitanie,Email,2024-05-31
+C02475,Auvergne-Rhone-Alpes,Organic Search,2024-04-02
+C02476,Ile-de-France,Organic Search,2024-10-13
+C02477,Ile-de-France,Referral,2024-02-16
+C02478,Ile-de-France,Paid Social,2024-11-26
+C02479,Auvergne-Rhone-Alpes,Organic Search,2024-10-03
+C02480,Grand Est,Paid Social,2025-02-07
+C02481,Occitanie,Referral,2024-01-03
+C02482,Ile-de-France,Paid Social,2024-05-04
+C02483,Ile-de-France,Direct,2025-01-12
+C02484,Auvergne-Rhone-Alpes,Referral,2024-07-26
+C02485,Hauts-de-France,Direct,2024-08-23
+C02486,Auvergne-Rhone-Alpes,Direct,2024-01-13
+C02487,Hauts-de-France,Organic Search,2024-11-16
+C02488,Hauts-de-France,Email,2024-04-16
+C02489,Ile-de-France,Organic Search,2025-02-08
+C02490,Occitanie,Direct,2024-06-06
+C02491,Grand Est,Organic Search,2024-03-20
+C02492,Auvergne-Rhone-Alpes,Email,2024-09-06
+C02493,Ile-de-France,Direct,2024-07-19
+C02494,Grand Est,Organic Search,2024-07-16
+C02495,Grand Est,Direct,2025-02-02
+C02496,Occitanie,Organic Search,2024-06-02
+C02497,Occitanie,Paid Social,2024-06-16
+C02498,Ile-de-France,Paid Social,2024-09-19
+C02499,Hauts-de-France,Paid Social,2024-03-12
+C02500,Occitanie,Email,2024-12-14
+C02501,Ile-de-France,Direct,2024-04-06
+C02502,Nouvelle-Aquitaine,Paid Social,2024-04-11
+C02503,Grand Est,Email,2024-01-05
+C02504,Hauts-de-France,Direct,2024-05-24
+C02505,Ile-de-France,Referral,2024-09-01
+C02506,Ile-de-France,Organic Search,2024-10-23
+C02507,Grand Est,Direct,2025-01-12
+C02508,Grand Est,Organic Search,2024-11-22
+C02509,Occitanie,Email,2024-05-14
+C02510,Nouvelle-Aquitaine,Email,2024-12-12
+C02511,Auvergne-Rhone-Alpes,Referral,2024-03-22
+C02512,Auvergne-Rhone-Alpes,Organic Search,2024-03-28
+C02513,Ile-de-France,Organic Search,2024-05-30
+C02514,Ile-de-France,Referral,2024-08-14
+C02515,Ile-de-France,Organic Search,2024-03-26
+C02516,Hauts-de-France,Paid Social,2025-01-13
+C02517,Ile-de-France,Referral,2024-04-23
+C02518,Ile-de-France,Email,2024-06-13
+C02519,Occitanie,Organic Search,2024-09-11
+C02520,Ile-de-France,Paid Social,2024-06-29
+C02521,Ile-de-France,Direct,2024-06-18
+C02522,Occitanie,Paid Social,2025-02-17
+C02523,Auvergne-Rhone-Alpes,Organic Search,2024-07-02
+C02524,Occitanie,Organic Search,2024-02-17
+C02525,Grand Est,Paid Social,2024-11-02
+C02526,Ile-de-France,Direct,2024-10-23
+C02527,Grand Est,Paid Social,2024-04-01
+C02528,Grand Est,Organic Search,2024-12-23
+C02529,Hauts-de-France,Paid Social,2024-06-13
+C02530,Nouvelle-Aquitaine,Organic Search,2024-03-04
+C02531,Occitanie,Organic Search,2024-03-13
+C02532,Nouvelle-Aquitaine,Direct,2024-10-27
+C02533,Nouvelle-Aquitaine,Referral,2024-03-31
+C02534,Ile-de-France,Organic Search,2024-07-16
+C02535,Grand Est,Paid Social,2024-11-04
+C02536,Occitanie,Organic Search,2024-12-24
+C02537,Hauts-de-France,Organic Search,2024-07-24
+C02538,Auvergne-Rhone-Alpes,Email,2025-01-16
+C02539,Ile-de-France,Paid Social,2024-05-07
+C02540,Occitanie,Referral,2025-01-01
+C02541,Occitanie,Direct,2024-04-15
+C02542,Auvergne-Rhone-Alpes,Organic Search,2024-01-28
+C02543,Auvergne-Rhone-Alpes,Direct,2024-10-31
+C02544,Ile-de-France,Paid Social,2024-11-13
+C02545,Occitanie,Organic Search,2025-01-24
+C02546,Auvergne-Rhone-Alpes,Direct,2025-01-22
+C02547,Grand Est,Organic Search,2024-02-12
+C02548,Ile-de-France,Email,2024-09-17
+C02549,Ile-de-France,Referral,2024-10-22
+C02550,Ile-de-France,Organic Search,2024-09-09
+C02551,Occitanie,Direct,2024-01-08
+C02552,Occitanie,Organic Search,2024-01-19
+C02553,Nouvelle-Aquitaine,Direct,2024-10-08
+C02554,Grand Est,Organic Search,2024-12-25
+C02555,Ile-de-France,Organic Search,2024-03-16
+C02556,Nouvelle-Aquitaine,Paid Social,2024-01-20
+C02557,Ile-de-France,Direct,2024-06-18
+C02558,Ile-de-France,Organic Search,2024-05-11
+C02559,Auvergne-Rhone-Alpes,Direct,2025-02-16
+C02560,Ile-de-France,Organic Search,2025-01-23
+C02561,Occitanie,Paid Social,2024-08-22
+C02562,Nouvelle-Aquitaine,Paid Social,2025-02-02
+C02563,Nouvelle-Aquitaine,Organic Search,2024-04-06
+C02564,Occitanie,Direct,2025-02-20
+C02565,Occitanie,Paid Social,2024-07-06
+C02566,Auvergne-Rhone-Alpes,Email,2024-07-19
+C02567,Ile-de-France,Email,2024-01-22
+C02568,Ile-de-France,Paid Social,2024-03-15
+C02569,Nouvelle-Aquitaine,Email,2024-03-22
+C02570,Grand Est,Direct,2024-07-23
+C02571,Ile-de-France,Email,2024-03-20
+C02572,Occitanie,Paid Social,2024-02-12
+C02573,Nouvelle-Aquitaine,Email,2024-09-11
+C02574,Hauts-de-France,Email,2025-01-01
+C02575,Occitanie,Paid Social,2024-01-30
+C02576,Occitanie,Email,2024-08-23
+C02577,Nouvelle-Aquitaine,Paid Social,2025-02-07
+C02578,Hauts-de-France,Referral,2024-06-18
+C02579,Ile-de-France,Direct,2024-03-17
+C02580,Grand Est,Direct,2024-02-03
+C02581,Ile-de-France,Direct,2025-01-28
+C02582,Hauts-de-France,Email,2024-06-19
+C02583,Ile-de-France,Referral,2024-02-14
+C02584,Ile-de-France,Organic Search,2024-12-29
+C02585,Ile-de-France,Paid Social,2024-12-02
+C02586,Auvergne-Rhone-Alpes,Organic Search,2024-10-22
+C02587,Auvergne-Rhone-Alpes,Organic Search,2024-02-05
+C02588,Ile-de-France,Direct,2024-02-04
+C02589,Auvergne-Rhone-Alpes,Direct,2024-04-01
+C02590,Auvergne-Rhone-Alpes,Paid Social,2024-03-08
+C02591,Hauts-de-France,Organic Search,2024-08-11
+C02592,Grand Est,Email,2024-06-13
+C02593,Nouvelle-Aquitaine,Paid Social,2024-11-17
+C02594,Ile-de-France,Direct,2024-02-12
+C02595,Ile-de-France,Direct,2024-11-01
+C02596,Grand Est,Paid Social,2025-01-27
+C02597,Ile-de-France,Organic Search,2024-02-24
+C02598,Auvergne-Rhone-Alpes,Organic Search,2024-09-30
+C02599,Grand Est,Organic Search,2024-08-01
+C02600,Grand Est,Paid Social,2024-02-09
+C02601,Auvergne-Rhone-Alpes,Organic Search,2024-05-02
+C02602,Nouvelle-Aquitaine,Organic Search,2024-11-26
+C02603,Auvergne-Rhone-Alpes,Organic Search,2024-12-30
+C02604,Nouvelle-Aquitaine,Organic Search,2024-06-03
+C02605,Ile-de-France,Referral,2024-02-14
+C02606,Ile-de-France,Organic Search,2024-04-12
+C02607,Occitanie,Direct,2024-12-20
+C02608,Ile-de-France,Organic Search,2024-08-27
+C02609,Nouvelle-Aquitaine,Organic Search,2024-06-29
+C02610,Auvergne-Rhone-Alpes,Organic Search,2024-01-06
+C02611,Grand Est,Referral,2024-11-24
+C02612,Hauts-de-France,Organic Search,2024-07-14
+C02613,Occitanie,Paid Social,2024-08-17
+C02614,Hauts-de-France,Organic Search,2024-12-20
+C02615,Ile-de-France,Direct,2024-08-24
+C02616,Occitanie,Organic Search,2025-01-24
+C02617,Ile-de-France,Paid Social,2024-08-23
+C02618,Hauts-de-France,Direct,2024-05-23
+C02619,Hauts-de-France,Organic Search,2025-01-22
+C02620,Grand Est,Organic Search,2024-09-26
+C02621,Hauts-de-France,Direct,2024-11-15
+C02622,Grand Est,Organic Search,2024-04-05
+C02623,Ile-de-France,Organic Search,2024-10-08
+C02624,Grand Est,Paid Social,2024-08-23
+C02625,Occitanie,Organic Search,2024-02-14
+C02626,Auvergne-Rhone-Alpes,Direct,2024-04-16
+C02627,Occitanie,Email,2025-01-17
+C02628,Auvergne-Rhone-Alpes,Email,2024-08-27
+C02629,Ile-de-France,Organic Search,2024-11-21
+C02630,Ile-de-France,Email,2024-03-13
+C02631,Ile-de-France,Email,2024-04-01
+C02632,Occitanie,Organic Search,2025-01-30
+C02633,Grand Est,Direct,2024-06-25
+C02634,Nouvelle-Aquitaine,Email,2025-01-07
+C02635,Occitanie,Referral,2024-12-05
+C02636,Auvergne-Rhone-Alpes,Organic Search,2024-05-21
+C02637,Auvergne-Rhone-Alpes,Organic Search,2025-02-02
+C02638,Ile-de-France,Referral,2024-11-22
+C02639,Hauts-de-France,Referral,2024-02-23
+C02640,Ile-de-France,Paid Social,2024-02-10
+C02641,Nouvelle-Aquitaine,Organic Search,2024-02-23
+C02642,Nouvelle-Aquitaine,Direct,2024-11-06
+C02643,Occitanie,Organic Search,2024-03-01
+C02644,Hauts-de-France,Paid Social,2024-04-28
+C02645,Ile-de-France,Email,2024-07-01
+C02646,Grand Est,Organic Search,2024-02-26
+C02647,Nouvelle-Aquitaine,Organic Search,2024-05-18
+C02648,Hauts-de-France,Organic Search,2024-10-11
+C02649,Nouvelle-Aquitaine,Direct,2025-02-12
+C02650,Hauts-de-France,Paid Social,2024-07-16
+C02651,Grand Est,Email,2024-11-09
+C02652,Auvergne-Rhone-Alpes,Direct,2024-08-10
+C02653,Hauts-de-France,Email,2024-07-14
+C02654,Nouvelle-Aquitaine,Paid Social,2024-08-06
+C02655,Auvergne-Rhone-Alpes,Paid Social,2025-02-06
+C02656,Grand Est,Paid Social,2024-01-25
+C02657,Auvergne-Rhone-Alpes,Email,2024-08-03
+C02658,Occitanie,Direct,2024-01-22
+C02659,Ile-de-France,Referral,2025-01-02
+C02660,Ile-de-France,Paid Social,2024-09-09
+C02661,Hauts-de-France,Paid Social,2024-01-20
+C02662,Auvergne-Rhone-Alpes,Direct,2024-09-19
+C02663,Auvergne-Rhone-Alpes,Organic Search,2024-07-02
+C02664,Ile-de-France,Direct,2024-01-20
+C02665,Occitanie,Organic Search,2025-02-14
+C02666,Hauts-de-France,Referral,2024-06-07
+C02667,Grand Est,Direct,2024-01-10
+C02668,Ile-de-France,Paid Social,2024-09-14
+C02669,Occitanie,Organic Search,2024-06-06
+C02670,Auvergne-Rhone-Alpes,Direct,2024-10-02
+C02671,Occitanie,Paid Social,2024-03-09
+C02672,Auvergne-Rhone-Alpes,Paid Social,2024-12-13
+C02673,Auvergne-Rhone-Alpes,Paid Social,2024-06-25
+C02674,Auvergne-Rhone-Alpes,Paid Social,2024-06-25
+C02675,Occitanie,Email,2024-12-03
+C02676,Occitanie,Organic Search,2024-08-18
+C02677,Auvergne-Rhone-Alpes,Paid Social,2024-01-01
+C02678,Hauts-de-France,Direct,2024-08-30
+C02679,Nouvelle-Aquitaine,Organic Search,2024-09-28
+C02680,Auvergne-Rhone-Alpes,Paid Social,2024-05-11
+C02681,Hauts-de-France,Email,2024-03-16
+C02682,Hauts-de-France,Direct,2024-01-23
+C02683,Ile-de-France,Email,2024-12-21
+C02684,Occitanie,Direct,2024-01-02
+C02685,Ile-de-France,Organic Search,2024-09-02
+C02686,Nouvelle-Aquitaine,Paid Social,2024-12-17
+C02687,Ile-de-France,Direct,2024-05-27
+C02688,Nouvelle-Aquitaine,Direct,2024-03-25
+C02689,Ile-de-France,Email,2024-10-27
+C02690,Occitanie,Paid Social,2024-09-21
+C02691,Grand Est,Paid Social,2024-01-07
+C02692,Auvergne-Rhone-Alpes,Organic Search,2024-08-30
+C02693,Hauts-de-France,Direct,2024-01-01
+C02694,Grand Est,Direct,2024-06-16
+C02695,Hauts-de-France,Paid Social,2024-05-07
+C02696,Ile-de-France,Organic Search,2024-12-16
+C02697,Hauts-de-France,Paid Social,2025-02-14
+C02698,Ile-de-France,Organic Search,2024-10-20
+C02699,Auvergne-Rhone-Alpes,Referral,2024-11-04
+C02700,Hauts-de-France,Email,2024-01-10
+C02701,Nouvelle-Aquitaine,Organic Search,2024-01-27
+C02702,Occitanie,Email,2024-11-22
+C02703,Auvergne-Rhone-Alpes,Direct,2024-06-28
+C02704,Hauts-de-France,Organic Search,2024-07-31
+C02705,Nouvelle-Aquitaine,Paid Social,2024-10-17
+C02706,Auvergne-Rhone-Alpes,Paid Social,2024-05-25
+C02707,Grand Est,Organic Search,2024-10-13
+C02708,Ile-de-France,Paid Social,2024-11-01
+C02709,Ile-de-France,Email,2024-04-10
+C02710,Nouvelle-Aquitaine,Organic Search,2024-10-15
+C02711,Grand Est,Organic Search,2024-03-12
+C02712,Ile-de-France,Direct,2024-05-10
+C02713,Ile-de-France,Paid Social,2024-11-23
+C02714,Ile-de-France,Email,2025-02-16
+C02715,Hauts-de-France,Email,2024-01-28
+C02716,Ile-de-France,Direct,2024-09-29
+C02717,Occitanie,Referral,2024-08-27
+C02718,Grand Est,Direct,2024-09-11
+C02719,Ile-de-France,Email,2024-11-26
+C02720,Occitanie,Paid Social,2024-01-30
+C02721,Occitanie,Paid Social,2024-11-06
+C02722,Hauts-de-France,Paid Social,2024-04-27
+C02723,Auvergne-Rhone-Alpes,Paid Social,2024-03-05
+C02724,Auvergne-Rhone-Alpes,Organic Search,2024-07-06
+C02725,Ile-de-France,Paid Social,2024-01-12
+C02726,Nouvelle-Aquitaine,Paid Social,2024-09-21
+C02727,Hauts-de-France,Organic Search,2024-08-25
+C02728,Ile-de-France,Organic Search,2024-08-03
+C02729,Auvergne-Rhone-Alpes,Referral,2024-01-13
+C02730,Grand Est,Email,2024-11-16
+C02731,Ile-de-France,Direct,2024-01-15
+C02732,Ile-de-France,Paid Social,2024-04-20
+C02733,Occitanie,Direct,2024-06-15
+C02734,Auvergne-Rhone-Alpes,Referral,2024-10-21
+C02735,Ile-de-France,Organic Search,2024-06-20
+C02736,Auvergne-Rhone-Alpes,Direct,2024-12-08
+C02737,Ile-de-France,Organic Search,2025-01-27
+C02738,Occitanie,Email,2024-11-17
+C02739,Nouvelle-Aquitaine,Referral,2024-01-17
+C02740,Occitanie,Paid Social,2024-11-19
+C02741,Ile-de-France,Email,2024-03-27
+C02742,Hauts-de-France,Paid Social,2025-01-08
+C02743,Ile-de-France,Organic Search,2025-02-15
+C02744,Hauts-de-France,Organic Search,2024-02-05
+C02745,Auvergne-Rhone-Alpes,Organic Search,2024-02-11
+C02746,Hauts-de-France,Organic Search,2024-10-19
+C02747,Ile-de-France,Email,2024-03-01
+C02748,Ile-de-France,Paid Social,2025-02-10
+C02749,Occitanie,Paid Social,2024-08-14
+C02750,Ile-de-France,Email,2024-08-28
+C02751,Ile-de-France,Organic Search,2024-12-27
+C02752,Nouvelle-Aquitaine,Organic Search,2024-04-01
+C02753,Hauts-de-France,Referral,2024-08-21
+C02754,Ile-de-France,Direct,2025-02-23
+C02755,Grand Est,Paid Social,2024-01-10
+C02756,Hauts-de-France,Organic Search,2024-03-14
+C02757,Hauts-de-France,Referral,2024-03-02
+C02758,Nouvelle-Aquitaine,Direct,2024-05-20
+C02759,Nouvelle-Aquitaine,Paid Social,2024-02-24
+C02760,Occitanie,Organic Search,2024-03-13
+C02761,Nouvelle-Aquitaine,Organic Search,2024-12-24
+C02762,Grand Est,Email,2024-07-14
+C02763,Ile-de-France,Direct,2024-05-30
+C02764,Ile-de-France,Email,2024-06-24
+C02765,Ile-de-France,Paid Social,2025-02-11
+C02766,Grand Est,Email,2024-07-25
+C02767,Auvergne-Rhone-Alpes,Direct,2024-07-15
+C02768,Nouvelle-Aquitaine,Paid Social,2025-01-24
+C02769,Hauts-de-France,Direct,2024-01-16
+C02770,Grand Est,Paid Social,2024-07-19
+C02771,Ile-de-France,Paid Social,2024-11-10
+C02772,Hauts-de-France,Email,2024-08-04
+C02773,Grand Est,Paid Social,2024-12-30
+C02774,Ile-de-France,Direct,2025-01-07
+C02775,Nouvelle-Aquitaine,Paid Social,2024-05-21
+C02776,Auvergne-Rhone-Alpes,Paid Social,2024-12-09
+C02777,Nouvelle-Aquitaine,Paid Social,2024-04-12
+C02778,Occitanie,Paid Social,2024-04-10
+C02779,Ile-de-France,Paid Social,2025-02-14
+C02780,Ile-de-France,Referral,2024-01-06
+C02781,Ile-de-France,Paid Social,2024-05-28
+C02782,Ile-de-France,Paid Social,2024-09-21
+C02783,Nouvelle-Aquitaine,Email,2024-06-22
+C02784,Auvergne-Rhone-Alpes,Organic Search,2024-12-20
+C02785,Ile-de-France,Email,2024-04-15
+C02786,Nouvelle-Aquitaine,Paid Social,2024-08-20
+C02787,Nouvelle-Aquitaine,Paid Social,2024-02-22
+C02788,Occitanie,Referral,2024-03-29
+C02789,Grand Est,Referral,2024-03-13
+C02790,Auvergne-Rhone-Alpes,Direct,2024-11-07
+C02791,Hauts-de-France,Paid Social,2024-03-26
+C02792,Ile-de-France,Paid Social,2024-10-08
+C02793,Nouvelle-Aquitaine,Referral,2024-05-25
+C02794,Grand Est,Email,2024-08-25
+C02795,Hauts-de-France,Email,2025-01-02
+C02796,Occitanie,Email,2024-12-28
+C02797,Occitanie,Referral,2024-01-05
+C02798,Auvergne-Rhone-Alpes,Organic Search,2024-11-25
+C02799,Nouvelle-Aquitaine,Email,2025-02-05
+C02800,Hauts-de-France,Organic Search,2024-10-07
+C02801,Grand Est,Paid Social,2024-03-19
+C02802,Occitanie,Email,2024-10-06
+C02803,Ile-de-France,Paid Social,2024-09-24
+C02804,Occitanie,Paid Social,2024-10-05
+C02805,Ile-de-France,Direct,2024-06-29
+C02806,Ile-de-France,Referral,2024-08-08
+C02807,Auvergne-Rhone-Alpes,Paid Social,2024-09-30
+C02808,Nouvelle-Aquitaine,Direct,2024-07-13
+C02809,Ile-de-France,Paid Social,2024-11-20
+C02810,Ile-de-France,Referral,2024-10-25
+C02811,Ile-de-France,Organic Search,2024-05-07
+C02812,Hauts-de-France,Organic Search,2024-09-13
+C02813,Nouvelle-Aquitaine,Paid Social,2024-11-13
+C02814,Ile-de-France,Organic Search,2024-07-24
+C02815,Ile-de-France,Paid Social,2024-10-27
+C02816,Occitanie,Organic Search,2024-02-23
+C02817,Ile-de-France,Email,2024-06-11
+C02818,Occitanie,Organic Search,2024-10-21
+C02819,Auvergne-Rhone-Alpes,Organic Search,2025-01-10
+C02820,Grand Est,Direct,2024-09-28
+C02821,Ile-de-France,Email,2024-10-05
+C02822,Nouvelle-Aquitaine,Direct,2024-05-23
+C02823,Ile-de-France,Paid Social,2024-10-21
+C02824,Grand Est,Organic Search,2024-05-29
+C02825,Grand Est,Email,2024-01-22
+C02826,Nouvelle-Aquitaine,Email,2024-04-13
+C02827,Auvergne-Rhone-Alpes,Organic Search,2024-09-13
+C02828,Ile-de-France,Direct,2025-02-08
+C02829,Hauts-de-France,Email,2024-07-27
+C02830,Nouvelle-Aquitaine,Referral,2024-12-27
+C02831,Ile-de-France,Paid Social,2024-11-22
+C02832,Auvergne-Rhone-Alpes,Email,2024-08-23
+C02833,Auvergne-Rhone-Alpes,Organic Search,2024-12-03
+C02834,Hauts-de-France,Direct,2024-06-17
+C02835,Nouvelle-Aquitaine,Paid Social,2024-07-04
+C02836,Nouvelle-Aquitaine,Organic Search,2024-11-05
+C02837,Nouvelle-Aquitaine,Organic Search,2024-09-25
+C02838,Ile-de-France,Email,2024-08-09
+C02839,Auvergne-Rhone-Alpes,Direct,2024-06-30
+C02840,Ile-de-France,Direct,2025-02-13
+C02841,Hauts-de-France,Referral,2024-01-28
+C02842,Auvergne-Rhone-Alpes,Direct,2024-01-24
+C02843,Auvergne-Rhone-Alpes,Referral,2024-07-20
+C02844,Ile-de-France,Paid Social,2024-01-15
+C02845,Ile-de-France,Email,2024-05-23
+C02846,Occitanie,Organic Search,2024-08-26
+C02847,Ile-de-France,Organic Search,2024-06-19
+C02848,Ile-de-France,Paid Social,2024-03-26
+C02849,Hauts-de-France,Organic Search,2024-04-29
+C02850,Auvergne-Rhone-Alpes,Direct,2024-09-10
+C02851,Auvergne-Rhone-Alpes,Direct,2025-02-03
+C02852,Auvergne-Rhone-Alpes,Paid Social,2024-11-24
+C02853,Hauts-de-France,Referral,2024-08-17
+C02854,Auvergne-Rhone-Alpes,Paid Social,2024-02-28
+C02855,Nouvelle-Aquitaine,Organic Search,2024-04-11
+C02856,Grand Est,Paid Social,2024-07-04
+C02857,Nouvelle-Aquitaine,Organic Search,2024-04-13
+C02858,Auvergne-Rhone-Alpes,Paid Social,2024-10-16
+C02859,Nouvelle-Aquitaine,Organic Search,2024-06-02
+C02860,Auvergne-Rhone-Alpes,Organic Search,2024-12-16
+C02861,Auvergne-Rhone-Alpes,Organic Search,2024-04-22
+C02862,Occitanie,Direct,2024-07-27
+C02863,Ile-de-France,Organic Search,2024-10-27
+C02864,Ile-de-France,Paid Social,2024-03-27
+C02865,Auvergne-Rhone-Alpes,Paid Social,2024-11-15
+C02866,Ile-de-France,Paid Social,2024-09-03
+C02867,Auvergne-Rhone-Alpes,Paid Social,2024-09-29
+C02868,Occitanie,Organic Search,2024-07-09
+C02869,Grand Est,Email,2025-01-27
+C02870,Ile-de-France,Email,2024-11-20
+C02871,Occitanie,Email,2024-03-21
+C02872,Auvergne-Rhone-Alpes,Email,2024-08-21
+C02873,Ile-de-France,Paid Social,2025-01-14
+C02874,Ile-de-France,Paid Social,2024-04-27
+C02875,Ile-de-France,Organic Search,2024-08-13
+C02876,Ile-de-France,Paid Social,2024-11-12
+C02877,Ile-de-France,Organic Search,2024-04-24
+C02878,Auvergne-Rhone-Alpes,Paid Social,2024-08-05
+C02879,Occitanie,Email,2024-08-20
+C02880,Ile-de-France,Organic Search,2024-03-15
+C02881,Ile-de-France,Organic Search,2024-03-15
+C02882,Ile-de-France,Email,2024-08-24
+C02883,Occitanie,Paid Social,2024-03-16
+C02884,Auvergne-Rhone-Alpes,Direct,2025-02-02
+C02885,Occitanie,Direct,2024-08-07
+C02886,Ile-de-France,Direct,2024-10-23
+C02887,Ile-de-France,Paid Social,2024-06-15
+C02888,Grand Est,Organic Search,2024-05-05
+C02889,Ile-de-France,Email,2024-07-23
+C02890,Ile-de-France,Email,2024-10-25
+C02891,Ile-de-France,Email,2024-06-15
+C02892,Grand Est,Paid Social,2024-04-28
+C02893,Occitanie,Organic Search,2024-03-01
+C02894,Occitanie,Organic Search,2024-08-15
+C02895,Grand Est,Organic Search,2024-10-12
+C02896,Ile-de-France,Organic Search,2024-08-09
+C02897,Grand Est,Direct,2024-04-17
+C02898,Ile-de-France,Organic Search,2024-04-13
+C02899,Occitanie,Email,2024-06-07
+C02900,Auvergne-Rhone-Alpes,Direct,2024-05-26
+C02901,Auvergne-Rhone-Alpes,Paid Social,2024-03-26
+C02902,Grand Est,Paid Social,2025-01-30
+C02903,Ile-de-France,Email,2024-05-18
+C02904,Grand Est,Paid Social,2024-04-15
+C02905,Auvergne-Rhone-Alpes,Paid Social,2024-09-11
+C02906,Nouvelle-Aquitaine,Direct,2024-12-02
+C02907,Grand Est,Referral,2024-07-14
+C02908,Ile-de-France,Direct,2024-10-07
+C02909,Grand Est,Direct,2024-02-09
+C02910,Occitanie,Paid Social,2024-08-11
+C02911,Nouvelle-Aquitaine,Referral,2024-01-28
+C02912,Ile-de-France,Email,2024-02-27
+C02913,Occitanie,Email,2024-09-05
+C02914,Nouvelle-Aquitaine,Referral,2024-03-26
+C02915,Auvergne-Rhone-Alpes,Referral,2024-01-16
+C02916,Ile-de-France,Direct,2024-03-16
+C02917,Ile-de-France,Paid Social,2024-11-20
+C02918,Hauts-de-France,Email,2024-09-03
+C02919,Ile-de-France,Organic Search,2024-06-09
+C02920,Nouvelle-Aquitaine,Email,2025-02-12
+C02921,Grand Est,Referral,2024-06-11
+C02922,Ile-de-France,Referral,2025-01-03
+C02923,Ile-de-France,Paid Social,2024-05-24
+C02924,Nouvelle-Aquitaine,Paid Social,2024-01-11
+C02925,Ile-de-France,Paid Social,2024-02-16
+C02926,Occitanie,Organic Search,2024-04-24
+C02927,Nouvelle-Aquitaine,Organic Search,2024-03-19
+C02928,Occitanie,Direct,2024-03-07
+C02929,Auvergne-Rhone-Alpes,Paid Social,2024-06-10
+C02930,Nouvelle-Aquitaine,Direct,2025-02-13
+C02931,Occitanie,Organic Search,2024-03-25
+C02932,Ile-de-France,Referral,2024-04-08
+C02933,Occitanie,Email,2025-02-21
+C02934,Grand Est,Email,2024-03-25
+C02935,Nouvelle-Aquitaine,Email,2024-12-14
+C02936,Auvergne-Rhone-Alpes,Referral,2024-09-17
+C02937,Auvergne-Rhone-Alpes,Direct,2025-01-24
+C02938,Ile-de-France,Email,2024-08-21
+C02939,Ile-de-France,Organic Search,2024-09-06
+C02940,Ile-de-France,Organic Search,2024-04-04
+C02941,Grand Est,Referral,2024-08-29
+C02942,Ile-de-France,Paid Social,2024-10-08
+C02943,Hauts-de-France,Paid Social,2025-02-18
+C02944,Ile-de-France,Email,2024-02-10
+C02945,Ile-de-France,Paid Social,2024-03-06
+C02946,Auvergne-Rhone-Alpes,Referral,2024-01-09
+C02947,Auvergne-Rhone-Alpes,Referral,2024-11-27
+C02948,Hauts-de-France,Referral,2024-02-04
+C02949,Grand Est,Referral,2025-01-19
+C02950,Hauts-de-France,Direct,2024-06-02
+C02951,Ile-de-France,Email,2024-05-01
+C02952,Hauts-de-France,Direct,2025-02-13
+C02953,Ile-de-France,Organic Search,2024-10-29
+C02954,Grand Est,Email,2024-08-17
+C02955,Occitanie,Referral,2025-01-08
+C02956,Auvergne-Rhone-Alpes,Paid Social,2024-11-12
+C02957,Ile-de-France,Organic Search,2024-09-24
+C02958,Ile-de-France,Email,2024-05-15
+C02959,Ile-de-France,Paid Social,2025-02-18
+C02960,Grand Est,Direct,2024-10-29
+C02961,Hauts-de-France,Paid Social,2025-02-01
+C02962,Grand Est,Organic Search,2025-02-09
+C02963,Ile-de-France,Email,2024-08-18
+C02964,Occitanie,Paid Social,2024-05-30
+C02965,Ile-de-France,Organic Search,2025-02-01
+C02966,Occitanie,Email,2025-02-23
+C02967,Auvergne-Rhone-Alpes,Paid Social,2024-02-21
+C02968,Ile-de-France,Organic Search,2024-09-25
+C02969,Occitanie,Email,2024-09-10
+C02970,Ile-de-France,Email,2024-11-10
+C02971,Auvergne-Rhone-Alpes,Referral,2025-02-13
+C02972,Nouvelle-Aquitaine,Paid Social,2024-04-15
+C02973,Ile-de-France,Organic Search,2025-02-13
+C02974,Grand Est,Direct,2024-09-27
+C02975,Occitanie,Email,2024-02-04
+C02976,Hauts-de-France,Organic Search,2024-08-02
+C02977,Nouvelle-Aquitaine,Direct,2024-02-26
+C02978,Nouvelle-Aquitaine,Organic Search,2025-02-05
+C02979,Nouvelle-Aquitaine,Referral,2024-11-16
+C02980,Hauts-de-France,Referral,2025-01-14
+C02981,Occitanie,Direct,2024-09-10
+C02982,Ile-de-France,Direct,2024-06-15
+C02983,Ile-de-France,Organic Search,2024-06-28
+C02984,Occitanie,Referral,2025-02-01
+C02985,Ile-de-France,Paid Social,2024-03-04
+C02986,Ile-de-France,Email,2025-01-06
+C02987,Ile-de-France,Email,2024-06-26
+C02988,Occitanie,Organic Search,2024-09-04
+C02989,Ile-de-France,Organic Search,2024-10-07
+C02990,Occitanie,Organic Search,2024-02-04
+C02991,Hauts-de-France,Organic Search,2024-03-03
+C02992,Hauts-de-France,Organic Search,2024-03-08
+C02993,Ile-de-France,Direct,2024-11-23
+C02994,Occitanie,Paid Social,2024-02-02
+C02995,Occitanie,Referral,2024-09-13
+C02996,Auvergne-Rhone-Alpes,Direct,2024-02-15
+C02997,Nouvelle-Aquitaine,Referral,2024-11-18
+C02998,Ile-de-France,Paid Social,2025-02-14
+C02999,Grand Est,Direct,2024-06-22
+C03000,Ile-de-France,Referral,2024-03-30
+C03001,Hauts-de-France,Referral,2024-07-05
+C03002,Occitanie,Direct,2024-10-17
+C03003,Ile-de-France,Email,2024-11-01
+C03004,Nouvelle-Aquitaine,Paid Social,2024-09-24
+C03005,Ile-de-France,Direct,2024-09-01
+C03006,Hauts-de-France,Paid Social,2024-09-22
+C03007,Occitanie,Direct,2024-04-01
+C03008,Ile-de-France,Organic Search,2024-03-27
+C03009,Ile-de-France,Organic Search,2025-01-25
+C03010,Nouvelle-Aquitaine,Paid Social,2024-08-31
+C03011,Ile-de-France,Organic Search,2024-12-27
+C03012,Grand Est,Direct,2024-09-19
+C03013,Hauts-de-France,Organic Search,2024-07-10
+C03014,Nouvelle-Aquitaine,Referral,2024-08-27
+C03015,Ile-de-France,Organic Search,2024-10-17
+C03016,Nouvelle-Aquitaine,Direct,2024-03-19
+C03017,Grand Est,Paid Social,2024-07-13
+C03018,Ile-de-France,Organic Search,2024-10-30
+C03019,Auvergne-Rhone-Alpes,Organic Search,2024-02-06
+C03020,Ile-de-France,Email,2024-01-31
+C03021,Auvergne-Rhone-Alpes,Direct,2024-03-08
+C03022,Nouvelle-Aquitaine,Direct,2024-09-05
+C03023,Auvergne-Rhone-Alpes,Paid Social,2024-04-10
+C03024,Occitanie,Paid Social,2024-07-02
+C03025,Ile-de-France,Organic Search,2024-02-26
+C03026,Ile-de-France,Paid Social,2024-04-15
+C03027,Ile-de-France,Email,2024-01-08
+C03028,Hauts-de-France,Organic Search,2024-12-05
+C03029,Occitanie,Email,2024-07-14
+C03030,Auvergne-Rhone-Alpes,Direct,2024-03-14
+C03031,Hauts-de-France,Organic Search,2024-08-09
+C03032,Ile-de-France,Organic Search,2025-01-26
+C03033,Ile-de-France,Organic Search,2024-12-12
+C03034,Ile-de-France,Organic Search,2025-01-06
+C03035,Grand Est,Organic Search,2024-06-19
+C03036,Nouvelle-Aquitaine,Email,2024-05-31
+C03037,Occitanie,Organic Search,2024-05-12
+C03038,Ile-de-France,Referral,2024-05-08
+C03039,Ile-de-France,Direct,2025-01-21
+C03040,Nouvelle-Aquitaine,Direct,2024-02-27
+C03041,Auvergne-Rhone-Alpes,Email,2024-12-23
+C03042,Grand Est,Organic Search,2025-01-19
+C03043,Hauts-de-France,Organic Search,2024-12-20
+C03044,Auvergne-Rhone-Alpes,Organic Search,2024-09-20
+C03045,Nouvelle-Aquitaine,Direct,2024-12-25
+C03046,Grand Est,Direct,2024-01-14
+C03047,Auvergne-Rhone-Alpes,Paid Social,2024-12-09
+C03048,Nouvelle-Aquitaine,Paid Social,2024-08-02
+C03049,Grand Est,Paid Social,2025-02-06
+C03050,Ile-de-France,Organic Search,2024-02-06
+C03051,Grand Est,Direct,2025-01-25
+C03052,Ile-de-France,Organic Search,2024-08-28
+C03053,Nouvelle-Aquitaine,Paid Social,2024-02-13
+C03054,Hauts-de-France,Paid Social,2024-08-01
+C03055,Occitanie,Organic Search,2024-01-16
+C03056,Occitanie,Paid Social,2024-02-04
+C03057,Occitanie,Direct,2024-08-11
+C03058,Ile-de-France,Organic Search,2024-12-08
+C03059,Ile-de-France,Email,2024-02-15
+C03060,Ile-de-France,Paid Social,2024-04-20
+C03061,Occitanie,Organic Search,2024-06-13
+C03062,Auvergne-Rhone-Alpes,Organic Search,2024-08-15
+C03063,Ile-de-France,Organic Search,2024-01-01
+C03064,Grand Est,Organic Search,2024-09-25
+C03065,Auvergne-Rhone-Alpes,Paid Social,2024-07-28
+C03066,Auvergne-Rhone-Alpes,Direct,2025-02-08
+C03067,Auvergne-Rhone-Alpes,Referral,2024-05-06
+C03068,Ile-de-France,Direct,2024-07-26
+C03069,Nouvelle-Aquitaine,Paid Social,2024-02-04
+C03070,Auvergne-Rhone-Alpes,Referral,2025-01-20
+C03071,Ile-de-France,Email,2024-12-16
+C03072,Grand Est,Organic Search,2024-05-29
+C03073,Hauts-de-France,Paid Social,2024-07-12
+C03074,Nouvelle-Aquitaine,Paid Social,2024-12-26
+C03075,Hauts-de-France,Referral,2024-05-04
+C03076,Grand Est,Paid Social,2024-04-09
+C03077,Auvergne-Rhone-Alpes,Organic Search,2024-04-11
+C03078,Occitanie,Direct,2024-10-24
+C03079,Occitanie,Organic Search,2024-03-29
+C03080,Ile-de-France,Direct,2024-02-07
+C03081,Ile-de-France,Direct,2024-03-10
+C03082,Ile-de-France,Direct,2025-02-18
+C03083,Nouvelle-Aquitaine,Referral,2025-01-01
+C03084,Hauts-de-France,Organic Search,2025-02-04
+C03085,Hauts-de-France,Email,2024-04-26
+C03086,Ile-de-France,Referral,2024-07-04
+C03087,Ile-de-France,Referral,2024-07-25
+C03088,Auvergne-Rhone-Alpes,Organic Search,2024-08-08
+C03089,Occitanie,Organic Search,2024-01-12
+C03090,Grand Est,Paid Social,2024-09-08
+C03091,Hauts-de-France,Paid Social,2024-01-17
+C03092,Grand Est,Email,2024-04-25
+C03093,Hauts-de-France,Direct,2024-05-02
+C03094,Grand Est,Referral,2024-10-10
+C03095,Auvergne-Rhone-Alpes,Email,2025-01-11
+C03096,Ile-de-France,Organic Search,2024-10-20
+C03097,Ile-de-France,Paid Social,2024-07-01
+C03098,Auvergne-Rhone-Alpes,Paid Social,2024-08-08
+C03099,Ile-de-France,Organic Search,2024-08-03
+C03100,Ile-de-France,Organic Search,2024-03-03
+C03101,Grand Est,Paid Social,2025-02-06
+C03102,Ile-de-France,Organic Search,2025-01-21
+C03103,Grand Est,Email,2024-04-10
+C03104,Hauts-de-France,Organic Search,2024-02-18
+C03105,Nouvelle-Aquitaine,Organic Search,2024-03-10
+C03106,Nouvelle-Aquitaine,Organic Search,2024-09-21
+C03107,Auvergne-Rhone-Alpes,Email,2024-01-13
+C03108,Nouvelle-Aquitaine,Email,2024-02-13
+C03109,Ile-de-France,Paid Social,2024-09-29
+C03110,Grand Est,Organic Search,2024-03-02
+C03111,Ile-de-France,Direct,2024-01-29
+C03112,Ile-de-France,Email,2024-01-09
+C03113,Nouvelle-Aquitaine,Email,2024-10-23
+C03114,Nouvelle-Aquitaine,Paid Social,2024-06-01
+C03115,Auvergne-Rhone-Alpes,Direct,2024-04-29
+C03116,Nouvelle-Aquitaine,Direct,2024-09-25
+C03117,Ile-de-France,Paid Social,2024-03-12
+C03118,Nouvelle-Aquitaine,Email,2024-08-07
+C03119,Ile-de-France,Organic Search,2024-07-22
+C03120,Ile-de-France,Email,2024-10-10
+C03121,Ile-de-France,Paid Social,2024-09-19
+C03122,Auvergne-Rhone-Alpes,Organic Search,2024-10-10
+C03123,Auvergne-Rhone-Alpes,Direct,2024-03-30
+C03124,Auvergne-Rhone-Alpes,Direct,2024-02-28
+C03125,Ile-de-France,Organic Search,2024-08-12
+C03126,Ile-de-France,Direct,2024-01-25
+C03127,Occitanie,Paid Social,2024-07-09
+C03128,Ile-de-France,Paid Social,2024-09-19
+C03129,Nouvelle-Aquitaine,Direct,2024-12-10
+C03130,Grand Est,Paid Social,2024-10-01
+C03131,Auvergne-Rhone-Alpes,Paid Social,2025-02-21
+C03132,Grand Est,Email,2024-08-21
+C03133,Ile-de-France,Organic Search,2024-07-06
+C03134,Ile-de-France,Paid Social,2024-04-13
+C03135,Nouvelle-Aquitaine,Paid Social,2024-10-09
+C03136,Hauts-de-France,Email,2024-12-06
+C03137,Hauts-de-France,Organic Search,2024-05-14
+C03138,Ile-de-France,Organic Search,2024-02-01
+C03139,Hauts-de-France,Referral,2024-01-05
+C03140,Auvergne-Rhone-Alpes,Organic Search,2024-09-22
+C03141,Ile-de-France,Paid Social,2024-10-05
+C03142,Ile-de-France,Referral,2024-02-20
+C03143,Grand Est,Referral,2024-01-10
+C03144,Ile-de-France,Organic Search,2024-10-01
+C03145,Hauts-de-France,Direct,2024-06-16
+C03146,Nouvelle-Aquitaine,Referral,2024-06-24
+C03147,Nouvelle-Aquitaine,Paid Social,2024-04-20
+C03148,Nouvelle-Aquitaine,Referral,2024-10-28
+C03149,Hauts-de-France,Referral,2024-11-08
+C03150,Ile-de-France,Email,2024-01-22
+C03151,Ile-de-France,Email,2024-02-07
+C03152,Occitanie,Referral,2024-08-21
+C03153,Auvergne-Rhone-Alpes,Direct,2024-09-10
+C03154,Ile-de-France,Email,2024-03-01
+C03155,Ile-de-France,Direct,2024-03-07
+C03156,Auvergne-Rhone-Alpes,Referral,2024-10-13
+C03157,Ile-de-France,Direct,2024-07-09
+C03158,Ile-de-France,Direct,2024-02-20
+C03159,Grand Est,Organic Search,2024-09-13
+C03160,Ile-de-France,Organic Search,2024-01-31
+C03161,Grand Est,Email,2024-04-06
+C03162,Grand Est,Paid Social,2024-10-26
+C03163,Ile-de-France,Email,2024-04-03
+C03164,Nouvelle-Aquitaine,Referral,2024-01-27
+C03165,Occitanie,Direct,2025-02-07
+C03166,Nouvelle-Aquitaine,Paid Social,2024-04-04
+C03167,Ile-de-France,Referral,2024-08-04
+C03168,Ile-de-France,Organic Search,2024-12-12
+C03169,Ile-de-France,Paid Social,2025-02-19
+C03170,Occitanie,Organic Search,2024-12-06
+C03171,Grand Est,Paid Social,2024-05-22
+C03172,Nouvelle-Aquitaine,Paid Social,2024-12-24
+C03173,Nouvelle-Aquitaine,Referral,2024-01-06
+C03174,Grand Est,Email,2024-05-16
+C03175,Nouvelle-Aquitaine,Paid Social,2024-03-24
+C03176,Ile-de-France,Organic Search,2024-08-09
+C03177,Hauts-de-France,Organic Search,2025-01-09
+C03178,Auvergne-Rhone-Alpes,Direct,2024-11-20
+C03179,Ile-de-France,Direct,2025-02-23
+C03180,Occitanie,Paid Social,2024-02-27
+C03181,Grand Est,Organic Search,2024-11-11
+C03182,Ile-de-France,Paid Social,2024-10-31
+C03183,Occitanie,Email,2024-07-10
+C03184,Ile-de-France,Paid Social,2024-02-10
+C03185,Ile-de-France,Organic Search,2024-02-13
+C03186,Ile-de-France,Paid Social,2025-01-18
+C03187,Nouvelle-Aquitaine,Organic Search,2024-05-03
+C03188,Hauts-de-France,Paid Social,2024-09-24
+C03189,Ile-de-France,Organic Search,2025-02-01
+C03190,Ile-de-France,Email,2024-07-26
+C03191,Ile-de-France,Paid Social,2024-03-29
+C03192,Ile-de-France,Organic Search,2024-07-22
+C03193,Occitanie,Email,2024-04-06
+C03194,Nouvelle-Aquitaine,Paid Social,2024-03-17
+C03195,Nouvelle-Aquitaine,Referral,2024-12-06
+C03196,Auvergne-Rhone-Alpes,Direct,2024-05-25
+C03197,Occitanie,Organic Search,2024-10-14
+C03198,Ile-de-France,Direct,2024-11-01
+C03199,Ile-de-France,Referral,2024-08-18
+C03200,Grand Est,Email,2024-08-15
+C03201,Hauts-de-France,Paid Social,2024-03-16
+C03202,Grand Est,Paid Social,2024-08-10
+C03203,Grand Est,Organic Search,2024-11-11
+C03204,Nouvelle-Aquitaine,Direct,2024-03-23
+C03205,Grand Est,Email,2024-04-07
+C03206,Auvergne-Rhone-Alpes,Paid Social,2024-10-16
+C03207,Ile-de-France,Paid Social,2025-02-16
+C03208,Ile-de-France,Organic Search,2024-06-13
+C03209,Ile-de-France,Organic Search,2024-12-13
+C03210,Ile-de-France,Email,2024-03-17
+C03211,Auvergne-Rhone-Alpes,Paid Social,2024-08-27
+C03212,Nouvelle-Aquitaine,Referral,2025-01-31
+C03213,Hauts-de-France,Email,2024-07-04
+C03214,Occitanie,Email,2024-07-31
+C03215,Ile-de-France,Direct,2024-03-06
+C03216,Nouvelle-Aquitaine,Organic Search,2024-08-09
+C03217,Auvergne-Rhone-Alpes,Email,2024-09-02
+C03218,Ile-de-France,Referral,2025-02-16
+C03219,Ile-de-France,Organic Search,2024-03-25
+C03220,Auvergne-Rhone-Alpes,Organic Search,2024-06-02
+C03221,Ile-de-France,Organic Search,2024-09-28
+C03222,Hauts-de-France,Organic Search,2025-01-31
+C03223,Nouvelle-Aquitaine,Paid Social,2024-04-09
+C03224,Nouvelle-Aquitaine,Organic Search,2024-10-18
+C03225,Ile-de-France,Email,2025-01-04
+C03226,Hauts-de-France,Organic Search,2024-09-22
+C03227,Nouvelle-Aquitaine,Organic Search,2024-06-28
+C03228,Ile-de-France,Paid Social,2024-04-08
+C03229,Nouvelle-Aquitaine,Organic Search,2024-04-30
+C03230,Auvergne-Rhone-Alpes,Direct,2024-01-22
+C03231,Auvergne-Rhone-Alpes,Paid Social,2024-03-04
+C03232,Ile-de-France,Organic Search,2024-07-02
+C03233,Occitanie,Organic Search,2024-02-29
+C03234,Ile-de-France,Paid Social,2024-01-05
+C03235,Ile-de-France,Email,2024-10-17
+C03236,Ile-de-France,Referral,2024-01-30
+C03237,Grand Est,Paid Social,2024-02-29
+C03238,Ile-de-France,Email,2024-09-07
+C03239,Auvergne-Rhone-Alpes,Paid Social,2025-01-22
+C03240,Auvergne-Rhone-Alpes,Direct,2024-10-31
+C03241,Grand Est,Email,2024-01-14
+C03242,Occitanie,Organic Search,2024-03-11
+C03243,Grand Est,Referral,2024-11-06
+C03244,Ile-de-France,Direct,2024-11-03
+C03245,Ile-de-France,Paid Social,2024-06-13
+C03246,Occitanie,Direct,2025-02-02
+C03247,Auvergne-Rhone-Alpes,Direct,2025-01-08
+C03248,Hauts-de-France,Organic Search,2024-11-08
+C03249,Hauts-de-France,Referral,2024-11-10
+C03250,Auvergne-Rhone-Alpes,Email,2024-11-25
+C03251,Grand Est,Paid Social,2024-03-03
+C03252,Occitanie,Paid Social,2024-10-21
+C03253,Ile-de-France,Direct,2025-01-29
+C03254,Auvergne-Rhone-Alpes,Email,2024-04-04
+C03255,Ile-de-France,Paid Social,2024-01-07
+C03256,Hauts-de-France,Organic Search,2024-05-31
+C03257,Ile-de-France,Paid Social,2024-04-23
+C03258,Ile-de-France,Direct,2025-02-02
+C03259,Occitanie,Referral,2024-07-06
+C03260,Ile-de-France,Organic Search,2024-10-04
+C03261,Ile-de-France,Direct,2025-02-16
+C03262,Nouvelle-Aquitaine,Direct,2024-11-27
+C03263,Ile-de-France,Paid Social,2024-11-10
+C03264,Auvergne-Rhone-Alpes,Organic Search,2025-02-10
+C03265,Auvergne-Rhone-Alpes,Email,2024-10-16
+C03266,Ile-de-France,Organic Search,2024-04-07
+C03267,Ile-de-France,Paid Social,2024-11-01
+C03268,Hauts-de-France,Email,2024-05-15
+C03269,Grand Est,Direct,2024-05-18
+C03270,Ile-de-France,Paid Social,2024-09-27
+C03271,Grand Est,Direct,2024-05-12
+C03272,Occitanie,Direct,2024-01-11
+C03273,Nouvelle-Aquitaine,Organic Search,2025-02-23
+C03274,Nouvelle-Aquitaine,Organic Search,2024-08-27
+C03275,Nouvelle-Aquitaine,Referral,2024-10-08
+C03276,Hauts-de-France,Referral,2024-12-05
+C03277,Auvergne-Rhone-Alpes,Paid Social,2024-09-23
+C03278,Occitanie,Email,2024-09-13
+C03279,Auvergne-Rhone-Alpes,Email,2024-11-28
+C03280,Ile-de-France,Referral,2024-05-04
+C03281,Nouvelle-Aquitaine,Referral,2024-12-13
+C03282,Ile-de-France,Organic Search,2024-10-31
+C03283,Ile-de-France,Organic Search,2024-03-17
+C03284,Ile-de-France,Organic Search,2024-03-02
+C03285,Ile-de-France,Direct,2025-01-04
+C03286,Nouvelle-Aquitaine,Direct,2025-01-10
+C03287,Occitanie,Referral,2025-02-21
+C03288,Auvergne-Rhone-Alpes,Organic Search,2024-02-12
+C03289,Ile-de-France,Email,2025-01-11
+C03290,Auvergne-Rhone-Alpes,Organic Search,2024-12-28
+C03291,Auvergne-Rhone-Alpes,Paid Social,2024-11-18
+C03292,Nouvelle-Aquitaine,Organic Search,2024-07-28
+C03293,Occitanie,Direct,2024-08-01
+C03294,Occitanie,Organic Search,2024-06-29
+C03295,Auvergne-Rhone-Alpes,Email,2024-01-13
+C03296,Grand Est,Direct,2024-07-29
+C03297,Nouvelle-Aquitaine,Email,2024-04-09
+C03298,Occitanie,Organic Search,2024-03-25
+C03299,Auvergne-Rhone-Alpes,Direct,2024-01-24
+C03300,Ile-de-France,Email,2024-07-11
+C03301,Grand Est,Paid Social,2024-01-21
+C03302,Ile-de-France,Email,2024-12-22
+C03303,Ile-de-France,Direct,2025-01-08
+C03304,Grand Est,Paid Social,2024-12-02
+C03305,Nouvelle-Aquitaine,Paid Social,2024-05-06
+C03306,Ile-de-France,Paid Social,2024-03-09
+C03307,Ile-de-France,Organic Search,2024-07-30
+C03308,Ile-de-France,Referral,2024-10-09
+C03309,Occitanie,Organic Search,2024-01-09
+C03310,Ile-de-France,Paid Social,2024-12-25
+C03311,Grand Est,Paid Social,2024-07-03
+C03312,Grand Est,Organic Search,2024-12-10
+C03313,Occitanie,Paid Social,2024-02-02
+C03314,Occitanie,Email,2024-06-27
+C03315,Ile-de-France,Paid Social,2024-07-11
+C03316,Ile-de-France,Organic Search,2024-01-21
+C03317,Nouvelle-Aquitaine,Direct,2024-10-24
+C03318,Ile-de-France,Direct,2025-01-26
+C03319,Ile-de-France,Paid Social,2024-08-15
+C03320,Ile-de-France,Paid Social,2024-06-15
+C03321,Ile-de-France,Organic Search,2024-09-24
+C03322,Auvergne-Rhone-Alpes,Organic Search,2024-05-31
+C03323,Nouvelle-Aquitaine,Paid Social,2024-05-31
+C03324,Hauts-de-France,Direct,2024-11-14
+C03325,Occitanie,Referral,2024-09-05
+C03326,Hauts-de-France,Paid Social,2024-04-20
+C03327,Auvergne-Rhone-Alpes,Direct,2024-06-20
+C03328,Hauts-de-France,Paid Social,2024-12-16
+C03329,Occitanie,Organic Search,2024-08-10
+C03330,Ile-de-France,Paid Social,2024-02-01
+C03331,Grand Est,Organic Search,2024-12-25
+C03332,Ile-de-France,Direct,2024-11-07
+C03333,Ile-de-France,Paid Social,2024-04-22
+C03334,Ile-de-France,Email,2025-02-09
+C03335,Auvergne-Rhone-Alpes,Paid Social,2025-02-03
+C03336,Auvergne-Rhone-Alpes,Direct,2025-02-22
+C03337,Occitanie,Email,2024-06-07
+C03338,Grand Est,Paid Social,2025-01-22
+C03339,Ile-de-France,Organic Search,2024-12-04
+C03340,Occitanie,Direct,2024-12-31
+C03341,Auvergne-Rhone-Alpes,Paid Social,2024-08-17
+C03342,Hauts-de-France,Organic Search,2024-04-27
+C03343,Ile-de-France,Direct,2024-04-05
+C03344,Ile-de-France,Organic Search,2025-02-09
+C03345,Occitanie,Paid Social,2024-07-30
+C03346,Nouvelle-Aquitaine,Paid Social,2025-01-24
+C03347,Hauts-de-France,Paid Social,2024-08-20
+C03348,Occitanie,Paid Social,2024-08-12
+C03349,Hauts-de-France,Organic Search,2024-01-31
+C03350,Auvergne-Rhone-Alpes,Organic Search,2024-06-17
+C03351,Ile-de-France,Organic Search,2024-08-21
+C03352,Ile-de-France,Organic Search,2024-02-15
+C03353,Ile-de-France,Direct,2024-03-09
+C03354,Auvergne-Rhone-Alpes,Email,2024-09-05
+C03355,Occitanie,Paid Social,2024-04-14
+C03356,Auvergne-Rhone-Alpes,Paid Social,2024-10-21
+C03357,Occitanie,Referral,2024-07-12
+C03358,Auvergne-Rhone-Alpes,Organic Search,2024-06-18
+C03359,Nouvelle-Aquitaine,Organic Search,2024-02-19
+C03360,Nouvelle-Aquitaine,Email,2024-06-19
+C03361,Ile-de-France,Paid Social,2024-08-15
+C03362,Auvergne-Rhone-Alpes,Referral,2024-08-28
+C03363,Occitanie,Direct,2024-04-23
+C03364,Occitanie,Direct,2024-01-12
+C03365,Ile-de-France,Organic Search,2025-01-27
+C03366,Auvergne-Rhone-Alpes,Organic Search,2025-02-06
+C03367,Nouvelle-Aquitaine,Organic Search,2025-01-14
+C03368,Nouvelle-Aquitaine,Referral,2024-05-01
+C03369,Ile-de-France,Direct,2024-09-10
+C03370,Auvergne-Rhone-Alpes,Direct,2024-02-29
+C03371,Grand Est,Organic Search,2025-01-15
+C03372,Ile-de-France,Direct,2024-01-03
+C03373,Hauts-de-France,Paid Social,2024-07-16
+C03374,Ile-de-France,Direct,2024-12-25
+C03375,Occitanie,Paid Social,2024-10-31
+C03376,Auvergne-Rhone-Alpes,Organic Search,2024-12-28
+C03377,Ile-de-France,Organic Search,2024-07-27
+C03378,Grand Est,Direct,2024-02-10
+C03379,Auvergne-Rhone-Alpes,Paid Social,2024-01-04
+C03380,Grand Est,Paid Social,2024-03-04
+C03381,Ile-de-France,Paid Social,2024-01-25
+C03382,Hauts-de-France,Paid Social,2024-07-07
+C03383,Grand Est,Direct,2024-01-22
+C03384,Occitanie,Organic Search,2024-03-18
+C03385,Ile-de-France,Organic Search,2024-06-25
+C03386,Nouvelle-Aquitaine,Referral,2024-11-05
+C03387,Occitanie,Paid Social,2024-10-10
+C03388,Grand Est,Organic Search,2024-01-25
+C03389,Auvergne-Rhone-Alpes,Organic Search,2025-01-14
+C03390,Ile-de-France,Organic Search,2024-08-18
+C03391,Ile-de-France,Organic Search,2024-05-26
+C03392,Nouvelle-Aquitaine,Organic Search,2024-06-09
+C03393,Grand Est,Organic Search,2024-12-22
+C03394,Ile-de-France,Referral,2024-07-14
+C03395,Nouvelle-Aquitaine,Direct,2024-04-13
+C03396,Grand Est,Direct,2024-06-27
+C03397,Ile-de-France,Paid Social,2024-01-29
+C03398,Ile-de-France,Paid Social,2024-03-05
+C03399,Nouvelle-Aquitaine,Direct,2024-05-12
+C03400,Nouvelle-Aquitaine,Referral,2024-04-02
+C03401,Ile-de-France,Paid Social,2024-05-26
+C03402,Hauts-de-France,Organic Search,2024-01-28
+C03403,Occitanie,Paid Social,2024-09-13
+C03404,Grand Est,Paid Social,2024-02-18
+C03405,Hauts-de-France,Paid Social,2024-04-01
+C03406,Hauts-de-France,Organic Search,2025-02-14
+C03407,Occitanie,Direct,2024-01-03
+C03408,Ile-de-France,Email,2024-04-27
+C03409,Occitanie,Email,2024-07-29
+C03410,Ile-de-France,Organic Search,2024-05-08
+C03411,Nouvelle-Aquitaine,Referral,2024-05-14
+C03412,Ile-de-France,Referral,2024-02-23
+C03413,Occitanie,Organic Search,2024-06-26
+C03414,Ile-de-France,Email,2024-11-13
+C03415,Ile-de-France,Email,2024-09-03
+C03416,Ile-de-France,Direct,2025-01-23
+C03417,Occitanie,Organic Search,2024-10-20
+C03418,Hauts-de-France,Direct,2024-11-27
+C03419,Ile-de-France,Paid Social,2024-06-30
+C03420,Hauts-de-France,Organic Search,2024-09-14
+C03421,Hauts-de-France,Organic Search,2024-08-30
+C03422,Auvergne-Rhone-Alpes,Organic Search,2024-12-07
+C03423,Nouvelle-Aquitaine,Organic Search,2024-07-29
+C03424,Auvergne-Rhone-Alpes,Paid Social,2024-06-18
+C03425,Ile-de-France,Referral,2024-01-30
+C03426,Occitanie,Organic Search,2024-12-26
+C03427,Ile-de-France,Direct,2024-07-01
+C03428,Hauts-de-France,Organic Search,2024-12-01
+C03429,Grand Est,Email,2024-10-11
+C03430,Hauts-de-France,Direct,2024-01-01
+C03431,Occitanie,Direct,2024-09-30
+C03432,Occitanie,Email,2024-07-23
+C03433,Grand Est,Referral,2024-04-10
+C03434,Ile-de-France,Organic Search,2024-04-21
+C03435,Ile-de-France,Organic Search,2024-09-24
+C03436,Occitanie,Paid Social,2024-02-06
+C03437,Auvergne-Rhone-Alpes,Organic Search,2024-09-11
+C03438,Auvergne-Rhone-Alpes,Paid Social,2024-12-21
+C03439,Ile-de-France,Organic Search,2024-02-06
+C03440,Occitanie,Direct,2024-01-04
+C03441,Ile-de-France,Direct,2024-01-26
+C03442,Ile-de-France,Direct,2024-11-02
+C03443,Ile-de-France,Referral,2024-12-22
+C03444,Auvergne-Rhone-Alpes,Organic Search,2025-02-19
+C03445,Hauts-de-France,Organic Search,2024-01-13
+C03446,Auvergne-Rhone-Alpes,Email,2024-07-21
+C03447,Nouvelle-Aquitaine,Email,2024-01-21
+C03448,Nouvelle-Aquitaine,Paid Social,2024-06-04
+C03449,Auvergne-Rhone-Alpes,Paid Social,2024-05-09
+C03450,Hauts-de-France,Paid Social,2024-09-11
+C03451,Nouvelle-Aquitaine,Organic Search,2025-01-16
+C03452,Occitanie,Paid Social,2024-12-03
+C03453,Ile-de-France,Paid Social,2024-01-27
+C03454,Ile-de-France,Email,2024-04-10
+C03455,Grand Est,Direct,2024-04-25
+C03456,Hauts-de-France,Paid Social,2024-04-15
+C03457,Grand Est,Referral,2024-05-28
+C03458,Grand Est,Direct,2024-09-12
+C03459,Ile-de-France,Organic Search,2024-11-06
+C03460,Hauts-de-France,Email,2025-01-29
+C03461,Auvergne-Rhone-Alpes,Paid Social,2024-10-22
+C03462,Hauts-de-France,Email,2024-05-05
+C03463,Ile-de-France,Organic Search,2024-03-18
+C03464,Ile-de-France,Direct,2024-06-07
+C03465,Nouvelle-Aquitaine,Direct,2024-12-01
+C03466,Hauts-de-France,Organic Search,2025-02-21
+C03467,Occitanie,Organic Search,2024-06-13
+C03468,Ile-de-France,Organic Search,2024-03-15
+C03469,Ile-de-France,Referral,2024-01-03
+C03470,Grand Est,Email,2024-02-02
+C03471,Auvergne-Rhone-Alpes,Organic Search,2024-09-24
+C03472,Auvergne-Rhone-Alpes,Direct,2024-09-04
+C03473,Occitanie,Paid Social,2024-09-27
+C03474,Auvergne-Rhone-Alpes,Paid Social,2024-01-11
+C03475,Occitanie,Paid Social,2024-07-02
+C03476,Auvergne-Rhone-Alpes,Paid Social,2024-03-16
+C03477,Hauts-de-France,Paid Social,2024-05-21
+C03478,Grand Est,Organic Search,2024-09-18
+C03479,Grand Est,Paid Social,2024-04-25
+C03480,Occitanie,Direct,2024-10-03
+C03481,Auvergne-Rhone-Alpes,Paid Social,2024-05-01
+C03482,Nouvelle-Aquitaine,Direct,2024-08-02
+C03483,Hauts-de-France,Email,2024-07-11
+C03484,Occitanie,Referral,2024-06-10
+C03485,Nouvelle-Aquitaine,Organic Search,2024-02-22
+C03486,Nouvelle-Aquitaine,Referral,2024-08-30
+C03487,Nouvelle-Aquitaine,Organic Search,2025-02-19
+C03488,Nouvelle-Aquitaine,Organic Search,2024-09-27
+C03489,Ile-de-France,Organic Search,2024-11-09
+C03490,Occitanie,Organic Search,2024-12-03
+C03491,Occitanie,Direct,2024-01-17
+C03492,Ile-de-France,Direct,2024-11-28
+C03493,Hauts-de-France,Referral,2024-04-11
+C03494,Occitanie,Organic Search,2024-10-06
+C03495,Ile-de-France,Direct,2025-02-17
+C03496,Hauts-de-France,Referral,2025-01-10
+C03497,Nouvelle-Aquitaine,Paid Social,2024-06-23
+C03498,Nouvelle-Aquitaine,Paid Social,2024-12-17
+C03499,Auvergne-Rhone-Alpes,Email,2024-09-16
+C03500,Hauts-de-France,Organic Search,2024-02-25
+C03501,Auvergne-Rhone-Alpes,Paid Social,2024-04-10
+C03502,Occitanie,Referral,2025-02-05
+C03503,Ile-de-France,Organic Search,2025-01-19
+C03504,Nouvelle-Aquitaine,Paid Social,2025-01-09
+C03505,Nouvelle-Aquitaine,Paid Social,2024-06-10
+C03506,Occitanie,Referral,2024-05-14
+C03507,Occitanie,Direct,2024-12-04
+C03508,Hauts-de-France,Direct,2024-01-09
+C03509,Nouvelle-Aquitaine,Email,2025-01-11
+C03510,Ile-de-France,Email,2024-09-10
+C03511,Grand Est,Email,2024-09-22
+C03512,Nouvelle-Aquitaine,Paid Social,2024-07-03
+C03513,Grand Est,Organic Search,2025-02-15
+C03514,Grand Est,Email,2024-11-10
+C03515,Grand Est,Referral,2024-01-23
+C03516,Nouvelle-Aquitaine,Paid Social,2024-08-08
+C03517,Occitanie,Direct,2024-12-27
+C03518,Ile-de-France,Email,2024-02-02
+C03519,Occitanie,Paid Social,2024-11-05
+C03520,Hauts-de-France,Organic Search,2024-04-12
+C03521,Occitanie,Organic Search,2024-07-31
+C03522,Hauts-de-France,Paid Social,2025-01-05
+C03523,Ile-de-France,Paid Social,2024-07-25
+C03524,Auvergne-Rhone-Alpes,Organic Search,2024-01-16
+C03525,Occitanie,Organic Search,2024-01-09
+C03526,Auvergne-Rhone-Alpes,Organic Search,2024-11-05
+C03527,Ile-de-France,Referral,2025-01-25
+C03528,Ile-de-France,Referral,2024-05-02
+C03529,Hauts-de-France,Paid Social,2025-01-27
+C03530,Auvergne-Rhone-Alpes,Organic Search,2024-07-09
+C03531,Ile-de-France,Organic Search,2024-01-25
+C03532,Ile-de-France,Organic Search,2024-08-11
+C03533,Auvergne-Rhone-Alpes,Paid Social,2025-02-12
+C03534,Ile-de-France,Organic Search,2024-04-15
+C03535,Nouvelle-Aquitaine,Paid Social,2025-02-07
+C03536,Hauts-de-France,Direct,2024-09-30
+C03537,Ile-de-France,Paid Social,2024-06-15
+C03538,Occitanie,Direct,2024-10-18
+C03539,Ile-de-France,Organic Search,2024-06-17
+C03540,Ile-de-France,Organic Search,2024-02-05
+C03541,Grand Est,Direct,2024-12-31
+C03542,Occitanie,Paid Social,2024-06-06
+C03543,Grand Est,Email,2024-08-25
+C03544,Ile-de-France,Direct,2024-11-08
+C03545,Auvergne-Rhone-Alpes,Email,2024-02-04
+C03546,Auvergne-Rhone-Alpes,Paid Social,2024-10-30
+C03547,Auvergne-Rhone-Alpes,Paid Social,2024-06-02
+C03548,Grand Est,Organic Search,2024-08-16
+C03549,Ile-de-France,Organic Search,2024-07-10
+C03550,Hauts-de-France,Organic Search,2024-11-22
+C03551,Hauts-de-France,Direct,2024-03-19
+C03552,Occitanie,Email,2024-02-15
+C03553,Auvergne-Rhone-Alpes,Organic Search,2024-06-21
+C03554,Occitanie,Organic Search,2024-02-19
+C03555,Ile-de-France,Email,2024-04-11
+C03556,Hauts-de-France,Direct,2024-10-03
+C03557,Occitanie,Organic Search,2024-12-09
+C03558,Grand Est,Paid Social,2024-10-18
+C03559,Occitanie,Direct,2024-05-13
+C03560,Occitanie,Direct,2024-12-08
+C03561,Nouvelle-Aquitaine,Direct,2024-06-19
+C03562,Occitanie,Organic Search,2024-03-17
+C03563,Grand Est,Organic Search,2024-11-13
+C03564,Ile-de-France,Paid Social,2024-08-05
+C03565,Grand Est,Organic Search,2024-06-04
+C03566,Hauts-de-France,Direct,2024-10-04
+C03567,Hauts-de-France,Organic Search,2024-10-31
+C03568,Auvergne-Rhone-Alpes,Email,2024-04-03
+C03569,Hauts-de-France,Direct,2024-02-19
+C03570,Ile-de-France,Direct,2024-08-05
+C03571,Hauts-de-France,Email,2024-01-22
+C03572,Ile-de-France,Direct,2024-09-25
+C03573,Ile-de-France,Organic Search,2024-07-03
+C03574,Auvergne-Rhone-Alpes,Paid Social,2024-03-31
+C03575,Auvergne-Rhone-Alpes,Organic Search,2024-09-08
+C03576,Auvergne-Rhone-Alpes,Direct,2024-06-06
+C03577,Hauts-de-France,Direct,2024-06-12
+C03578,Ile-de-France,Organic Search,2024-03-31
+C03579,Nouvelle-Aquitaine,Organic Search,2024-10-10
+C03580,Ile-de-France,Paid Social,2025-01-14
+C03581,Hauts-de-France,Organic Search,2024-09-16
+C03582,Hauts-de-France,Direct,2024-04-09
+C03583,Auvergne-Rhone-Alpes,Organic Search,2024-12-16
+C03584,Nouvelle-Aquitaine,Referral,2024-02-20
+C03585,Grand Est,Email,2024-05-01
+C03586,Hauts-de-France,Paid Social,2024-01-15
+C03587,Auvergne-Rhone-Alpes,Organic Search,2024-12-22
+C03588,Auvergne-Rhone-Alpes,Direct,2024-01-19
+C03589,Hauts-de-France,Email,2024-08-17
+C03590,Ile-de-France,Paid Social,2024-03-21
+C03591,Hauts-de-France,Paid Social,2024-03-30
+C03592,Auvergne-Rhone-Alpes,Direct,2024-09-12
+C03593,Hauts-de-France,Direct,2024-12-03
+C03594,Ile-de-France,Direct,2024-01-08
+C03595,Ile-de-France,Email,2024-03-07
+C03596,Grand Est,Direct,2024-04-30
+C03597,Hauts-de-France,Organic Search,2025-01-31
+C03598,Grand Est,Referral,2024-01-25
+C03599,Grand Est,Paid Social,2024-03-15
+C03600,Auvergne-Rhone-Alpes,Email,2024-06-18
+C03601,Ile-de-France,Direct,2024-05-16
+C03602,Ile-de-France,Direct,2024-01-21
+C03603,Occitanie,Paid Social,2024-08-14
+C03604,Ile-de-France,Email,2024-09-12
+C03605,Grand Est,Direct,2024-03-15
+C03606,Ile-de-France,Direct,2024-10-16
+C03607,Ile-de-France,Referral,2024-01-24
+C03608,Ile-de-France,Organic Search,2024-11-03
+C03609,Ile-de-France,Paid Social,2024-04-18
+C03610,Ile-de-France,Direct,2024-04-04
+C03611,Nouvelle-Aquitaine,Referral,2024-03-23
+C03612,Auvergne-Rhone-Alpes,Referral,2024-12-30
+C03613,Occitanie,Email,2024-07-29
+C03614,Grand Est,Paid Social,2024-10-16
+C03615,Occitanie,Paid Social,2024-03-26
+C03616,Nouvelle-Aquitaine,Direct,2024-01-24
+C03617,Auvergne-Rhone-Alpes,Organic Search,2024-01-17
+C03618,Ile-de-France,Email,2024-07-04
+C03619,Auvergne-Rhone-Alpes,Referral,2024-05-17
+C03620,Grand Est,Direct,2024-11-18
+C03621,Occitanie,Paid Social,2024-11-27
+C03622,Ile-de-France,Referral,2024-05-10
+C03623,Auvergne-Rhone-Alpes,Organic Search,2024-07-01
+C03624,Hauts-de-France,Organic Search,2024-06-09
+C03625,Nouvelle-Aquitaine,Paid Social,2024-10-10
+C03626,Occitanie,Organic Search,2024-09-21
+C03627,Grand Est,Direct,2024-09-30
+C03628,Nouvelle-Aquitaine,Direct,2024-01-24
+C03629,Nouvelle-Aquitaine,Organic Search,2024-05-21
+C03630,Ile-de-France,Direct,2025-02-10
+C03631,Ile-de-France,Paid Social,2024-05-23
+C03632,Grand Est,Referral,2024-03-14
+C03633,Occitanie,Direct,2024-03-24
+C03634,Auvergne-Rhone-Alpes,Email,2024-01-12
+C03635,Occitanie,Organic Search,2024-11-23
+C03636,Ile-de-France,Organic Search,2024-01-03
+C03637,Hauts-de-France,Paid Social,2024-09-07
+C03638,Ile-de-France,Direct,2024-06-16
+C03639,Hauts-de-France,Email,2024-02-09
+C03640,Occitanie,Paid Social,2025-01-06
+C03641,Ile-de-France,Organic Search,2024-11-07
+C03642,Ile-de-France,Direct,2024-12-10
+C03643,Hauts-de-France,Paid Social,2025-01-28
+C03644,Ile-de-France,Referral,2025-01-18
+C03645,Ile-de-France,Email,2024-10-21
+C03646,Nouvelle-Aquitaine,Organic Search,2024-08-12
+C03647,Auvergne-Rhone-Alpes,Organic Search,2024-10-19
+C03648,Auvergne-Rhone-Alpes,Paid Social,2024-07-07
+C03649,Ile-de-France,Paid Social,2024-03-17
+C03650,Hauts-de-France,Referral,2024-06-11
+C03651,Ile-de-France,Direct,2024-07-15
+C03652,Ile-de-France,Organic Search,2024-01-20
+C03653,Ile-de-France,Paid Social,2024-12-21
+C03654,Ile-de-France,Organic Search,2025-01-16
+C03655,Ile-de-France,Organic Search,2024-06-25
+C03656,Ile-de-France,Referral,2024-07-27
+C03657,Ile-de-France,Referral,2024-12-19
+C03658,Auvergne-Rhone-Alpes,Referral,2024-07-10
+C03659,Hauts-de-France,Organic Search,2024-10-16
+C03660,Ile-de-France,Email,2024-08-04
+C03661,Ile-de-France,Paid Social,2024-04-23
+C03662,Grand Est,Direct,2024-11-29
+C03663,Grand Est,Email,2024-03-21
+C03664,Nouvelle-Aquitaine,Direct,2024-04-04
+C03665,Ile-de-France,Organic Search,2024-10-17
+C03666,Auvergne-Rhone-Alpes,Paid Social,2024-10-25
+C03667,Ile-de-France,Referral,2025-02-04
+C03668,Ile-de-France,Paid Social,2024-10-25
+C03669,Auvergne-Rhone-Alpes,Email,2024-01-11
+C03670,Occitanie,Paid Social,2024-12-22
+C03671,Auvergne-Rhone-Alpes,Direct,2024-06-22
+C03672,Occitanie,Organic Search,2024-01-04
+C03673,Ile-de-France,Direct,2024-08-31
+C03674,Auvergne-Rhone-Alpes,Paid Social,2024-03-12
+C03675,Hauts-de-France,Paid Social,2024-06-23
+C03676,Hauts-de-France,Paid Social,2024-07-16
+C03677,Auvergne-Rhone-Alpes,Organic Search,2024-02-01
+C03678,Occitanie,Direct,2024-12-23
+C03679,Ile-de-France,Direct,2024-08-02
+C03680,Ile-de-France,Direct,2025-02-09
+C03681,Nouvelle-Aquitaine,Direct,2024-07-14
+C03682,Ile-de-France,Email,2024-09-06
+C03683,Auvergne-Rhone-Alpes,Paid Social,2024-12-07
+C03684,Auvergne-Rhone-Alpes,Direct,2024-03-30
+C03685,Ile-de-France,Organic Search,2025-01-16
+C03686,Ile-de-France,Direct,2024-03-18
+C03687,Auvergne-Rhone-Alpes,Paid Social,2025-02-22
+C03688,Grand Est,Email,2024-09-25
+C03689,Occitanie,Paid Social,2024-08-05
+C03690,Auvergne-Rhone-Alpes,Paid Social,2024-03-29
+C03691,Ile-de-France,Organic Search,2024-08-27
+C03692,Occitanie,Paid Social,2024-08-20
+C03693,Ile-de-France,Paid Social,2025-02-17
+C03694,Occitanie,Organic Search,2024-12-16
+C03695,Nouvelle-Aquitaine,Organic Search,2024-07-21
+C03696,Auvergne-Rhone-Alpes,Email,2024-06-12
+C03697,Ile-de-France,Paid Social,2024-06-11
+C03698,Ile-de-France,Direct,2024-06-07
+C03699,Ile-de-France,Organic Search,2024-01-06
+C03700,Auvergne-Rhone-Alpes,Email,2024-01-16
+C03701,Grand Est,Organic Search,2024-11-11
+C03702,Ile-de-France,Paid Social,2024-04-16
+C03703,Occitanie,Email,2024-06-21
+C03704,Nouvelle-Aquitaine,Email,2024-10-20
+C03705,Ile-de-France,Paid Social,2024-09-12
+C03706,Ile-de-France,Paid Social,2024-05-31
+C03707,Auvergne-Rhone-Alpes,Organic Search,2024-11-12
+C03708,Nouvelle-Aquitaine,Paid Social,2024-03-07
+C03709,Auvergne-Rhone-Alpes,Paid Social,2024-07-17
+C03710,Nouvelle-Aquitaine,Email,2024-02-14
+C03711,Hauts-de-France,Paid Social,2024-08-11
+C03712,Nouvelle-Aquitaine,Referral,2024-02-09
+C03713,Grand Est,Paid Social,2025-01-30
+C03714,Nouvelle-Aquitaine,Organic Search,2024-10-03
+C03715,Hauts-de-France,Organic Search,2024-04-13
+C03716,Hauts-de-France,Organic Search,2024-09-14
+C03717,Nouvelle-Aquitaine,Paid Social,2024-05-26
+C03718,Hauts-de-France,Direct,2024-08-05
+C03719,Grand Est,Referral,2024-03-11
+C03720,Auvergne-Rhone-Alpes,Paid Social,2024-07-29
+C03721,Nouvelle-Aquitaine,Organic Search,2024-02-14
+C03722,Occitanie,Direct,2024-03-05
+C03723,Hauts-de-France,Organic Search,2024-09-02
+C03724,Auvergne-Rhone-Alpes,Paid Social,2024-07-29
+C03725,Hauts-de-France,Direct,2024-05-03
+C03726,Hauts-de-France,Paid Social,2024-01-26
+C03727,Grand Est,Organic Search,2024-06-26
+C03728,Ile-de-France,Organic Search,2025-01-23
+C03729,Nouvelle-Aquitaine,Email,2024-10-24
+C03730,Nouvelle-Aquitaine,Organic Search,2024-01-25
+C03731,Grand Est,Email,2025-01-28
+C03732,Grand Est,Paid Social,2024-06-26
+C03733,Occitanie,Paid Social,2024-08-29
+C03734,Occitanie,Organic Search,2024-01-01
+C03735,Ile-de-France,Direct,2024-05-10
+C03736,Grand Est,Paid Social,2024-11-26
+C03737,Ile-de-France,Referral,2024-05-18
+C03738,Nouvelle-Aquitaine,Paid Social,2024-03-10
+C03739,Hauts-de-France,Organic Search,2024-02-08
+C03740,Auvergne-Rhone-Alpes,Paid Social,2025-01-23
+C03741,Ile-de-France,Paid Social,2024-12-07
+C03742,Ile-de-France,Paid Social,2024-01-19
+C03743,Hauts-de-France,Direct,2025-01-23
+C03744,Occitanie,Direct,2024-12-10
+C03745,Ile-de-France,Referral,2024-05-31
+C03746,Nouvelle-Aquitaine,Email,2024-10-02
+C03747,Ile-de-France,Paid Social,2024-04-18
+C03748,Hauts-de-France,Email,2024-04-14
+C03749,Ile-de-France,Organic Search,2024-10-27
+C03750,Ile-de-France,Direct,2024-03-26
+C03751,Ile-de-France,Direct,2024-05-29
+C03752,Occitanie,Organic Search,2024-05-30
+C03753,Auvergne-Rhone-Alpes,Direct,2024-03-04
+C03754,Nouvelle-Aquitaine,Direct,2024-12-13
+C03755,Auvergne-Rhone-Alpes,Paid Social,2024-10-10
+C03756,Auvergne-Rhone-Alpes,Direct,2024-12-28
+C03757,Ile-de-France,Organic Search,2024-08-08
+C03758,Ile-de-France,Organic Search,2024-03-14
+C03759,Grand Est,Paid Social,2024-04-27
+C03760,Ile-de-France,Email,2024-05-28
+C03761,Grand Est,Paid Social,2025-01-30
+C03762,Auvergne-Rhone-Alpes,Direct,2024-04-09
+C03763,Ile-de-France,Organic Search,2024-10-18
+C03764,Ile-de-France,Organic Search,2024-02-21
+C03765,Ile-de-France,Email,2025-02-05
+C03766,Hauts-de-France,Organic Search,2024-09-28
+C03767,Occitanie,Referral,2024-06-29
+C03768,Auvergne-Rhone-Alpes,Paid Social,2024-05-25
+C03769,Nouvelle-Aquitaine,Direct,2024-05-28
+C03770,Nouvelle-Aquitaine,Email,2024-04-04
+C03771,Grand Est,Organic Search,2024-09-08
+C03772,Grand Est,Organic Search,2024-12-29
+C03773,Nouvelle-Aquitaine,Organic Search,2024-04-11
+C03774,Hauts-de-France,Direct,2024-11-10
+C03775,Hauts-de-France,Email,2024-08-25
+C03776,Occitanie,Paid Social,2024-11-20
+C03777,Nouvelle-Aquitaine,Organic Search,2024-11-19
+C03778,Ile-de-France,Direct,2024-01-17
+C03779,Nouvelle-Aquitaine,Organic Search,2024-01-09
+C03780,Grand Est,Referral,2025-01-19
+C03781,Ile-de-France,Referral,2024-03-06
+C03782,Hauts-de-France,Organic Search,2024-08-29
+C03783,Grand Est,Paid Social,2024-11-12
+C03784,Ile-de-France,Organic Search,2024-07-30
+C03785,Occitanie,Paid Social,2024-01-03
+C03786,Grand Est,Direct,2024-01-05
+C03787,Grand Est,Email,2024-10-08
+C03788,Ile-de-France,Direct,2025-01-12
+C03789,Auvergne-Rhone-Alpes,Paid Social,2024-05-24
+C03790,Nouvelle-Aquitaine,Organic Search,2024-08-16
+C03791,Ile-de-France,Referral,2025-01-27
+C03792,Auvergne-Rhone-Alpes,Paid Social,2024-12-12
+C03793,Ile-de-France,Organic Search,2024-08-15
+C03794,Ile-de-France,Paid Social,2024-10-02
+C03795,Occitanie,Email,2025-02-07
+C03796,Nouvelle-Aquitaine,Referral,2024-11-30
+C03797,Nouvelle-Aquitaine,Organic Search,2024-06-23
+C03798,Hauts-de-France,Direct,2024-10-18
+C03799,Auvergne-Rhone-Alpes,Paid Social,2024-05-18
+C03800,Ile-de-France,Organic Search,2025-01-21
+C03801,Ile-de-France,Organic Search,2024-02-09
+C03802,Ile-de-France,Direct,2024-04-04
+C03803,Ile-de-France,Paid Social,2024-05-25
+C03804,Ile-de-France,Paid Social,2024-03-25
+C03805,Ile-de-France,Organic Search,2024-09-06
+C03806,Ile-de-France,Email,2024-10-26
+C03807,Nouvelle-Aquitaine,Referral,2025-01-08
+C03808,Occitanie,Paid Social,2024-07-29
+C03809,Grand Est,Direct,2024-09-17
+C03810,Hauts-de-France,Organic Search,2024-09-08
+C03811,Occitanie,Organic Search,2024-01-02
+C03812,Ile-de-France,Email,2024-10-24
+C03813,Occitanie,Referral,2024-01-10
+C03814,Ile-de-France,Organic Search,2024-08-17
+C03815,Auvergne-Rhone-Alpes,Email,2025-02-23
+C03816,Auvergne-Rhone-Alpes,Paid Social,2024-11-26
+C03817,Auvergne-Rhone-Alpes,Email,2024-07-31
+C03818,Ile-de-France,Email,2024-05-13
+C03819,Nouvelle-Aquitaine,Direct,2024-12-17
+C03820,Hauts-de-France,Paid Social,2024-12-26
+C03821,Hauts-de-France,Email,2024-06-03
+C03822,Occitanie,Email,2024-02-15
+C03823,Occitanie,Paid Social,2024-09-01
+C03824,Ile-de-France,Organic Search,2024-09-23
+C03825,Nouvelle-Aquitaine,Direct,2025-01-27
+C03826,Occitanie,Organic Search,2025-01-08
+C03827,Ile-de-France,Referral,2024-04-06
+C03828,Auvergne-Rhone-Alpes,Organic Search,2024-04-16
+C03829,Grand Est,Direct,2025-02-22
+C03830,Occitanie,Organic Search,2024-05-17
+C03831,Auvergne-Rhone-Alpes,Direct,2024-07-11
+C03832,Occitanie,Email,2024-05-08
+C03833,Auvergne-Rhone-Alpes,Organic Search,2024-06-14
+C03834,Auvergne-Rhone-Alpes,Email,2024-08-24
+C03835,Ile-de-France,Email,2024-05-02
+C03836,Auvergne-Rhone-Alpes,Paid Social,2024-06-22
+C03837,Nouvelle-Aquitaine,Organic Search,2024-05-28
+C03838,Ile-de-France,Referral,2024-02-15
+C03839,Hauts-de-France,Referral,2024-11-26
+C03840,Ile-de-France,Paid Social,2025-01-09
+C03841,Nouvelle-Aquitaine,Direct,2024-07-25
+C03842,Nouvelle-Aquitaine,Organic Search,2024-03-26
+C03843,Nouvelle-Aquitaine,Organic Search,2024-09-27
+C03844,Occitanie,Email,2024-08-12
+C03845,Grand Est,Organic Search,2024-08-19
+C03846,Occitanie,Organic Search,2024-09-06
+C03847,Nouvelle-Aquitaine,Paid Social,2024-10-28
+C03848,Nouvelle-Aquitaine,Organic Search,2024-01-18
+C03849,Ile-de-France,Organic Search,2024-02-11
+C03850,Ile-de-France,Referral,2024-02-10
+C03851,Auvergne-Rhone-Alpes,Paid Social,2024-03-05
+C03852,Ile-de-France,Direct,2025-02-12
+C03853,Auvergne-Rhone-Alpes,Email,2024-11-02
+C03854,Auvergne-Rhone-Alpes,Paid Social,2024-10-06
+C03855,Occitanie,Organic Search,2024-10-20
+C03856,Ile-de-France,Referral,2024-01-15
+C03857,Hauts-de-France,Organic Search,2024-03-30
+C03858,Auvergne-Rhone-Alpes,Organic Search,2024-11-29
+C03859,Nouvelle-Aquitaine,Direct,2024-07-13
+C03860,Ile-de-France,Referral,2024-08-01
+C03861,Auvergne-Rhone-Alpes,Email,2024-11-11
+C03862,Ile-de-France,Organic Search,2024-02-01
+C03863,Nouvelle-Aquitaine,Organic Search,2024-12-01
+C03864,Auvergne-Rhone-Alpes,Paid Social,2024-10-12
+C03865,Grand Est,Referral,2024-06-18
+C03866,Auvergne-Rhone-Alpes,Paid Social,2024-07-28
+C03867,Occitanie,Organic Search,2024-02-01
+C03868,Ile-de-France,Organic Search,2024-03-27
+C03869,Occitanie,Email,2024-04-13
+C03870,Auvergne-Rhone-Alpes,Email,2025-01-03
+C03871,Auvergne-Rhone-Alpes,Organic Search,2024-02-17
+C03872,Ile-de-France,Organic Search,2024-05-02
+C03873,Ile-de-France,Organic Search,2024-02-25
+C03874,Ile-de-France,Organic Search,2024-04-29
+C03875,Grand Est,Paid Social,2024-01-05
+C03876,Auvergne-Rhone-Alpes,Organic Search,2024-04-24
+C03877,Ile-de-France,Email,2024-10-30
+C03878,Grand Est,Referral,2024-11-18
+C03879,Ile-de-France,Direct,2024-06-08
+C03880,Auvergne-Rhone-Alpes,Direct,2024-10-23
+C03881,Nouvelle-Aquitaine,Organic Search,2024-09-16
+C03882,Grand Est,Organic Search,2025-01-14
+C03883,Nouvelle-Aquitaine,Paid Social,2024-12-03
+C03884,Auvergne-Rhone-Alpes,Referral,2024-04-06
+C03885,Grand Est,Organic Search,2024-09-04
+C03886,Ile-de-France,Paid Social,2024-11-26
+C03887,Grand Est,Organic Search,2024-05-08
+C03888,Hauts-de-France,Organic Search,2024-08-28
+C03889,Grand Est,Referral,2024-06-17
+C03890,Ile-de-France,Email,2024-05-09
+C03891,Ile-de-France,Paid Social,2024-03-24
+C03892,Nouvelle-Aquitaine,Direct,2024-01-15
+C03893,Occitanie,Organic Search,2024-11-10
+C03894,Occitanie,Organic Search,2024-12-09
+C03895,Grand Est,Paid Social,2024-09-30
+C03896,Occitanie,Email,2024-04-11
+C03897,Ile-de-France,Email,2024-01-08
+C03898,Auvergne-Rhone-Alpes,Organic Search,2024-09-22
+C03899,Ile-de-France,Direct,2024-03-24
+C03900,Ile-de-France,Paid Social,2024-08-18
+C03901,Ile-de-France,Paid Social,2025-02-11
+C03902,Hauts-de-France,Email,2024-01-02
+C03903,Nouvelle-Aquitaine,Direct,2024-08-30
+C03904,Occitanie,Email,2025-02-21
+C03905,Auvergne-Rhone-Alpes,Direct,2024-05-20
+C03906,Nouvelle-Aquitaine,Organic Search,2024-12-08
+C03907,Hauts-de-France,Email,2024-12-13
+C03908,Grand Est,Direct,2024-07-23
+C03909,Occitanie,Paid Social,2024-05-08
+C03910,Hauts-de-France,Paid Social,2024-10-12
+C03911,Occitanie,Direct,2024-09-17
+C03912,Auvergne-Rhone-Alpes,Organic Search,2024-07-19
+C03913,Hauts-de-France,Paid Social,2024-03-21
+C03914,Auvergne-Rhone-Alpes,Direct,2024-11-08
+C03915,Auvergne-Rhone-Alpes,Direct,2024-03-29
+C03916,Ile-de-France,Direct,2024-02-26
+C03917,Occitanie,Direct,2024-01-29
+C03918,Occitanie,Organic Search,2024-07-06
+C03919,Nouvelle-Aquitaine,Direct,2024-02-20
+C03920,Auvergne-Rhone-Alpes,Paid Social,2024-05-20
+C03921,Ile-de-France,Email,2024-04-11
+C03922,Hauts-de-France,Paid Social,2024-07-12
+C03923,Auvergne-Rhone-Alpes,Direct,2024-11-22
+C03924,Grand Est,Email,2024-07-08
+C03925,Ile-de-France,Direct,2024-08-21
+C03926,Occitanie,Organic Search,2024-03-01
+C03927,Occitanie,Organic Search,2024-02-17
+C03928,Hauts-de-France,Paid Social,2025-02-14
+C03929,Ile-de-France,Organic Search,2024-09-17
+C03930,Grand Est,Email,2024-01-07
+C03931,Occitanie,Organic Search,2024-08-25
+C03932,Occitanie,Email,2024-01-05
+C03933,Occitanie,Organic Search,2024-02-02
+C03934,Ile-de-France,Organic Search,2024-06-05
+C03935,Occitanie,Email,2024-10-02
+C03936,Ile-de-France,Paid Social,2024-09-17
+C03937,Auvergne-Rhone-Alpes,Organic Search,2024-11-28
+C03938,Nouvelle-Aquitaine,Organic Search,2024-03-16
+C03939,Occitanie,Organic Search,2024-03-21
+C03940,Ile-de-France,Email,2024-08-11
+C03941,Ile-de-France,Organic Search,2024-12-30
+C03942,Ile-de-France,Paid Social,2024-10-30
+C03943,Ile-de-France,Email,2024-10-08
+C03944,Occitanie,Paid Social,2024-02-09
+C03945,Ile-de-France,Email,2025-01-03
+C03946,Grand Est,Organic Search,2025-02-17
+C03947,Ile-de-France,Direct,2024-09-01
+C03948,Ile-de-France,Paid Social,2024-05-21
+C03949,Hauts-de-France,Organic Search,2024-10-05
+C03950,Ile-de-France,Direct,2024-09-26
+C03951,Auvergne-Rhone-Alpes,Email,2025-01-25
+C03952,Grand Est,Email,2024-02-16
+C03953,Grand Est,Direct,2024-08-04
+C03954,Nouvelle-Aquitaine,Organic Search,2024-10-24
+C03955,Ile-de-France,Direct,2024-05-26
+C03956,Occitanie,Email,2024-12-18
+C03957,Grand Est,Paid Social,2024-01-28
+C03958,Grand Est,Organic Search,2024-02-14
+C03959,Ile-de-France,Organic Search,2024-11-28
+C03960,Auvergne-Rhone-Alpes,Direct,2024-02-22
+C03961,Ile-de-France,Organic Search,2024-06-24
+C03962,Ile-de-France,Organic Search,2024-04-28
+C03963,Nouvelle-Aquitaine,Email,2024-10-16
+C03964,Ile-de-France,Referral,2024-01-06
+C03965,Auvergne-Rhone-Alpes,Organic Search,2024-05-29
+C03966,Ile-de-France,Direct,2025-02-18
+C03967,Occitanie,Paid Social,2024-06-03
+C03968,Ile-de-France,Direct,2024-09-08
+C03969,Auvergne-Rhone-Alpes,Organic Search,2025-02-18
+C03970,Ile-de-France,Organic Search,2024-09-12
+C03971,Grand Est,Email,2024-11-13
+C03972,Ile-de-France,Organic Search,2025-02-06
+C03973,Occitanie,Paid Social,2024-09-16
+C03974,Ile-de-France,Organic Search,2024-12-15
+C03975,Ile-de-France,Referral,2024-08-01
+C03976,Ile-de-France,Direct,2024-12-07
+C03977,Ile-de-France,Direct,2024-09-26
+C03978,Ile-de-France,Direct,2024-05-22
+C03979,Occitanie,Direct,2024-08-22
+C03980,Nouvelle-Aquitaine,Paid Social,2024-05-20
+C03981,Ile-de-France,Paid Social,2024-06-15
+C03982,Auvergne-Rhone-Alpes,Direct,2024-05-02
+C03983,Occitanie,Direct,2024-07-25
+C03984,Ile-de-France,Direct,2024-05-25
+C03985,Auvergne-Rhone-Alpes,Referral,2024-09-19
+C03986,Ile-de-France,Organic Search,2024-06-04
+C03987,Ile-de-France,Direct,2024-07-25
+C03988,Auvergne-Rhone-Alpes,Direct,2024-02-28
+C03989,Grand Est,Email,2024-06-11
+C03990,Grand Est,Direct,2024-05-29
+C03991,Grand Est,Email,2025-02-07
+C03992,Auvergne-Rhone-Alpes,Direct,2024-07-06
+C03993,Ile-de-France,Organic Search,2024-01-10
+C03994,Auvergne-Rhone-Alpes,Direct,2024-05-09
+C03995,Ile-de-France,Organic Search,2024-11-02
+C03996,Ile-de-France,Paid Social,2024-03-10
+C03997,Ile-de-France,Organic Search,2024-03-09
+C03998,Auvergne-Rhone-Alpes,Paid Social,2024-06-05
+C03999,Auvergne-Rhone-Alpes,Organic Search,2024-05-29
+C04000,Ile-de-France,Direct,2024-07-20

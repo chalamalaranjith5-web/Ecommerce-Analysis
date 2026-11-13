@@ -1,0 +1,7 @@
+region,orders,revenue,late_delivery_pct,avg_review
+Ile-de-France,4404,556238.0,33.2,4.06
+Occitanie,1742,219160.0,57.9,3.7
+Auvergne-Rhone-Alpes,1631,203688.0,28.8,4.11
+Hauts-de-France,1381,176761.0,32.4,4.03
+Nouvelle-Aquitaine,1234,160039.0,60.1,3.66
+Grand Est,1249,150286.0,33.3,4.07

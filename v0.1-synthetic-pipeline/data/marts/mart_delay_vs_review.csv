@@ -1,0 +1,5 @@
+delay_bucket,orders,avg_review,bad_review_pct
+0 (on time),6947,4.34,0.3
+1-2 days,3001,3.72,5.1
+3-4 days,1185,2.89,29.6
+5+ days,266,1.98,76.3
